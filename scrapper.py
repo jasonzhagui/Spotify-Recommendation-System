@@ -119,6 +119,7 @@ def getAudioFeatures(dataset):
 
 
 def search():
+    #dataset 
     d = {
     'artist': [], 
     'album': [], 
@@ -140,43 +141,60 @@ def search():
 
     artists = ["Travis Scott", "Lil Uzi Vert", "Kanye West", "Katy Perry", "Bruno Mars"]
 
-    for term in artists:
-        results = sp.search(term,1, 0, "artist")
-        artist_name = term #ARTIST NAME 
-        uri = results['artists']['items'][0]['uri'].encode('utf-8')
+    for artist in artists:
 
+        #Search artist in spotify
+        results = sp.search(artist,1, 0, "artist")
+        #Artist Name
+        artist_name = artist
+
+        #Get artist URI
+        uri = results['artists']['items'][0]['uri'].encode('utf-8') 
+
+        #Get albums using artist URI
         results = sp.artist_albums(uri,album_type = 'album', country='US', limit=1)
         albums = results['items']
 
+        #Get all albums due to spotify count limit
         while results['next']:
             results = sp.next(results)
             albums.extend(results['items'])
 
+        #Get singles using artist URI
         results = sp.artist_albums(uri,album_type = 'single', country='US', limit=1)
         singles = results['items']
+
+        #Get all singles due to spotify count limit
         while results['next']:
             results = sp.next(results)
             singles.extend(results['items'])
-
+        
         albums+=singles
 
+        #Using album list look at each album
         for album in albums:
+            #Avoids adding non explicit version as dupe
             if (album['name'].encode('utf-8') not in d['album']):
-
-                album_name = album['name'].encode('utf-8') #ALBUM NAME
-
+                #Album name
+                album_name = album['name'].encode('utf-8') 
+                #Album URI 
                 uri = album['uri'].encode('utf-8')
+                #Get all tracks using Album URI 
                 results = sp.album_tracks(uri)
                 tracks = results['items']
 
+                #Using track list look at each track
                 for track in tracks:
-
-                    song_name = track['name'].encode('utf-8') #SONG NAME
+                    #Song Name
+                    song_name = track['name'].encode('utf-8')
                     print(song_name)
-                    track_uri = track['id'].encode('utf-8') #TRACK URI 
-        
+                    #Track URI
+                    track_uri = track['id'].encode('utf-8')
+
+                    #Get attributes of each song using track URI
                     attributes = sp.audio_features(track_uri)
         
+                    #Add every info captured per song into database
                     d['track'].append(song_name)
                     d['id'].append(track_uri.encode('utf-8'))
                     d['artist'].append(artist_name)
@@ -193,9 +211,7 @@ def search():
                     d['duration_ms'].append(attributes[0]["duration_ms"])
                     d['loudness'].append(attributes[0]["loudness"])
                     d['valence'].append(attributes[0]["valence"])
-
-
-                
+ 
     df = pd.DataFrame(d, columns = columns)
 
     df.to_csv('dataset.csv', index = False)
