@@ -1,0 +1,977 @@
+artist,album,track,id,energy,liveness,tempo,speechiness,acousticness,instrumentalness,time_signature,danceability,key,duration_ms,loudness,valence
+Travis Scott,JACKBOYS,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,7h0d2h0fUmzbs7zeFigJPn,0.491,0.0992,153.131,0.0346,0.0567,0.0,4,0.559,2,244874,-6.406,0.114
+Travis Scott,JACKBOYS,JACKBOYS,62zKJrpbLxz6InR3tGyr7o,0.13,0.111,123.342,0.0336,0.9,0.82,1,0.413,0,46837,-25.166,0.0676
+Travis Scott,JACKBOYS,GANG GANG,6uJONCdr2rC65BNmCnTBWK,0.6,0.353,123.017,0.301,0.071,0.0,4,0.859,7,244761,-4.63,0.568
+Travis Scott,JACKBOYS,HAD ENOUGH (feat. Quavo & Offset),7LGWmZaoS7jZJ5tEi9EcDi,0.789,0.129,147.957,0.108,0.253,0.0,4,0.75,2,157133,-4.578,0.673
+Travis Scott,JACKBOYS,OUT WEST (feat. Young Thug),6gi6y1xwmVszDWkUqab1qw,0.591,0.196,139.864,0.225,0.0104,0.0,4,0.802,8,157712,-4.895,0.309
+Travis Scott,JACKBOYS,WHAT TO DO? (feat. Don Toliver),4AO1XhrgJczQ9bNVxdfKQe,0.594,0.115,118.037,0.0312,0.0695,1.46e-05,4,0.643,9,250142,-5.191,0.195
+Travis Scott,JACKBOYS,GATTI,40mjsnRjCpycdUw3xhS20g,0.676,0.163,143.477,0.344,0.135,0.0,4,0.594,2,181145,-5.808,0.472
+Travis Scott,ASTROWORLD,STARGAZING,7wBJfHzpfI3032CSD7CE2m,0.789,0.189,150.007,0.044,0.00947,4.05e-06,4,0.487,8,270715,-3.69,0.0564
+Travis Scott,ASTROWORLD,CAROUSEL,7KZ5MMVgBVox9ycroB2UrI,0.403,0.22,95.387,0.209,0.229,0.0,5,0.428,5,180183,-5.914,0.133
+Travis Scott,ASTROWORLD,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,0.73,0.124,155.008,0.222,0.00513,0.0,4,0.834,8,312820,-3.714,0.446
+Travis Scott,ASTROWORLD,R.I.P. SCREW,4SZepBIPDRwPaHIjAKwRDb,0.609,0.111,74.946,0.291,0.389,1.6e-05,4,0.607,0,185610,-5.978,0.556
+Travis Scott,ASTROWORLD,STOP TRYING TO BE GOD,1xYpVRspgaLxdJLOTQkTjg,0.567,0.135,150.009,0.0628,0.221,0.0,4,0.588,4,338438,-3.738,0.113
+Travis Scott,ASTROWORLD,NO BYSTANDERS,6OaVWaGfhXn70ZJfdVcabn,0.811,0.411,147.045,0.0712,0.0204,0.0,4,0.731,1,218284,-3.225,0.426
+Travis Scott,ASTROWORLD,SKELETONS,6NMtzpDQBTOfJwMzgMX0zl,0.686,0.375,148.054,0.0367,0.00146,0.0,4,0.46,0,145588,-5.948,0.252
+Travis Scott,ASTROWORLD,WAKE UP,20MuVazoNMv6xjKPnRFOxG,0.645,0.163,149.07,0.0963,0.192,0.0,4,0.741,11,231964,-5.116,0.488
+Travis Scott,ASTROWORLD,5% TINT,11kDth1aKUEUMq9r1pqyds,0.481,0.241,140.0,0.0487,0.173,0.0,4,0.712,4,196138,-5.415,0.062
+Travis Scott,ASTROWORLD,NC-17,6BJbOXDlgVAXSaq6wYFYT2,0.763,0.368,136.052,0.0519,0.0678,0.0,4,0.804,2,156886,-5.48,0.0585
+Travis Scott,ASTROWORLD,ASTROTHUNDER,4MXhiYIRDMGAuvZc5IFTwC,0.46,0.111,151.901,0.0661,0.142,4.81e-05,4,0.7,4,142969,-8.111,0.286
+Travis Scott,ASTROWORLD,YOSEMITE,7lAK3oHbfEnvUQWosrMMpR,0.554,0.116,128.047,0.0409,0.283,3.4e-06,4,0.785,0,150043,-6.571,0.144
+Travis Scott,ASTROWORLD,CAN'T SAY,27a1mYSG5tYg7dmEjWBcmL,0.708,0.118,147.98,0.0547,0.201,0.0,4,0.702,10,198408,-5.366,0.713
+Travis Scott,ASTROWORLD,WHO? WHAT!,4KYS9GK68yeuUJ8vJfPxrq,0.731,0.0731,140.001,0.0566,0.0462,0.0,4,0.834,10,176720,-5.603,0.681
+Travis Scott,ASTROWORLD,BUTTERFLY EFFECT,2cYqizR4lgvp4Qu6IQ3qGN,0.628,0.114,140.958,0.05,0.0531,0.0,4,0.763,11,190557,-5.85,0.193
+Travis Scott,ASTROWORLD,HOUSTONFORNICATION,58TaFP5j5i9swOf584yon2,0.723,0.158,160.042,0.0836,0.0985,0.0,4,0.689,0,217828,-4.052,0.288
+Travis Scott,ASTROWORLD,COFFEE BEAN,6vnfObZ4Ys70SBAtti1xZ9,0.582,0.207,95.004,0.125,0.0862,0.00681,4,0.81,5,209116,-5.098,0.503
+Travis Scott,"Huncho Jack, Jack Huncho",Modern Slavery,7J6bnDDitOwfelaJNixHhL,0.733,0.297,133.966,0.165,0.00186,0.0,4,0.765,4,148560,-3.509,0.495
+Travis Scott,"Huncho Jack, Jack Huncho",Black & Chinese,628Ueb4sRiXApObhcU9iPU,0.844,0.119,159.108,0.0956,0.00389,0.00879,4,0.668,1,172017,-4.151,0.33
+Travis Scott,"Huncho Jack, Jack Huncho",Eye 2 Eye,4vwfOiyWxXeEdx4ejAJgdx,0.65,0.104,146.015,0.148,0.00122,0.0,4,0.818,2,190679,-4.328,0.163
+Travis Scott,"Huncho Jack, Jack Huncho",Motorcycle Patches,7g7raxdQpiLZT7aOlib4S1,0.657,0.0995,162.867,0.113,0.0158,0.0,4,0.868,8,191410,-4.853,0.436
+Travis Scott,"Huncho Jack, Jack Huncho",Huncho Jack,5vuiHi3QYbwcm1OKJOYnrf,0.574,0.156,136.982,0.0435,0.011,0.0,4,0.793,5,199227,-3.509,0.0601
+Travis Scott,"Huncho Jack, Jack Huncho",Saint,7foypmc7KZyU716Yv63BPe,0.648,0.0967,150.058,0.0543,0.009,0.0,4,0.866,1,140793,-3.675,0.0798
+Travis Scott,"Huncho Jack, Jack Huncho",Go,4RgoqOBE34Q6zZj8K7RUAx,0.898,0.309,135.057,0.042,0.32,4.93e-05,4,0.755,5,156530,-0.777,0.576
+Travis Scott,"Huncho Jack, Jack Huncho",Dubai Shit,6urLjX35oXXRYtcH1b3dCh,0.529,0.0814,138.072,0.0532,0.0674,0.0,4,0.774,5,228431,-4.479,0.227
+Travis Scott,"Huncho Jack, Jack Huncho",Saint Laurent Mask,7JGyxh8G8QZnu4AMJuCqlj,0.596,0.169,135.012,0.0414,0.0379,0.0,4,0.771,11,190437,-4.086,0.0745
+Travis Scott,"Huncho Jack, Jack Huncho",Moon Rock,7bTH8LgGSwyNNE4r1k95Zp,0.717,0.147,142.926,0.046,0.0092,0.0,4,0.72,8,151184,-4.043,0.198
+Travis Scott,"Huncho Jack, Jack Huncho",How U Feel,7CWiWkccuRRdrmaW6AjVEf,0.799,0.369,140.005,0.149,0.0532,2.54e-05,4,0.86,2,205682,-2.446,0.491
+Travis Scott,"Huncho Jack, Jack Huncho",Where U From,11cCVYamncF0ezwjj1irQ0,0.757,0.211,140.073,0.0772,0.0542,0.0,4,0.756,1,251969,-2.969,0.284
+Travis Scott,"Huncho Jack, Jack Huncho",Best Man,2hIFuoXhzcZGvmdtSE35lc,0.687,0.317,106.859,0.0545,0.00304,4.77e-05,4,0.673,8,266879,-4.567,0.159
+Travis Scott,Birds In The Trap Sing McKnight,the ends,33zbOXJSwW7uf4VXXWow2O,0.737,0.0904,171.853,0.191,0.0661,0.0,4,0.585,4,201263,-4.121,0.0497
+Travis Scott,Birds In The Trap Sing McKnight,way back,2Zy7XVdxyZQB8xp5xbpJdl,0.554,0.612,117.384,0.0488,0.222,0.0,4,0.396,0,272501,-5.048,0.17
+Travis Scott,Birds In The Trap Sing McKnight,coordinate,7pas6O1LYbaeChEFQBhPFU,0.658,0.335,75.615,0.0695,0.105,1.89e-06,4,0.688,1,226397,-4.155,0.28
+Travis Scott,Birds In The Trap Sing McKnight,through the late night,1Ci4wASMY4xtKVMeHA6Sd5,0.589,0.119,127.051,0.0359,0.36,0.0,4,0.744,5,286236,-1.218,0.242
+Travis Scott,Birds In The Trap Sing McKnight,beibs in the trap,0ESJlaM8CE1jRWaNtwSNj8,0.571,0.291,119.054,0.145,0.24,0.0,4,0.743,7,213863,-6.054,0.495
+Travis Scott,Birds In The Trap Sing McKnight,sdp interlude,4gh0ZnHzaTMT1sDga7Ek0N,0.586,0.118,108.164,0.0586,0.599,0.0544,4,0.507,0,191623,-8.15,0.588
+Travis Scott,Birds In The Trap Sing McKnight,sweet sweet,01Ch5LzVStxCFPKkT1xg6k,0.578,0.403,142.028,0.0417,0.0859,1.19e-06,4,0.733,0,222318,-5.245,0.447
+Travis Scott,Birds In The Trap Sing McKnight,outside,177WEvlLsCc0FzCTWslawr,0.616,0.103,165.906,0.311,0.503,0.0,4,0.758,2,176488,-3.471,0.494
+Travis Scott,Birds In The Trap Sing McKnight,goosebumps,6gBFPUFcJLzWGx4lenP6h2,0.728,0.149,130.049,0.0484,0.0847,0.0,4,0.841,7,243837,-3.37,0.43
+Travis Scott,Birds In The Trap Sing McKnight,first take,6wwruKU956ldDyz55DZTt1,0.536,0.095,71.313,0.16,0.015,0.0,5,0.423,7,313909,-3.8,0.0895
+Travis Scott,Birds In The Trap Sing McKnight,pick up the phone,20dP2DaMHIAmwWAbp7peSr,0.739,0.226,136.919,0.129,0.114,0.0,4,0.711,7,252256,-3.804,0.43
+Travis Scott,Birds In The Trap Sing McKnight,lose,2AGUFka8kBWCM47h5uTlDb,0.557,0.176,125.999,0.053,0.307,0.0,4,0.832,7,200453,-3.947,0.279
+Travis Scott,Birds In The Trap Sing McKnight,guidance,2c2csx4OTYtbkzvbSTXlGY,0.753,0.41,139.98,0.24,0.0609,1.38e-06,4,0.702,11,207107,-2.943,0.453
+Travis Scott,Birds In The Trap Sing McKnight,wonderful,1cZlBZwnwGPtYeRIeQcoFh,0.569,0.0571,146.062,0.0786,0.0737,0.0,4,0.769,1,216946,-5.591,0.612
+Travis Scott,Rodeo (Expanded Edition),Pornography,2QeQNF182V61Im0QpjdVta,0.649,0.712,128.815,0.117,0.105,0.0,4,0.603,11,231827,-5.887,0.343
+Travis Scott,Rodeo (Expanded Edition),Oh My Dis Side (feat. Quavo),2rMFawCg4BW65jzbwztXAV,0.623,0.131,126.018,0.0489,0.352,0.0,4,0.459,1,351253,-4.45,0.205
+Travis Scott,Rodeo (Expanded Edition),3500 (feat. Future & 2 Chainz),1SGt65i9AnXYdDQt1AtDRH,0.595,0.13,123.968,0.161,0.114,2.47e-06,4,0.773,8,461840,-6.062,0.338
+Travis Scott,Rodeo (Expanded Edition),Wasted (feat. Juicy J),3dtBVBClM5ms0qCBBrqpUb,0.61,0.36,134.923,0.217,0.0836,0.0,4,0.689,10,235680,-9.004,0.119
+Travis Scott,Rodeo (Expanded Edition),90210 (feat. Kacy Hill),51EC3I1nQXpec4gDk0mQyP,0.526,0.105,81.404,0.0904,0.113,8.33e-06,4,0.402,9,339067,-6.741,0.312
+Travis Scott,Rodeo (Expanded Edition),Pray 4 Love (feat. The Weeknd),2dJ4rGtsOHOgvTQawsCRtg,0.578,0.151,79.94,0.0428,0.2,0.0,4,0.629,1,307000,-4.704,0.211
+Travis Scott,Rodeo (Expanded Edition),Nightcrawler (feat. Swae Lee & Chief Keef),3xby7fOyqmeON8jsnom0AT,0.728,0.132,124.045,0.0323,0.00134,0.0,4,0.522,3,321560,-3.801,0.18
+Travis Scott,Rodeo (Expanded Edition),Piss On Your Grave (feat. Kanye West),5H25xsIuRWUI8GwcoAoeSG,0.54,0.158,116.877,0.0905,0.00793,1.05e-06,4,0.554,1,166320,-5.687,0.162
+Travis Scott,Rodeo (Expanded Edition),Antidote,1wHZx0LgzFHyeIZkUydNXq,0.526,0.124,131.05,0.032,0.00767,0.000148,4,0.713,1,262693,-5.046,0.131
+Travis Scott,Rodeo (Expanded Edition),Impossible,0IabpxMpUV7waD7U4uDIMJ,0.464,0.603,147.984,0.171,0.398,2.62e-05,4,0.507,3,242507,-8.531,0.277
+Travis Scott,Rodeo (Expanded Edition),Maria I'm Drunk (feat. Justin Bieber & Young Thug),6Yqmv7XJLCrQEauMbPGZSw,0.631,0.12,105.989,0.103,0.377,0.0,4,0.648,4,349933,-5.662,0.142
+Travis Scott,Rodeo (Expanded Edition),Flying High (feat. Toro y Moi),6HszFW6X5wM8DKX1SO0LaK,0.827,0.495,130.016,0.04,0.0616,0.0,4,0.628,1,208627,-3.139,0.429
+Travis Scott,Rodeo (Expanded Edition),I Can Tell,2hiuiI3ac0I5kJWtkeGHEL,0.8,0.0954,110.013,0.0324,0.000819,0.0,4,0.696,2,235533,-5.68,0.0635
+Travis Scott,Rodeo (Expanded Edition),Apple Pie,6scpNkWEmUxmKY7nYjVLsX,0.496,0.156,137.945,0.0364,0.0335,0.0,4,0.655,3,219360,-4.139,0.28
+Travis Scott,Rodeo (Expanded Edition),Ok Alright (feat. ScHoolboy Q),0MRZ9nMoLc7qQ8Nhovv8C8,0.661,0.123,122.482,0.083,0.141,0.00018,4,0.53,8,417693,-5.507,0.149
+Travis Scott,Rodeo (Expanded Edition),Never Catch Me,3jg8bevUzKYONDLBBQquif,0.521,0.167,99.438,0.033,0.0114,0.0232,4,0.527,10,176160,-8.341,0.127
+Travis Scott,Goosebumps (Remix),Goosebumps - Remix,5uEYRdEIh9Bo4fpjDd4Na9,0.593,0.124,124.917,0.0379,0.418,0.0,4,0.841,1,162803,-7.846,0.808
+Travis Scott,"FRANCHISE (feat. Future, Young Thug & M.I.A.) [REMIX]","FRANCHISE (feat. Future, Young Thug & M.I.A.) - REMIX",6qUabsNxudatEFedWGHoDh,0.77,0.0731,155.025,0.345,0.0056,0.0,4,0.859,8,207394,-5.358,0.348
+Travis Scott,"FRANCHISE (feat. Future, Young Thug & M.I.A.) [REMIX]",FRANCHISE (feat. Young Thug & M.I.A.),3z1R9MSXyRdCvFNtDFwGhB,0.699,0.195,154.981,0.277,0.00671,0.0,4,0.835,8,202795,-5.405,0.547
+Travis Scott,FRANCHISE (feat. Young Thug & M.I.A.),FRANCHISE (feat. Young Thug & M.I.A.),4jVBIpuOiMj1crqd8LoCrJ,0.699,0.195,154.981,0.277,0.00671,0.0,4,0.835,8,202795,-5.405,0.547
+Travis Scott,"The Plan (From the Motion Picture ""TENET"")","The Plan - From the Motion Picture ""TENET""",551xyaSJsg8hILXFq9JdST,0.443,0.117,79.903,0.0361,0.0922,0.000293,3,0.433,1,185851,-10.568,0.0363
+Travis Scott,Wash Us In The Blood,Wash Us In The Blood,7mEUjhl6aTztdHCrxoTgBG,0.847,0.304,137.22,0.409,0.184,0.0,4,0.67,10,189827,-4.85,0.381
+Travis Scott,TKN (feat. Travis Scott),TKN (feat. Travis Scott),4w47S36wQGBhGg073q3nt7,0.509,0.115,94.634,0.467,0.192,1.49e-06,4,0.776,0,129371,-6.266,0.485
+Travis Scott,THE SCOTTS,THE SCOTTS,39Yp9wwQiSRIDOvrVg7mbk,0.537,0.157,129.979,0.0514,0.233,0.0,4,0.716,0,165978,-7.648,0.28
+Travis Scott,Antisocial (with Travis Scott) [MK Remix],Antisocial (with Travis Scott) - MK Remix,1qf82BwoRe9zdLvyvx7oGP,0.868,0.115,124.981,0.0992,0.104,0.00024,4,0.796,10,179502,-5.774,0.586
+Travis Scott,Antisocial (with Travis Scott) [Steel Banglez & Zeph Ellis Remix],Antisocial (with Travis Scott) - Steel Banglez & Zeph Ellis Remix,72McVYThUxWasGByny8wE5,0.566,0.236,142.035,0.0998,0.383,6.19e-06,4,0.748,10,188312,-10.174,0.701
+Travis Scott,Antisocial (with Travis Scott) [Ghali Remix],Antisocial (with Travis Scott) - Ghali Remix,3GUEsjyYsxsgk06bkiyYsa,0.844,0.366,152.033,0.0683,0.174,0.0,4,0.705,5,226386,-4.703,0.934
+Travis Scott,Hot (Remix) [feat. Gunna and Travis Scott],Hot (Remix) [feat. Gunna and Travis Scott],56AMYGJzxBO6p8v0wEe9de,0.631,0.0806,111.983,0.216,0.188,0.0,4,0.845,7,279907,-8.206,0.545
+Travis Scott,HIGHEST IN THE ROOM,HIGHEST IN THE ROOM,3eekarcy7kvN4yt5ZFzltW,0.427,0.21,76.469,0.0317,0.0546,5.83e-06,4,0.598,7,175721,-8.764,0.0605
+Travis Scott,Antisocial (with Travis Scott),Antisocial (with Travis Scott),7mb1IkA4MKjjh8KHSzOEB2,0.823,0.361,151.956,0.0495,0.133,0.0,4,0.715,5,161747,-5.313,0.91
+Travis Scott,The London (feat. J. Cole & Travis Scott),The London (feat. J. Cole & Travis Scott),7DcvwMAiqKJQD1rrdfxSDx,0.586,0.132,97.981,0.147,0.0247,0.0,4,0.796,4,200107,-6.946,0.179
+Travis Scott,SICKO MODE (Skrillex Remix),SICKO MODE - Skrillex Remix,0u695M7KyzXaPIjpEbxOkB,0.833,0.14,155.051,0.172,0.0214,0.0,4,0.651,1,304512,-3.356,0.443
+Travis Scott,Watch (feat. Lil Uzi Vert & Kanye West),Watch (feat. Lil Uzi Vert & Kanye West),3DoBTwfr8yi2LN08SBpFkN,0.559,0.379,78.534,0.0416,0.0372,0.0,4,0.706,4,217405,-5.216,0.252
+Travis Scott,Dark Knight Dummo (Feat. Travis Scott),Dark Knight Dummo (Feat. Travis Scott),3YeJXuRSNS5FYwOsDu44kD,0.821,0.139,181.444,0.111,0.167,0.0,3,0.28,8,256163,-2.864,0.254
+Travis Scott,Know No Better (Remixes),Know No Better,7AO5sukpsPsMmuWDN2WQNO,0.814,0.126,119.041,0.0999,0.132,9.64e-06,4,0.738,7,225850,-4.414,0.483
+Travis Scott,Know No Better (Remixes),Know No Better - Bad Bunny Remix,4Q7OnsZG4FXrGDCpw6dQXt,0.815,0.113,118.951,0.0896,0.26,1.18e-05,4,0.794,7,217815,-3.968,0.601
+Travis Scott,Know No Better (Remixes),Know No Better - Afrojack Remix,4MPtSMvGCFk7aYJJcZVbJs,0.958,0.418,126.012,0.0564,0.0123,0.000398,4,0.698,0,250741,-4.414,0.631
+Travis Scott,Know No Better (Remixes),Know No Better - Doobious Remix,7sddbxrsmO9zX7rtzB139E,0.847,0.132,139.971,0.0822,0.302,1.23e-05,4,0.651,7,195429,-4.214,0.37
+Travis Scott,Know No Better (Remixes),Know No Better - SLANDER Remix,5ENvJDpQBzuORI0flAWgoZ,0.593,0.0679,180.223,0.162,0.02,3.31e-05,4,0.517,5,238592,-8.065,0.151
+Travis Scott,Know No Better (Remixes),Know No Better - Laibert Remix,4l0jdMkmnsAruaz14piQN8,0.743,0.294,123.984,0.0305,0.00589,0.0923,4,0.694,7,224723,-8.275,0.383
+Travis Scott,Know No Better (Remixes),Know No Better - DJ Zinc Remix,4grahew1dXYZ6vDiJkcv7G,0.893,0.0521,127.006,0.0392,0.000453,0.18,4,0.713,11,272581,-6.253,0.763
+Travis Scott,Know No Better (Remixes),Know No Better - La Fuente Remix,4HKa1KfYij1e5ziz7Qdkbo,0.81,0.0909,125.983,0.0651,0.025,0.0647,4,0.831,7,241276,-5.957,0.34
+Travis Scott,Know No Better (Remixes),Know No Better - BROHUG Remix,0DFybsDWkA6Zd4OZwLUTVQ,0.961,0.167,125.019,0.116,0.00169,0.00361,4,0.766,2,223200,-1.775,0.526
+Travis Scott,Know No Better (Remixes),Know No Better - SUPER CRUEL Remix,1NjoeL6bh0JWiESu57rcEX,0.862,0.148,119.023,0.0488,0.00919,1.89e-06,4,0.618,7,219266,-4.184,0.512
+Travis Scott,Know No Better,Know No Better,6BKeNWeUqxmvQ09Gxd3ZGX,0.814,0.126,119.041,0.0999,0.132,9.64e-06,4,0.738,7,225850,-4.414,0.483
+Travis Scott,Know No Better (feat. Quavo),"Know No Better (feat. Travis Scott, Camila Cabello & Quavo)",5cxf8YcDttPsgZb8zt120n,0.814,0.126,119.041,0.0999,0.132,9.64e-06,4,0.738,7,225850,-4.414,0.483
+Travis Scott,Fish N Grits (feat. Travis Scott),Fish N Grits (feat. Travis Scott),1Udn6iwy5SH5siTpzduvQB,0.54,0.11,135.05,0.151,0.0344,0.0,4,0.894,4,177827,-6.766,0.24
+Travis Scott,Go Off,Go Off,0tr3gBX6XVIVzzOplX5Zbk,0.785,0.259,88.511,0.0772,0.0229,0.0,4,0.734,8,217560,-2.819,0.726
+Travis Scott,pick up the phone,pick up the phone,4GXl8l1MfZPf2GvpyRPJBf,0.716,0.316,136.904,0.0768,0.115,0.0,4,0.706,7,252263,-4.263,0.459
+Travis Scott,Whole Lotta Lovin' (With You Remix),Whole Lotta Lovin' - With You Remix,08GSP3de4vNyAkPkJirmhi,0.714,0.57,126.033,0.049,0.0788,0.0006,4,0.771,4,290027,-6.457,0.505
+Travis Scott,Whole Lotta Lovin' (Grandtheft Remix),Whole Lotta Lovin' - Grandtheft Remix,2aZg0to4VSRb3CXFdcPAMp,0.76,0.0824,126.035,0.0847,0.0896,0.0991,4,0.833,2,222520,-6.22,0.532
+Travis Scott,Whole Lotta Lovin' (Grandtheft Remix),Whole Lotta Lovin' - Grandtheft Radio Edit Remix,2p6EGiqzRjhsprFXwFExI5,0.671,0.0809,126.042,0.0981,0.0594,0.0766,4,0.825,11,188973,-6.215,0.406
+Travis Scott,Whole Lotta Lovin' (Grandtheft Remix),Whole Lotta Lovin' - Grandtheft Remix,3ypseB82bDUiUAnL5R4yGF,0.774,0.067,126.042,0.0878,0.107,0.116,4,0.835,2,222173,-6.236,0.47
+Travis Scott,Whole Lotta Lovin' (Bad Royale Remix),Whole Lotta Lovin' - Bad Royale Remix,7hZlJi2VKfvM9WL5BJo0i8,0.94,0.0752,127.943,0.248,0.0182,0.000148,4,0.667,4,224027,-4.37,0.717
+Travis Scott,Whole Lotta Lovin' (Djemba Djemba Remix),Whole Lotta Lovin' - Djemba Djemba Remix,4GnTHqR5cSeJgBOWXLIFT3,0.734,0.325,141.955,0.0358,0.0134,0.00317,4,0.669,4,222427,-6.663,0.196
+Travis Scott,Whole Lotta Lovin' (Le Boeuf Remix),Whole Lotta Lovin' - Le Boeuf Remix,0ve8TlcRP5e6N9p4C4hQ9Z,0.765,0.108,113.989,0.0452,0.187,0.000226,4,0.758,4,189880,-3.966,0.682
+Travis Scott,Whole Lotta Lovin' (LeMarquis Remix),Whole Lotta Lovin' - LeMarquis Remix,0z9PMxrUVfCLc3e7itESJL,0.786,0.146,120.043,0.232,0.409,2.14e-06,4,0.784,4,226427,-6.822,0.544
+Travis Scott,A-Team,A-Team,5cgEadiGKjtTP1Q6NJqVP5,0.526,0.107,127.977,0.0452,0.0485,0.00627,4,0.626,7,176640,-4.112,0.17
+Travis Scott,Whole Lotta Lovin',Whole Lotta Lovin',01gNiOqg8u7vT90uVgOVmz,0.398,0.0634,119.973,0.0558,0.135,3.78e-06,4,0.51,4,299160,-8.75,0.382
+Travis Scott,Don't Play (feat. The 1975 & Big Sean),Don't Play (feat. The 1975 & Big Sean),2QKBvCMHdokPoy2b44dK2m,0.729,0.148,128.014,0.0326,0.00203,0.0,4,0.681,0,285954,-3.99,0.101
+Travis Scott,Mamacita (feat. Rich Homie Quan & Young Thug),Mamacita (feat. Rich Homie Quan & Young Thug),3SEd8nPd8MpGwk6ZZ8tk2j,0.768,0.127,115.021,0.0819,0.0146,1.03e-06,4,0.823,11,274320,-6.21,0.216
+Travis Scott,Upper Echelon (feat. T.I. & 2 Chainz),Upper Echelon (feat. T.I. & 2 Chainz),1x6Zk7hoTIlSOFNZnyxjZD,0.617,0.088,122.065,0.0651,0.0448,0.0,4,0.788,2,243800,-4.516,0.128
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Tic Tac,0anUgBvnA4u5LsHUeLRprc,0.566,0.11,132.858,0.226,0.0773,0.0,4,0.942,11,189147,-4.834,0.479
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),My Legacy,4V9K7DLPZNhCH77wLsAiNF,0.682,0.116,143.979,0.323,0.104,0.0,4,0.89,4,193333,-5.249,0.526
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Heart In Pieces,669gYFBhezfYPXQP1hBMOX,0.699,0.103,138.929,0.0487,0.276,0.0,4,0.872,1,196835,-6.127,0.725
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Because of You,6vbe3GmRG30x2nraEvHudq,0.469,0.0921,132.989,0.0549,0.445,0.0,4,0.781,10,216541,-8.456,0.518
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Bust a Move,2z0LyXYmPgos95olIAQIO3,0.683,0.0693,140.035,0.055,0.0109,0.0,4,0.804,2,226286,-7.344,0.229
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Baby Sasuke,4Y4Xmm8OLUJSdR9OkaxV97,0.633,0.129,145.995,0.149,0.689,0.0,4,0.66,3,210411,-5.782,0.715
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Stripes Like Burberry,68ra53eElfqZM8G9fuOFSj,0.574,0.144,144.081,0.217,0.216,0.0,4,0.758,9,274313,-7.833,0.706
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Marni On Me,5FmUNIsqr4gC4lwJtea8tX,0.52,0.313,123.189,0.447,0.0187,0.0,4,0.759,2,133171,-7.042,0.116
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Sleeping On The Floor,1T40GpRFJiUIulCqLpAe4v,0.621,0.161,150.969,0.362,0.0233,0.0,4,0.851,11,167397,-6.679,0.532
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Real Baby Pluto,2B6CpkK0Rz67UzwDTW2Jt7,0.567,0.109,141.973,0.302,0.0165,0.0,4,0.898,1,196636,-6.446,0.602
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Drankin N Smokin,2ny1lTxfuQls8r5yX4Ad3g,0.658,0.0927,151.951,0.342,0.0421,0.0,4,0.752,0,213520,-6.297,0.387
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Million Dollar Play,3kAyhdS74oZn8nOqifDEf2,0.502,0.115,150.07,0.398,0.11,0.0,4,0.839,0,166637,-5.886,0.585
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Plastic,6LnOiHOWTAGJ5vAN6wBkqc,0.505,0.158,160.031,0.061,0.0485,0.0,4,0.773,5,193859,-5.716,0.142
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),That’s It,5LT018mJrqHdNwdltZ1hAM,0.532,0.0925,123.043,0.358,0.12,0.0,4,0.94,11,228796,-5.998,0.599
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Bought A Bad Bitch,0NfbJvgf9mmdnoyzxNf46H,0.72,0.172,136.077,0.0646,0.112,0.0,4,0.866,7,210175,-6.641,0.785
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Rockstar Chainz,1WFkr1TlmOQEgrLndQI6sY,0.517,0.31,143.043,0.307,0.0116,0.0,4,0.867,2,181040,-6.914,0.271
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Lullaby,1PmY0lBdi87ma0JSlrcdAd,0.743,0.068,160.084,0.441,0.0391,0.0,4,0.494,7,261781,-6.716,0.59
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),She Never Been To Pluto,50lt8PNUgIYnIrr3BPp2Cv,0.615,0.307,132.996,0.222,0.0159,0.0,4,0.827,7,204117,-5.879,0.221
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Off Dat,5MxBxefjpl4hmbxgdfse8x,0.641,0.665,151.937,0.297,0.0154,0.0,4,0.898,11,184737,-7.673,0.578
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),I Don’t Wanna Break Up,1yh1VrgbKyL493x9saxxqQ,0.584,0.114,162.169,0.235,0.00405,0.0,4,0.615,1,243936,-5.638,0.529
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Bankroll,2LyYvjkKkchY8JXKu6m5Ri,0.735,0.216,139.932,0.301,0.133,0.0,4,0.83,5,186847,-5.23,0.682
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Moment of Clarity,7y8Xlx3c6xpyN0DqYGb8FG,0.624,0.195,122.029,0.147,0.183,0.0,4,0.862,8,222295,-5.348,0.523
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Patek,3f9RZbFJrmttvXYwiwqDlb,0.596,0.162,120.028,0.0534,0.00301,0.0,4,0.801,1,280666,-4.72,0.134
+Lil Uzi Vert,Pluto x Baby Pluto (Deluxe),Over Your Head,7JsuXl9Odf3V38ksu4FWDZ,0.742,0.558,148.949,0.162,0.00198,0.0,4,0.773,5,186843,-5.453,0.35
+Lil Uzi Vert,Pluto x Baby Pluto,Stripes Like Burberry,6lt8iodSkYWEV0ifKCSlfg,0.574,0.144,144.081,0.217,0.216,0.0,4,0.758,9,274313,-7.833,0.706
+Lil Uzi Vert,Pluto x Baby Pluto,Marni On Me,6NaVCCFGylOLZAgk5eTTid,0.52,0.313,123.189,0.447,0.0187,0.0,4,0.759,2,133171,-7.042,0.116
+Lil Uzi Vert,Pluto x Baby Pluto,Sleeping On The Floor,0DUHmrwC8ZviGGC2o2JBy1,0.621,0.161,150.969,0.362,0.0233,0.0,4,0.851,11,167397,-6.679,0.532
+Lil Uzi Vert,Pluto x Baby Pluto,Real Baby Pluto,1rP5gAqMlm8d6UnfseuzSm,0.567,0.109,141.973,0.302,0.0165,0.0,4,0.898,1,196636,-6.446,0.602
+Lil Uzi Vert,Pluto x Baby Pluto,Drankin N Smokin,0k7wmahjkn389wAZdz19Cv,0.658,0.0927,151.951,0.342,0.0421,0.0,4,0.752,0,213520,-6.297,0.387
+Lil Uzi Vert,Pluto x Baby Pluto,Million Dollar Play,7liO3TEHfUqLnIlN54CW1D,0.502,0.115,150.07,0.398,0.11,0.0,4,0.839,0,166637,-5.886,0.585
+Lil Uzi Vert,Pluto x Baby Pluto,Plastic,6GK5du9ndZ7ZwMBrTRTGMH,0.505,0.158,160.031,0.061,0.0485,0.0,4,0.773,5,193859,-5.716,0.142
+Lil Uzi Vert,Pluto x Baby Pluto,That’s It,5n6gBhdEjCuj3obgCoTEFD,0.532,0.0925,123.043,0.358,0.12,0.0,4,0.94,11,228796,-5.998,0.599
+Lil Uzi Vert,Pluto x Baby Pluto,Bought A Bad Bitch,5syD6f38Jhckk5g9DgoCta,0.72,0.172,136.077,0.0646,0.112,0.0,4,0.866,7,210175,-6.641,0.785
+Lil Uzi Vert,Pluto x Baby Pluto,Rockstar Chainz,0NXeZp31dd0cJ9t8FdKsTg,0.517,0.31,143.043,0.307,0.0116,0.0,4,0.867,2,181040,-6.914,0.271
+Lil Uzi Vert,Pluto x Baby Pluto,Lullaby,2N7KguJOBZtV2Px3T1z5sB,0.743,0.068,160.084,0.441,0.0391,0.0,4,0.494,7,261781,-6.716,0.59
+Lil Uzi Vert,Pluto x Baby Pluto,She Never Been To Pluto,7yOoJXW6wkpzlJpfjDKhIV,0.615,0.307,132.996,0.222,0.0159,0.0,4,0.827,7,204117,-5.879,0.221
+Lil Uzi Vert,Pluto x Baby Pluto,Off Dat,5qk0TivMEVkujTu7xJLKu7,0.641,0.665,151.937,0.297,0.0154,0.0,4,0.898,11,184737,-7.673,0.578
+Lil Uzi Vert,Pluto x Baby Pluto,I Don’t Wanna Break Up,7JwmlNz8ic9ATnLn7DyAKx,0.584,0.114,162.169,0.235,0.00405,0.0,4,0.615,1,243936,-5.638,0.529
+Lil Uzi Vert,Pluto x Baby Pluto,Bankroll,3h1LpNOGh1NgKVQPetS2Ed,0.735,0.216,139.932,0.301,0.133,0.0,4,0.83,5,186847,-5.23,0.682
+Lil Uzi Vert,Pluto x Baby Pluto,Moment of Clarity,5iHaOaMTQA3f24kD4oTR2x,0.624,0.195,122.029,0.147,0.183,0.0,4,0.862,8,222295,-5.348,0.523
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Myron,56uXDJRCuoS7abX3SkzHKQ,0.654,0.214,155.047,0.298,0.055,0.0,4,0.771,8,224955,-6.976,0.573
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Lotus,4SnlSaLJJ7reJMCHM5YUuX,0.748,0.165,150.063,0.207,0.24,0.0,4,0.802,8,193861,-5.708,0.516
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Bean (Kobe) [feat. Chief Keef],0IpnZchq8ek2A6pGEP2Qb1,0.567,0.382,75.491,0.319,0.0129,0.0,4,0.733,0,238816,-6.718,0.319
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Yessirskiii,59JWp4PjZ9TRM8cmtaDYB1,0.739,0.102,140.007,0.283,0.0183,7.61e-06,4,0.895,8,219340,-6.633,0.763
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Wassup (feat. Future),19Ec2gbNtQTE44IizcPjtD,0.622,0.145,130.019,0.223,0.352,0.0,4,0.762,5,193314,-6.293,0.626
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Strawberry Peels (feat. Young Thug & Gunna),4lAQfuREAHG8IC0PiiigBt,0.65,0.568,131.194,0.355,0.0207,0.0,4,0.862,10,115350,-6.978,0.658
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,I Can Show You,0AhJag7VI8uFf3mJFsTwvf,0.656,0.115,139.915,0.277,0.051,0.0,4,0.817,10,120076,-7.086,0.314
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Moon Relate,4sWGHlZGM1XA7TyWdtBAbA,0.768,0.254,102.021,0.0791,0.18,0.0,3,0.867,7,181826,-3.73,0.34
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Come This Way,2BjNjFJAQTxqUPGpOnrese,0.741,0.239,164.043,0.249,0.127,0.0,4,0.682,1,172757,-4.489,0.619
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Trap This Way (This Way),7vTspUAmMKFkUpKL9HLZNL,0.586,0.193,175.987,0.381,0.248,0.0,4,0.71,2,185439,-5.331,0.207
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,No Auto (feat. Lil Durk),5erLs80hB2TbFWgSAbVQpe,0.681,0.291,159.107,0.351,0.00286,0.0,4,0.713,11,135065,-7.645,0.635
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Money Spread (feat. Young Nudy),5tBdxqz8gauIO8Hh8qwo0H,0.618,0.298,135.879,0.219,0.0234,0.0,4,0.778,1,217008,-6.432,0.212
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Got The Guap (feat. Young Thug),1HF6P40Z7nfExGaB1Gk99v,0.601,0.0928,142.977,0.198,0.21,0.0,4,0.837,8,176756,-5.628,0.749
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Leaders (feat. NAV),4D7NrSeqkTarBrJ80b2sBc,0.654,0.138,132.936,0.307,0.0744,0.0,4,0.95,0,194844,-5.895,0.886
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Baby Pluto,0MBbqhCETOfzONwgSAtKpI,0.634,0.432,160.052,0.212,0.135,0.0,4,0.772,10,210261,-6.101,0.671
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Lo Mein,6gWzuZHMKNtjLUsTPHCX10,0.676,0.144,133.082,0.325,0.0888,0.0,4,0.855,1,195299,-5.736,0.509
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Silly Watch,0eC75aBFF20CCmFeqd21QP,0.535,0.0851,130.117,0.286,0.0298,0.0,4,0.903,8,195692,-6.238,0.157
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,POP,61N12G2IDag927XDCmMDr8,0.599,0.785,139.891,0.419,0.00961,0.0,4,0.741,1,227474,-6.672,0.276
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,You Better Move,0jBTxdEGB0YvKvZhf3AEIU,0.556,0.204,118.836,0.442,0.159,0.0,4,0.842,8,196639,-6.793,0.306
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Homecoming,5jUvv1aTcNTgTOsAGlJojn,0.563,0.244,129.957,0.49,0.000592,0.0,4,0.929,9,213885,-7.428,0.353
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,I'm Sorry,6tYSLPxYbqotnpeNRJbEdK,0.547,0.104,128.02,0.29,0.213,0.0,4,0.858,1,211883,-5.822,0.303
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Celebration Station,0a4kXlqLISIf5PSiyp0Zmp,0.771,0.135,142.086,0.15,0.101,0.0,4,0.748,6,195058,-4.156,0.792
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Bigger Than Life,4WQk1ivjM6rphaG8ZDc962,0.752,0.33,140.013,0.193,0.325,0.0,4,0.776,8,192705,-4.711,0.716
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Chrome Heart Tags,0Ysvyr0E0v0ufJya13gYwJ,0.768,0.105,70.056,0.0669,0.541,0.0,4,0.702,0,212821,-4.055,0.574
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Bust Me,51aVoX1BhBmsh6bqh61ilC,0.703,0.413,151.923,0.355,0.237,1.99e-06,4,0.734,11,194452,-6.256,0.608
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Prices,1Gz96Ab9xAEcaUTwaFx0ON,0.683,0.706,126.002,0.205,0.173,0.0,4,0.786,7,233333,-5.397,0.57
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Urgency (feat. Syd),1wqD0VFqv9N8bmI2olRhJt,0.784,0.315,156.035,0.123,0.0326,2.85e-06,4,0.619,1,181161,-6.11,0.471
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Venetia,5mhhIHsPJGqBMTRiFOtHDF,0.757,0.148,142.933,0.175,0.162,0.0,4,0.775,9,188800,-4.139,0.562
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Secure The Bag,2ACvbnhnf1iEuacfCMN1zH,0.719,0.425,129.945,0.392,0.344,0.0,4,0.803,0,238425,-4.485,0.549
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,P2,1Xd0PWZV3LCEGzc7fkjTeu,0.72,0.114,155.086,0.193,0.0236,0.0,4,0.775,11,234627,-5.353,0.49
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Futsal Shuffle 2020 - Bonus Track,2Zykq8p6eYzEDanzCwI3Yd,0.448,0.224,136.985,0.222,0.0346,0.0,4,0.879,7,198913,-8.57,0.278
+Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,That Way - Bonus Track,2Fp9qq75MxGrtGUZ2oxk1Z,0.598,0.154,130.007,0.0388,0.0546,0.0,4,0.712,7,212354,-5.368,0.504
+Lil Uzi Vert,Eternal Atake,Baby Pluto,7hav1MHURQf5SAoPk0egqh,0.634,0.432,160.052,0.212,0.135,0.0,4,0.772,10,210261,-6.101,0.671
+Lil Uzi Vert,Eternal Atake,Lo Mein,6CUP2khYzdphXebxVTfPE3,0.676,0.144,133.082,0.325,0.0888,0.0,4,0.855,1,195299,-5.736,0.509
+Lil Uzi Vert,Eternal Atake,Silly Watch,5egD7A5x9AHdVO2fMo3Wbo,0.535,0.0851,130.117,0.286,0.0298,0.0,4,0.903,8,195692,-6.238,0.157
+Lil Uzi Vert,Eternal Atake,POP,1jDbQz6tr52WgScCTXMnaN,0.599,0.785,139.891,0.419,0.00961,0.0,4,0.741,1,227474,-6.672,0.276
+Lil Uzi Vert,Eternal Atake,You Better Move,6YAxCn4juTWn5hWl2hzHGw,0.556,0.204,118.836,0.442,0.159,0.0,4,0.842,8,196639,-6.793,0.306
+Lil Uzi Vert,Eternal Atake,Homecoming,6vxU64pcIuQ38O015Zy4qj,0.563,0.244,129.957,0.49,0.000592,0.0,4,0.929,9,213885,-7.428,0.353
+Lil Uzi Vert,Eternal Atake,I'm Sorry,1xcOYJxDa5pObgxY1r0I9c,0.547,0.104,128.02,0.29,0.213,0.0,4,0.858,1,211883,-5.822,0.303
+Lil Uzi Vert,Eternal Atake,Celebration Station,25B5fGr9K0VdZJiRFsnMO4,0.771,0.135,142.086,0.15,0.101,0.0,4,0.748,6,195058,-4.156,0.792
+Lil Uzi Vert,Eternal Atake,Bigger Than Life,2oHDJHNondITqbl8xZ9vPn,0.752,0.33,140.013,0.193,0.325,0.0,4,0.776,8,192705,-4.711,0.716
+Lil Uzi Vert,Eternal Atake,Chrome Heart Tags,46mT9NR7N9Zf5MolcrBgE3,0.768,0.105,70.056,0.0669,0.541,0.0,4,0.702,0,212821,-4.055,0.574
+Lil Uzi Vert,Eternal Atake,Bust Me,4wBcaYqLPm7EtDVoJQORU4,0.703,0.413,151.923,0.355,0.237,1.99e-06,4,0.734,11,194452,-6.256,0.608
+Lil Uzi Vert,Eternal Atake,Prices,4YcWzLSnGqLjSCycuSMHnn,0.683,0.706,126.002,0.205,0.173,0.0,4,0.786,7,233333,-5.397,0.57
+Lil Uzi Vert,Eternal Atake,Urgency (feat. Syd),5KlPy74NOEAt8jC3FYURnQ,0.784,0.315,156.035,0.123,0.0326,2.85e-06,4,0.619,1,181161,-6.11,0.471
+Lil Uzi Vert,Eternal Atake,Venetia,3BYIzNZ3t9lRQCACXSMLrT,0.757,0.148,142.933,0.175,0.162,0.0,4,0.775,9,188800,-4.139,0.562
+Lil Uzi Vert,Eternal Atake,Secure The Bag,7gHZGXSJzM29WA384suYY2,0.719,0.425,129.945,0.392,0.344,0.0,4,0.803,0,238425,-4.485,0.549
+Lil Uzi Vert,Eternal Atake,P2,3kW4z2pIj5VY5fLjBrMRL5,0.72,0.114,155.086,0.193,0.0236,0.0,4,0.775,11,234627,-5.353,0.49
+Lil Uzi Vert,Eternal Atake,Futsal Shuffle 2020 - Bonus Track,2fOlBMkWR7lXJfqp5VTbDG,0.448,0.224,136.985,0.222,0.0346,0.0,4,0.879,7,198913,-8.57,0.278
+Lil Uzi Vert,Eternal Atake,That Way - Bonus Track,2ajzBr7vwHTEBeqDzcsNRC,0.598,0.154,130.007,0.0388,0.0546,0.0,4,0.712,7,212354,-5.368,0.504
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Two®,1DZx0LEctNXUHQ9VQFKlgl,0.642,0.0943,75.022,0.0694,0.424,0.0,4,0.266,7,185276,-5.133,0.0371
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),444+222,6fWcHP8ce2glR9MEUZE7Cs,0.513,0.101,76.997,0.269,0.0235,2.83e-05,4,0.791,10,247347,-6.568,0.481
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Sauce It Up,5evSAk9q0l3TfF5dYDwDBO,0.528,0.125,79.532,0.313,0.0715,0.0,4,0.813,6,207039,-6.305,0.131
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),No Sleep Leak,7284Lm1fMEABEFBrtMgUWR,0.689,0.22,136.045,0.13,0.0112,0.0,4,0.788,8,189230,-7.211,0.681
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),The Way Life Goes (feat. Oh Wonder),2YQLTpUSFCQo9FEe29YPYs,0.757,0.106,82.008,0.05,0.617,0.0,4,0.703,1,221747,-3.612,0.696
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),For Real,0DZ9wBfMCH17odOgdTmNlB,0.673,0.289,132.066,0.458,0.159,0.0,4,0.902,4,177048,-7.481,0.615
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Feelings Mutual,3ozS5DsfzFfrlgZpxEMjb0,0.691,0.088,125.978,0.259,0.105,0.0,4,0.585,0,233645,-6.015,0.349
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Neon Guts (feat. Pharrell Williams),2BUXjDhEuVLvEzFI6tabOF,0.563,0.0685,119.934,0.112,0.0541,0.0,4,0.859,1,258789,-6.635,0.412
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Early 20 Rager,0QsHgUWosVmZS49Hrsv5xC,0.68,0.381,127.001,0.0647,0.0209,0.0,4,0.651,8,274880,-6.057,0.092
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),UnFazed (feat. The Weeknd),0RyWaVjR8Mi4Qx9J3IiiqF,0.707,0.111,126.684,0.0746,0.0459,0.0,4,0.778,4,190355,-3.606,0.458
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Pretty Mami,6e4uygu304YYNYAeISlPgO,0.531,0.142,139.972,0.0402,0.409,0.0,4,0.697,10,264124,-5.527,0.621
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),How to Talk,6jeSBflg8OBRZJchEbKSlV,0.73,0.705,136.052,0.213,0.741,0.0,4,0.728,5,201544,-5.402,0.736
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),X,6nxvVPzS7gnyDthFNvTSxn,0.58,0.394,163.159,0.332,0.0043,0.0,4,0.623,8,173798,-7.076,0.301
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Malfunction,6GLujG5wXuXyPjknUFOQVK,0.698,0.0817,93.611,0.247,0.34,0.0,5,0.427,1,199211,-6.06,0.447
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Dark Queen,0cGPqSBtm0UJLo1HCziww9,0.606,0.281,155.055,0.172,0.222,0.0,4,0.747,4,173419,-5.286,0.2
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),XO Tour Llif3,3EWaR09H3TkRgaLTIheYFr,0.75,0.109,155.096,0.231,0.00264,0.0,4,0.732,11,182707,-6.366,0.401
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Skir Skirr,77V8N0imMUga8hUL0gxXHT,0.414,0.149,140.012,0.105,0.232,0.0,4,0.711,1,182160,-4.014,0.141
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Loaded,2PLGsORkOCdEI3jTSyO2Id,0.437,0.0688,142.619,0.41,0.272,0.0,4,0.822,10,219107,-7.815,0.314
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),Diamonds All on My Wrist,77nc8grWapJTpC7Evz2her,0.636,0.169,139.994,0.324,0.325,0.0,4,0.852,1,170307,-6.457,0.369
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),20 Min,0uxSUdBrJy9Un0EYoBowng,0.75,0.174,123.426,0.117,0.109,0.0,4,0.773,8,220587,-4.009,0.783
+Lil Uzi Vert,Luv Is Rage 2,Two®,65kp3OFn7JXbCvkm3m2Ui2,0.642,0.0943,75.022,0.0694,0.424,0.0,4,0.266,7,185276,-5.133,0.0371
+Lil Uzi Vert,Luv Is Rage 2,444+222,1QgTBfRN5m81a5K01qens6,0.513,0.101,76.997,0.269,0.0235,2.83e-05,4,0.791,10,247347,-6.568,0.481
+Lil Uzi Vert,Luv Is Rage 2,Sauce It Up,1uL78kFWxhz3umTMWJu8n5,0.528,0.125,79.532,0.313,0.0715,0.0,4,0.813,6,207039,-6.305,0.131
+Lil Uzi Vert,Luv Is Rage 2,No Sleep Leak,0QV16pno66L6K3fn4W13b7,0.689,0.22,136.045,0.13,0.0112,0.0,4,0.788,8,189230,-7.211,0.681
+Lil Uzi Vert,Luv Is Rage 2,The Way Life Goes (feat. Oh Wonder),2eAZfqOm4EnOF9VvN50Tyc,0.757,0.106,82.008,0.05,0.617,0.0,4,0.703,1,221747,-3.612,0.696
+Lil Uzi Vert,Luv Is Rage 2,For Real,3tcoEYOZUHKB3RKNByIN13,0.673,0.289,132.066,0.458,0.159,0.0,4,0.902,4,177048,-7.481,0.615
+Lil Uzi Vert,Luv Is Rage 2,Feelings Mutual,5Y3Tj0wJhKAaPbwWxXxZGS,0.691,0.088,125.978,0.259,0.105,0.0,4,0.585,0,233645,-6.015,0.349
+Lil Uzi Vert,Luv Is Rage 2,Neon Guts (feat. Pharrell Williams),1MJErNPIQUoEMu4YUUmecm,0.563,0.0685,119.934,0.112,0.0541,0.0,4,0.859,1,258789,-6.635,0.412
+Lil Uzi Vert,Luv Is Rage 2,Early 20 Rager,2O1qYJTA2BI5ypFFqEZhh4,0.68,0.381,127.001,0.0647,0.0209,0.0,4,0.651,8,274880,-6.057,0.092
+Lil Uzi Vert,Luv Is Rage 2,UnFazed (feat. The Weeknd),5O8x1YlmLQopQHErxtDfi9,0.707,0.111,126.684,0.0746,0.0459,0.0,4,0.778,4,190355,-3.606,0.458
+Lil Uzi Vert,Luv Is Rage 2,Pretty Mami,14nAQy3fHVzDb7LKxpS7Ld,0.531,0.142,139.972,0.0402,0.409,0.0,4,0.697,10,264124,-5.527,0.621
+Lil Uzi Vert,Luv Is Rage 2,How to Talk,0ro5QCkSCtbfhMHnvMase3,0.73,0.705,136.052,0.213,0.741,0.0,4,0.728,5,201544,-5.402,0.736
+Lil Uzi Vert,Luv Is Rage 2,X,5tRmoZRoupvMYPV1oezFrH,0.58,0.394,163.159,0.332,0.0043,0.0,4,0.623,8,173798,-7.076,0.301
+Lil Uzi Vert,Luv Is Rage 2,Malfunction,57nQyFocXZrKvWg5ZPYSoG,0.698,0.0817,93.611,0.247,0.34,0.0,5,0.427,1,199211,-6.06,0.447
+Lil Uzi Vert,Luv Is Rage 2,Dark Queen,2ZdCrBA52bb4pIG3tOOZiQ,0.606,0.281,155.055,0.172,0.222,0.0,4,0.747,4,173419,-5.286,0.2
+Lil Uzi Vert,Luv Is Rage 2,XO Tour Llif3,7GX5flRQZVHRAGd6B4TmDO,0.75,0.109,155.096,0.231,0.00264,0.0,4,0.732,11,182707,-6.366,0.401
+Lil Uzi Vert,The Perfect LUV Tape,Do What I Want,4IWGnyOHDrVZEtPWfs4s7q,0.701,0.208,139.952,0.0767,0.106,0.0,4,0.681,9,175203,-6.336,0.398
+Lil Uzi Vert,The Perfect LUV Tape,Of Course We Ghetto Flowers (feat. Playboi Carti & Offset),0gqfvyewE2Sh8TwKBFajCF,0.57,0.111,136.944,0.318,0.2,0.0,4,0.81,1,261982,-5.604,0.337
+Lil Uzi Vert,The Perfect LUV Tape,Original Uzi (4 of Us),53iTGmEL4uwHlqUvuKcrQe,0.615,0.0811,150.03,0.284,0.0534,0.0,4,0.81,10,166766,-8.376,0.596
+Lil Uzi Vert,The Perfect LUV Tape,Money Mitch,7A1Heow9lN9CIuuJzJ6MDP,0.333,0.168,141.001,0.384,0.22,0.0,4,0.842,8,247092,-13.886,0.143
+Lil Uzi Vert,The Perfect LUV Tape,SideLine Watching (Hold Up),0VYhxVxH9ijmdHUKsON9Bk,0.553,0.117,141.888,0.117,0.281,0.0,4,0.747,1,191033,-7.294,0.262
+Lil Uzi Vert,The Perfect LUV Tape,I Can Drive,5wyrQLBbmKdxY6yLNdienj,0.489,0.149,138.98,0.321,0.0811,0.0,4,0.759,1,153809,-9.141,0.346
+Lil Uzi Vert,The Perfect LUV Tape,You're Lost,5MUvVmyKD6bBY0XDeWZjJJ,0.591,0.215,146.982,0.209,0.172,0.0,4,0.764,1,158694,-7.253,0.468
+Lil Uzi Vert,The Perfect LUV Tape,Erase Your Social,4uhvMW7ly7tJil31YYscAN,0.609,0.234,140.058,0.0729,0.694,0.0,4,0.705,3,199993,-5.728,0.718
+Lil Uzi Vert,The Perfect LUV Tape,Ronda (Winners),2Wc5No77rhsfW2mB9LzXB3,0.585,0.114,119.634,0.132,0.344,0.0,4,0.701,5,216294,-7.613,0.422
+Lil Uzi Vert,The Perfect LUV Tape,Seven Million (feat. Future),6j0teRL3WdExzqmy334sh5,0.629,0.121,158.002,0.306,0.051,7.66e-06,4,0.886,1,182491,-4.404,0.487
+Lil Uzi Vert,Lil Uzi Vert vs. The World,Canadian Goose,1MNdfH2KC5LdEde3JPJ513,0.537,0.103,153.06,0.197,0.0855,0.0,4,0.776,1,218201,-7.604,0.238
+Lil Uzi Vert,Lil Uzi Vert vs. The World,Hi Roller,69M9QCMsCQ5MLsw7BBW0rL,0.562,0.243,132.081,0.0961,0.0307,0.0,4,0.8,2,276349,-7.366,0.147
+Lil Uzi Vert,Lil Uzi Vert vs. The World,Money Longer,0B8QzDH7YWih85V5SEMnyJ,0.568,0.108,136.173,0.142,0.0541,0.0,4,0.795,5,198944,-7.817,0.478
+Lil Uzi Vert,Lil Uzi Vert vs. The World,Grab the Wheel,3aJ66zarLOVW4o2nPDxg0g,0.48,0.139,137.835,0.14,0.388,0.0,4,0.748,5,295680,-6.37,0.296
+Lil Uzi Vert,Lil Uzi Vert vs. The World,You Was Right,2ANLarE8yHVsLWW21nj79M,0.359,0.12,81.987,0.461,0.069,0.0,4,0.843,0,163944,-7.417,0.156
+Lil Uzi Vert,Lil Uzi Vert vs. The World,Baby Are You Home,6Q1NPLtp9IzcXmCutp3Qmo,0.546,0.134,149.975,0.282,0.101,0.0,4,0.653,5,230296,-8.818,0.462
+Lil Uzi Vert,Lil Uzi Vert vs. The World,Ps & Qs,1gGsNNUfvVMOv4llVMg8Vg,0.428,0.278,129.829,0.143,0.235,2.35e-06,4,0.522,11,221538,-11.332,0.399
+Lil Uzi Vert,Lil Uzi Vert vs. The World,Team Rocket,6FfyYWFEk4zd7CgvjBa2ZK,0.54,0.175,132.02,0.0532,0.0907,0.0,4,0.691,4,206106,-8.818,0.23
+Lil Uzi Vert,Lil Uzi Vert vs. The World,Scott and Ramona,7egGWCqoxtAuo7QgsWw3tm,0.426,0.0995,132.886,0.0695,0.0411,0.0,4,0.589,10,221362,-7.534,0.169
+Lil Uzi Vert,Luv Is Rage,Safe House,6EFryfyWOobzFCBDB9qbrz,0.662,0.119,104.717,0.243,0.155,0.0,3,0.485,9,235989,-5.172,0.287
+Lil Uzi Vert,Luv Is Rage,Banned from TV,0Ux97Dqx5amaRrDvHbEfjm,0.565,0.274,130.025,0.0854,0.109,0.0,4,0.69,11,177280,-5.772,0.457
+Lil Uzi Vert,Luv Is Rage,Super Saiyan,2sO7QVPRKEPyY5RcG3N6Ic,0.775,0.15,128.067,0.392,0.187,0.0,4,0.855,10,146571,-3.856,0.37
+Lil Uzi Vert,Luv Is Rage,7AM,4v1P7JCjehbg5TmLQo2mFy,0.526,0.462,139.054,0.131,0.275,0.0,4,0.638,7,219712,-8.401,0.301
+Lil Uzi Vert,Luv Is Rage,Yamborghini Dream (feat. Young Thug),2QBxdLNImwEDJCzI0Yzeka,0.734,0.293,118.869,0.218,0.423,0.0,4,0.75,7,227571,-4.993,0.364
+Lil Uzi Vert,Luv Is Rage,Right Now,58lknB6kkfcDjMpCfx7rLH,0.672,0.163,119.045,0.0883,0.494,6.41e-06,4,0.647,5,227910,-4.501,0.251
+Lil Uzi Vert,Luv Is Rage,Top,55Q46o5adtSobImSKrrlqW,0.762,0.18,120.039,0.216,0.193,0.0,4,0.776,0,236000,-4.356,0.678
+Lil Uzi Vert,Luv Is Rage,All My Chains,2DynJ2cNsW35sTJCaRcb70,0.715,0.0838,138.028,0.122,0.119,0.0,4,0.794,6,208696,-5.531,0.327
+Lil Uzi Vert,Luv Is Rage,Belly,63z7NQignNUAp6zWQVip4J,0.754,0.295,124.01,0.295,0.27,0.0,4,0.819,5,217668,-4.408,0.404
+Lil Uzi Vert,Luv Is Rage,Enemies,2p2DLGuXtnLLClzpmKkyCx,0.77,0.229,155.738,0.25,0.244,0.0,4,0.626,2,248175,-6.368,0.478
+Lil Uzi Vert,Luv Is Rage,Ballin,1P7ycI8RxUZVErR2xCPqbA,0.77,0.112,122.011,0.0605,0.188,0.0,4,0.603,1,277587,-5.84,0.37
+Lil Uzi Vert,Luv Is Rage,Paradise,7pudclCl5P99Me3P5F9hPC,0.85,0.11,100.002,0.0954,0.0291,0.0,4,0.594,2,172704,-6.525,0.228
+Lil Uzi Vert,BADASS,BADASS (with Lil Uzi Vert),49KSMJh4teJp40VNJeueja,0.838,0.227,155.014,0.49,0.055,0.0,4,0.674,9,186218,-4.808,0.747
+Lil Uzi Vert,Over Your Head,Over Your Head,0Tcw8w9pvPrZoORgxsNASW,0.742,0.558,148.949,0.162,0.00198,0.0,4,0.773,5,186843,-5.453,0.35
+Lil Uzi Vert,Patek,Patek,76MjtLfZoTNc3BDqUVjuRH,0.596,0.162,120.028,0.0534,0.00301,0.0,4,0.801,1,280666,-4.72,0.134
+Lil Uzi Vert,Party Girl (Remix),Party Girl (Remix),0XkmeG97T4mtYlWRJcrxec,0.375,0.175,129.995,0.204,0.533,0.0,4,0.752,6,147673,-10.157,0.591
+Lil Uzi Vert,Sasuke,Sasuke,0ROE31C8Wu4neZoR9stM9e,0.477,0.0819,145.979,0.428,0.00414,0.0,4,0.859,1,251336,-6.116,0.153
+Lil Uzi Vert,That Way,That Way,5raTDhlbxFDnpn89bxArdH,0.611,0.155,129.962,0.0403,0.0582,0.0,4,0.719,7,212354,-5.01,0.489
+Lil Uzi Vert,Futsal Shuffle 2020,Futsal Shuffle 2020,2Ec33AVlkTTq8BHFgBTdQs,0.457,0.231,136.97,0.156,0.0327,0.0,4,0.881,7,198913,-8.191,0.296
+Lil Uzi Vert,Show U Off (feat. Lil Uzi Vert),Show U Off (feat. Lil Uzi Vert),60mcyQCSVEqWxrO6V2vtjj,0.559,0.136,77.616,0.0513,0.0781,0.0,4,0.639,1,241237,-6.844,0.103
+Lil Uzi Vert,Sanguine Paradise,Sanguine Paradise,3XiNC94b4Tq1xwv70sQJGN,0.603,0.113,134.972,0.0666,0.0948,0.0,4,0.729,6,243976,-6.736,0.207
+Lil Uzi Vert,That's a Rack,That's a Rack,4pCEIQ6wBVuaJdER5bALtO,0.432,0.146,140.042,0.501,0.0599,0.0,4,0.852,1,236571,-8.04,0.258
+Lil Uzi Vert,420 in London,420 in London,1zDwQIp3BgbH9dSmYtPBDH,0.694,0.11,160.034,0.358,0.0138,0.0,4,0.783,10,219089,-7.008,0.389
+Lil Uzi Vert,New Patek,New Patek,0SMOSx8HWWBU6rzdTpFrp8,0.759,0.163,145.031,0.356,0.0483,0.0,4,0.87,8,343099,-5.074,0.689
+Lil Uzi Vert,Sauce It Up,Sauce It Up,2V2URIj73ZFksArTldfkRW,0.528,0.125,79.532,0.313,0.0715,0.0,4,0.813,6,207039,-6.305,0.131
+Lil Uzi Vert,Smoke My Dope (with Steve Aoki & Lil Uzi Vert) (From Bright: The Album),Smoke My Dope (with Steve Aoki & Lil Uzi Vert),1BeTdfec8Kowv2QIU5o4IN,0.633,0.111,127.997,0.138,0.0183,0.0,4,0.782,8,202653,-4.287,0.508
+Lil Uzi Vert,The Way Life Goes (feat. Nicki Minaj & Oh Wonder) [Remix],The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix,6GNifiuBPrKFpwNBYnooFm,0.671,0.167,81.994,0.0599,0.68,0.0,4,0.749,6,268864,-5.151,0.756
+Lil Uzi Vert,Zambamafoo,Zambamafoo,3UMpcCyG1Dj0yDb377vu2K,0.644,0.161,119.992,0.284,0.00616,0.0,4,0.886,1,173493,-9.284,0.664
+Lil Uzi Vert,We Rollin (feat. Lil Uzi Vert & Rome Fortune),We Rollin (feat. Lil Uzi Vert & Rome Fortune),6IG9lksEE1p1TadgYXrqTD,0.609,0.115,94.999,0.0588,0.213,0.0,4,0.768,5,184421,-10.91,0.743
+Lil Uzi Vert,Money Longer,Money Longer,1QMCsDhbrqwBvDRXSaeh9r,0.568,0.108,136.173,0.142,0.0541,0.0,4,0.795,5,198944,-7.817,0.478
+Lil Uzi Vert,Count Dem Rolls (feat. Uzi Gang),Count Dem Rolls (feat. Uzi Gang),1iJa3Lpd1uC0zp5ZBpAr4W,0.776,0.295,99.198,0.39,0.196,0.0,3,0.52,10,230818,-6.452,0.445
+Kanye West,JESUS IS KING,Every Hour,1WnqWQcWcuQbVzgE7ecfCY,0.793,0.913,76.997,0.0794,0.466,0.000647,5,0.588,7,112239,-6.23,0.694
+Kanye West,JESUS IS KING,Selah,39JRmdKFka1Oe09FoOCPI4,0.618,0.32,90.076,0.197,0.647,0.000859,3,0.482,9,164620,-5.673,0.146
+Kanye West,JESUS IS KING,Follow God,2QpGZOhTCHHiKmpSO9FW4h,0.9,0.0426,180.291,0.418,0.000248,1.21e-05,4,0.529,1,104591,-3.503,0.434
+Kanye West,JESUS IS KING,Closed On Sunday,3JWiDGQX2eTlFvKj3Yssj3,0.291,0.139,97.984,0.0318,0.873,0.000641,4,0.799,11,151873,-7.353,0.406
+Kanye West,JESUS IS KING,On God,2SasoXZyv82yYgHiVOvxQn,0.886,0.461,72.577,0.155,0.0671,0.0,4,0.41,9,136351,-4.413,0.393
+Kanye West,JESUS IS KING,Everything We Need,24bnCCysWnbNRNUT4LpHcP,0.416,0.146,116.96,0.0538,0.312,0.0,4,0.894,9,116560,-6.823,0.463
+Kanye West,JESUS IS KING,Water,454Epa1vrCGFddHXKyC1kb,0.281,0.163,82.338,0.1,0.57,0.000254,4,0.505,2,168420,-12.404,0.283
+Kanye West,JESUS IS KING,God Is,6xRWoYwfwIKnT8bQGzKbxR,0.637,0.187,105.037,0.0256,0.34,0.0,4,0.656,1,203141,-3.867,0.267
+Kanye West,JESUS IS KING,Hands On,7r6aR2f57resC5r93LwMfK,0.393,0.282,78.039,0.529,0.558,0.0,4,0.514,1,203174,-8.72,0.598
+Kanye West,JESUS IS KING,Use This Gospel,0oPOuDmmkVp3h6puekhs6P,0.459,0.126,148.28,0.0422,0.614,0.0,4,0.611,0,213878,-3.926,0.177
+Kanye West,JESUS IS KING,Jesus Is Lord,7sBgFMWqDWQgrsNSpIBoe8,0.26,0.532,76.61,0.0305,0.828,4.03e-05,3,0.243,4,49293,-5.876,0.327
+Kanye West,KIDS SEE GHOSTS,Feel The Love,3aUFrxO1B8EW63QchEl3wX,0.469,0.099,110.573,0.104,0.126,7.32e-05,4,0.58,0,165053,-5.946,0.369
+Kanye West,KIDS SEE GHOSTS,Fire,7oHkit3F3vimtsBbnZkU0G,0.751,0.182,104.999,0.16,0.472,4.71e-06,4,0.709,6,140527,-3.801,0.37
+Kanye West,KIDS SEE GHOSTS,4th Dimension,6JyEh4kl9DLwmSAoNDRn5b,0.542,0.609,171.945,0.39,0.278,1.87e-05,4,0.765,1,153351,-6.755,0.734
+Kanye West,KIDS SEE GHOSTS,Freeee (Ghost Town Pt. 2),7GRTrWsP3yo2Fx8umJfA1X,0.81,0.158,151.643,0.0632,0.00457,0.0,4,0.334,9,206605,-4.855,0.306
+Kanye West,KIDS SEE GHOSTS,Reborn,4RVbK6cV0VqWdpCDcx3hiT,0.597,0.195,100.051,0.037,0.339,0.0404,4,0.585,0,324674,-7.499,0.227
+Kanye West,KIDS SEE GHOSTS,Kids See Ghosts,2I3dW2dCBZAJGj5X21E53k,0.682,0.131,94.985,0.0458,0.113,9.65e-05,4,0.841,2,245098,-7.007,0.338
+Kanye West,KIDS SEE GHOSTS,Cudi Montage,4kUZvXB3LC3an3HX6h0s17,0.504,0.121,110.011,0.0321,0.401,1.44e-06,4,0.729,8,197001,-6.784,0.305
+Kanye West,ye,I Thought About Killing You,0yhxBvedRdGxsPZHJNI4VA,0.396,0.0486,116.016,0.411,0.867,0.0,4,0.752,2,274187,-7.932,0.417
+Kanye West,ye,Yikes,1qsHYUd2c1wFGcn7e63QmG,0.776,0.227,173.996,0.341,0.15,0.0,4,0.683,1,188773,-3.251,0.223
+Kanye West,ye,All Mine,3U21A07gAloCc4P7J8rxcn,0.31,0.0931,121.927,0.291,0.123,0.0,4,0.925,11,145507,-6.531,0.291
+Kanye West,ye,Wouldn't Leave,1nGoy0cEj0extAwXYNYTWd,0.432,0.308,164.235,0.545,0.495,0.0,4,0.556,3,205547,-8.551,0.352
+Kanye West,ye,No Mistakes,35KV2Nuib6jPMVN00O8iba,0.646,0.109,80.174,0.0629,0.0393,0.0,4,0.643,10,123040,-2.442,0.35
+Kanye West,ye,Ghost Town,7vgTNTaEz3CsBZ1N4YQalM,0.545,0.329,83.378,0.0288,0.0969,0.0,4,0.573,7,271387,-4.247,0.297
+Kanye West,ye,Violent Crimes,3s7MCdXyWmwjdcWh7GWXas,0.419,0.187,109.813,0.522,0.376,0.0,4,0.669,1,215320,-6.724,0.0397
+Kanye West,The Life Of Pablo,Ultralight Beam,1eQBEelI2NCy7AUTerX0KS,0.403,0.54,105.169,0.414,0.62,0.0,4,0.592,0,320680,-8.768,0.391
+Kanye West,The Life Of Pablo,Father Stretch My Hands Pt. 1,4KW1lqgSr8TKrvBII0Brf8,0.573,0.538,113.088,0.0549,0.118,0.0,4,0.724,7,135920,-4.113,0.438
+Kanye West,The Life Of Pablo,Pt. 2,1Wsbr1d2BouNGk2q92mIj7,0.752,0.787,145.076,0.333,0.552,0.0,4,0.674,11,130293,-4.073,0.236
+Kanye West,The Life Of Pablo,Famous,19a3JfW8BQwqHWUMbcqSx8,0.735,0.0975,173.935,0.117,0.0711,0.0,4,0.465,6,196040,-3.715,0.409
+Kanye West,The Life Of Pablo,Feedback,49fT6owWuknekShh9utsjv,0.566,0.104,100.224,0.517,0.563,0.0,4,0.811,8,147240,-6.033,0.169
+Kanye West,The Life Of Pablo,Low Lights,36o4taPyOdnOMf01ERmn9a,0.593,0.121,101.956,0.109,0.706,0.0,4,0.603,7,131773,-4.685,0.523
+Kanye West,The Life Of Pablo,Highlights,4qYLPta5HZ36idWiXtqh7B,0.626,0.313,101.971,0.208,0.00572,0.0,4,0.547,2,199867,-6.244,0.346
+Kanye West,The Life Of Pablo,Freestyle 4,6wfzokDylbrJzrJcpnBkcy,0.537,0.0907,126.036,0.095,0.0449,0.0,4,0.564,9,123387,-8.381,0.459
+Kanye West,The Life Of Pablo,I Love Kanye,5CGS4UovzA7ftCJkLVXQju,0.374,0.217,80.326,0.741,0.594,0.0,4,0.756,5,44827,-7.966,0.966
+Kanye West,The Life Of Pablo,Waves,3nAq2hCr1oWsIU54tS98pL,0.586,0.339,96.091,0.0382,0.0528,7.33e-06,4,0.557,10,181573,-4.57,0.0681
+Kanye West,The Life Of Pablo,FML,30Zcjs7pgEkmJA1lEbGSWT,0.415,0.195,125.357,0.131,0.329,0.0,4,0.527,5,236120,-7.184,0.12
+Kanye West,The Life Of Pablo,Real Friends,66Q3fAmSX5eHamgbKa9alP,0.744,0.138,81.396,0.476,0.262,0.000382,4,0.441,6,251573,-6.248,0.124
+Kanye West,The Life Of Pablo,Wolves,432hUIl3ISDeytYW5XBQ5h,0.392,0.134,155.856,0.0925,0.219,0.00173,4,0.395,1,301587,-8.034,0.103
+Kanye West,The Life Of Pablo,Frank's Track,20r94xA0bsYNLtYSiOE6r3,0.179,0.105,140.687,0.0722,0.976,0.0,4,0.655,11,38333,-6.903,0.758
+Kanye West,The Life Of Pablo,Siiiiiiiiilver Surffffeeeeer Intermission,1ZnA4VYOlYIShuGt60LmCs,0.409,0.11,72.623,0.881,0.982,0.000203,4,0.788,9,56560,-11.917,0.925
+Kanye West,The Life Of Pablo,30 Hours,2CHmgtK8OCL28WtIK96u4N,0.813,0.0886,95.012,0.288,0.0359,0.0,4,0.823,7,323303,-6.71,0.373
+Kanye West,The Life Of Pablo,No More Parties In LA,0zLClc0emc6qUeV1p5nc99,0.921,0.221,93.058,0.303,0.246,0.0,4,0.508,5,374413,-1.644,0.681
+Kanye West,The Life Of Pablo,Facts (Charlie Heat Version),3MnbXlC1N7GdS9M8HzA6no,0.662,0.168,142.059,0.143,0.0518,0.0,4,0.777,1,200733,-3.761,0.4
+Kanye West,The Life Of Pablo,Fade,3cCxoOgfi6hgt8MNteuiiD,0.765,0.31,105.998,0.0908,0.118,0.0,4,0.752,9,193748,-5.805,0.309
+Kanye West,The Life Of Pablo,Saint Pablo,1o0kWPueYo94LIjPYOE5Nf,0.772,0.178,167.018,0.375,0.282,0.0,4,0.461,2,372113,-3.98,0.414
+Kanye West,Yeezus,On Sight,1gqkRc9WtOpnGIqxf2Hvzr,0.469,0.28,101.601,0.327,0.487,0.0,4,0.605,9,156480,-3.182,0.515
+Kanye West,Yeezus,Black Skinhead,722tgOgdIbNe3BEyLnejw4,0.809,0.168,130.127,0.279,0.0011,0.0,4,0.766,1,188013,-6.123,0.325
+Kanye West,Yeezus,I Am A God,0HMCdlOPJkAGlB0MlSWIcO,0.532,0.165,111.885,0.0715,0.0367,0.000794,4,0.51,4,231507,-7.405,0.305
+Kanye West,Yeezus,New Slaves,4cAgkb0ifwn0FSHGXnr4F6,0.59,0.096,141.099,0.076,0.165,1.09e-05,4,0.506,1,256093,-4.322,0.359
+Kanye West,Yeezus,Hold My Liquor,5nIu0VwPOsjkF61zfevLKh,0.322,0.115,106.976,0.0333,0.0194,7.72e-06,4,0.497,8,326947,-10.358,0.04
+Kanye West,Yeezus,I'm In It,52NmkyHsGsHGb1UX8fTkMg,0.604,0.0668,170.337,0.345,0.141,0.0,4,0.485,1,234853,-4.591,0.45
+Kanye West,Yeezus,Blood On The Leaves,42GcjriRK6srwHkfbkBqVl,0.69,0.101,172.073,0.195,0.395,0.0,4,0.397,2,359800,-4.108,0.36
+Kanye West,Yeezus,Guilt Trip,5nPOM0nFRAJ3XI8xCxNAzO,0.666,0.129,137.9,0.0754,0.159,9.56e-06,4,0.439,4,243747,-6.078,0.579
+Kanye West,Yeezus,Send It Up,3RKblQNJs8HPvWBgXmq6nn,0.544,0.282,93.562,0.352,0.292,7.41e-05,4,0.579,9,178040,-5.193,0.365
+Kanye West,Yeezus,Bound 2,3sNVsP50132BTNlImLx70i,0.665,0.113,148.913,0.0465,0.145,0.0,4,0.367,1,229147,-2.821,0.31
+Kanye West,Kanye West Presents Good Music Cruel Summer,To The World - Album Version (Edited),6TPTfc7wJIT2jh5Aa8VuGz,0.556,0.104,141.925,0.124,0.211,0.0,4,0.722,4,230987,-8.194,0.534
+Kanye West,Kanye West Presents Good Music Cruel Summer,Clique - Album Version (Edited),7fuuAPjPDyLGyFaJEkSxAb,0.541,0.306,109.448,0.235,0.0562,0.0,5,0.717,9,293533,-5.942,0.327
+Kanye West,Kanye West Presents Good Music Cruel Summer,Mercy.1 - Album Version (Edited),0nh1o1936u4X7MaatN56j8,0.57,0.424,140.162,0.422,0.0514,0.000102,4,0.553,6,326280,-7.82,0.454
+Kanye West,Kanye West Presents Good Music Cruel Summer,New God Flow.1 - Album Version (Edited),7yyXLa0qfOqyR17qfy8cm8,0.949,0.722,173.797,0.49,0.459,0.0,4,0.475,3,357293,-3.041,0.398
+Kanye West,Kanye West Presents Good Music Cruel Summer,The Morning - Album Version (Edited),6oilcOya1YbTc9ibBp2bJs,0.582,0.241,80.483,0.408,0.036,0.0,4,0.522,7,275213,-6.903,0.185
+Kanye West,Kanye West Presents Good Music Cruel Summer,Cold.1 - Album Version (Edited),69TBeUU01dxrQKZYEzKaVE,0.888,0.239,106.705,0.0831,0.0017,0.0,5,0.671,4,216213,-4.094,0.612
+Kanye West,Kanye West Presents Good Music Cruel Summer,Higher - Album Version (Edited),2hhfoWnSh1RIYrOhXzhAOA,0.65,0.122,153.974,0.116,0.0158,0.000211,4,0.658,5,274280,-7.952,0.276
+Kanye West,Kanye West Presents Good Music Cruel Summer,Sin City - Album Version (Edited),5yyW5zyUXeVcdoBFmxRjAf,0.625,0.0823,82.946,0.117,0.0425,0.0,4,0.55,10,268387,-8.462,0.237
+Kanye West,Kanye West Presents Good Music Cruel Summer,The One - Album Version (Edited),7CfxN8x1qsUrova92PF8P2,0.757,0.127,139.919,0.145,0.0391,0.0,4,0.529,6,344880,-5.333,0.256
+Kanye West,Kanye West Presents Good Music Cruel Summer,Creepers - Album Version (Edited),51PO0Md0UhUWdzN4hcEuiN,0.74,0.115,197.961,0.0842,0.0217,0.00192,4,0.605,2,194013,-8.084,0.0767
+Kanye West,Kanye West Presents Good Music Cruel Summer,Bliss - Album Version (Edited),62I2M5Nz5VdCLygDMgDZUM,0.66,0.445,76.368,0.0401,0.0127,0.0,4,0.356,3,210013,-8.216,0.411
+Kanye West,Kanye West Presents Good Music Cruel Summer,Don't Like.1 - Album Version (Edited),51mK2xGop7WMDVeuHLvhWP,0.604,0.113,132.069,0.296,0.00708,0.0,4,0.499,2,282880,-5.443,0.626
+Kanye West,Watch The Throne (Deluxe),No Church In The Wild,0aFObVR01JzPbBMjze4xPV,0.751,0.167,92.781,0.105,0.246,0.0179,4,0.654,8,272507,-7.508,0.568
+Kanye West,Watch The Throne (Deluxe),Lift Off,63dETSxIKCdUHGzlUyCjWb,0.784,0.165,179.427,0.171,0.187,0.00177,3,0.403,2,266253,-7.584,0.275
+Kanye West,Watch The Throne (Deluxe),Ni**as In Paris,2Zb7wnGUnNPCas2E0wWSQ5,0.859,0.348,140.027,0.315,0.127,0.0,4,0.788,1,219333,-5.542,0.769
+Kanye West,Watch The Throne (Deluxe),Otis,6aGNg25mRJdqd318f9X6Wn,0.631,0.5,94.571,0.302,0.552,0.0,4,0.755,7,178213,-4.751,0.433
+Kanye West,Watch The Throne (Deluxe),Gotta Have It,2Kbxfq8wkjMCno1QJe4yyw,0.574,0.262,149.762,0.245,0.411,0.0,4,0.74,4,140747,-6.938,0.33
+Kanye West,Watch The Throne (Deluxe),New Day,2Ii1GRrLqdZCmMLLsxKhlG,0.645,0.142,91.005,0.0705,0.389,7.05e-05,4,0.561,10,272853,-6.809,0.359
+Kanye West,Watch The Throne (Deluxe),That's My Bitch,1dmwLTV54sRjGRRC9G2Sbr,0.871,0.121,108.985,0.113,0.237,0.000293,4,0.745,7,202560,-6.291,0.495
+Kanye West,Watch The Throne (Deluxe),Welcome To The Jungle,1fifW5EOTQVIeFynbpT751,0.93,0.18,92.899,0.364,0.0128,3.7e-06,4,0.636,2,174133,-5.179,0.325
+Kanye West,Watch The Throne (Deluxe),Who Gon Stop Me,3U9yv46nVSn3PkLsVcNIcA,0.73,0.715,133.88,0.159,0.0408,0.000164,4,0.594,0,256707,-4.638,0.378
+Kanye West,Watch The Throne (Deluxe),Murder To Excellence,5Be8Gm2eCrDYVIRaFW3g7I,0.816,0.0804,87.353,0.32,0.024,0.0,4,0.566,1,300960,-4.741,0.578
+Kanye West,Watch The Throne (Deluxe),Made In America,1uvcNjAEUEuA0kPqHVrmw3,0.729,0.224,165.899,0.219,0.043,5.88e-05,4,0.71,11,292067,-7.01,0.55
+Kanye West,Watch The Throne (Deluxe),Why I Love You,1xHflEg6AlgDQJUtAJ4BS1,0.805,0.269,123.441,0.0419,0.0261,0.0,4,0.481,5,201373,-4.132,0.373
+Kanye West,Watch The Throne (Deluxe),Illest Motherf**ker Alive,4DOoissGiO2oc7vtGkhAib,0.663,0.595,139.979,0.0837,0.171,1.64e-06,4,0.553,11,503320,-6.412,0.299
+Kanye West,Watch The Throne (Deluxe),H•A•M,2TK4NQXWehLphjpXTYxu1H,0.523,0.322,140.046,0.0614,0.0462,0.0,4,0.657,8,275733,-4.907,0.0382
+Kanye West,Watch The Throne (Deluxe),Primetime,32oaQIN08rnsdSP8xuW0Vt,0.923,0.31,84.99,0.21,0.166,9.64e-06,4,0.662,11,199240,-4.085,0.469
+Kanye West,Watch The Throne (Deluxe),The Joy,7huc9zi62N3uBYkJOmAhTf,0.516,0.139,79.743,0.325,0.146,3.07e-05,4,0.584,7,317920,-6.256,0.326
+Kanye West,Watch The Throne,No Church In The Wild,7Ct3wqpGLbNrrG617S00B3,0.751,0.167,92.774,0.105,0.244,0.0179,4,0.654,8,272507,-7.508,0.568
+Kanye West,Watch The Throne,Lift Off,4lwdrztjT9XLAeOP8FplSv,0.784,0.165,179.427,0.171,0.187,0.00177,3,0.403,2,266253,-7.584,0.275
+Kanye West,Watch The Throne,Ni**as In Paris,7fQmDkqrrj13kxv4Vle3AM,0.859,0.348,140.027,0.315,0.127,0.0,4,0.788,1,219333,-5.542,0.769
+Kanye West,Watch The Throne,Otis,0nLcWJB4ir9430ulKxZZhV,0.631,0.5,94.571,0.302,0.552,0.0,4,0.755,7,178213,-4.751,0.433
+Kanye West,Watch The Throne,Gotta Have It,6JFLZH9vCzgqnUToBdiHQb,0.574,0.262,149.762,0.245,0.411,0.0,4,0.74,4,140747,-6.938,0.33
+Kanye West,Watch The Throne,New Day,0tehxJrW3U8vXsJokXjywD,0.645,0.142,91.005,0.0705,0.389,7.05e-05,4,0.561,10,272853,-6.809,0.359
+Kanye West,Watch The Throne,That's My Bitch,3qAqpUIv2ry0g0BAMuE5Kd,0.871,0.121,108.985,0.113,0.237,0.000293,4,0.745,7,202560,-6.291,0.495
+Kanye West,Watch The Throne,Welcome To The Jungle,6bJDXckt81F0TfU1c3A4Ah,0.93,0.18,92.899,0.364,0.0128,3.7e-06,4,0.636,2,174133,-5.179,0.325
+Kanye West,Watch The Throne,Who Gon Stop Me,2eqOjSC8dY1iFrQiJGPDOX,0.73,0.715,133.88,0.159,0.0408,0.000164,4,0.594,0,256707,-4.638,0.378
+Kanye West,Watch The Throne,Murder To Excellence,6IE4ozG51DjyY5Iuh82hqn,0.816,0.0804,87.353,0.32,0.024,0.0,4,0.566,1,300960,-4.741,0.578
+Kanye West,Watch The Throne,Made In America,15kwOUhZh4wLBhXALRdH2j,0.729,0.224,165.899,0.219,0.043,5.88e-05,4,0.71,11,292067,-7.01,0.55
+Kanye West,Watch The Throne,Why I Love You,1RcOY4L1XFV9o5q4LUjRtP,0.805,0.267,123.441,0.0419,0.0261,0.0,4,0.481,5,201453,-4.132,0.373
+Kanye West,My Beautiful Dark Twisted Fantasy,Dark Fantasy,7yNK27ZTpHew0c55VvIJgm,0.587,0.167,87.998,0.0423,0.274,0.0,4,0.599,5,280787,-5.919,0.373
+Kanye West,My Beautiful Dark Twisted Fantasy,Gorgeous,23SZWX2IaDnxmhFsSLvkG2,0.713,0.431,91.964,0.0326,0.0207,0.000175,4,0.598,6,357653,-3.625,0.118
+Kanye West,My Beautiful Dark Twisted Fantasy,POWER,2gZUPNdnz5Y45eiGxpHGSc,0.914,0.744,153.993,0.113,0.0161,0.0,4,0.542,0,292093,-4.747,0.576
+Kanye West,My Beautiful Dark Twisted Fantasy,All Of The Lights (Interlude),4D6TpthzUVNTjWQqfBW5Kb,0.0792,0.128,110.95,0.0389,0.902,0.591,3,0.296,10,62253,-16.569,0.496
+Kanye West,My Beautiful Dark Twisted Fantasy,All Of The Lights,22L7bfCiAkJo5xGSQgmiIO,0.803,0.176,142.113,0.0717,0.0796,1.71e-05,4,0.531,1,299613,-3.284,0.221
+Kanye West,My Beautiful Dark Twisted Fantasy,Monster,1ZHYJ2Wwgxes4m8Ba88PeK,0.692,0.668,124.887,0.202,0.00244,0.0129,5,0.628,2,378893,-5.64,0.0963
+Kanye West,My Beautiful Dark Twisted Fantasy,So Appalled,6K07Ahf6V7CAQn0ikrOztl,0.754,0.63,87.15,0.283,0.255,0.0,4,0.64,1,397667,-5.873,0.584
+Kanye West,My Beautiful Dark Twisted Fantasy,Devil In A New Dress,1UGD3lW3tDmgZfAVDh6w7r,0.76,0.158,80.082,0.0721,0.0175,0.0,4,0.435,8,351947,-4.935,0.206
+Kanye West,My Beautiful Dark Twisted Fantasy,Runaway,3DK6m7It6Pw857FcQftMds,0.568,0.513,84.733,0.109,0.219,0.00219,4,0.374,1,547733,-3.825,0.111
+Kanye West,My Beautiful Dark Twisted Fantasy,Hell Of A Life,3rCNmRonlHN1TXQLcG3dSk,0.813,0.106,177.962,0.129,0.00142,0.000172,4,0.449,8,327787,-5.478,0.452
+Kanye West,My Beautiful Dark Twisted Fantasy,Blame Game,4EndPA8b6FDWYp1RgsnLEB,0.581,0.11,80.305,0.0688,0.306,6.3e-05,1,0.419,10,469867,-5.964,0.636
+Kanye West,My Beautiful Dark Twisted Fantasy,Lost In The World,2Im64pIz6m0EJKdUe6eZ8r,0.746,0.427,117.072,0.184,0.115,0.0087,4,0.608,5,256587,-5.249,0.277
+Kanye West,My Beautiful Dark Twisted Fantasy,Who Will Survive In America,4e5IPJxSGVWPsaxQzdRseN,0.842,0.856,116.166,0.36,0.228,0.000684,4,0.677,1,98200,-6.111,0.595
+Kanye West,808s & Heartbreak,Say You Will,4ulYASOuCUwa2hQRsE2OVh,0.401,0.103,172.633,0.0306,0.542,0.225,4,0.603,0,377600,-10.155,0.347
+Kanye West,808s & Heartbreak,Welcome To Heartbreak,5Qhq7GH9AOvpP6h7QkRWTl,0.435,0.111,95.991,0.033,0.0985,0.721,4,0.677,7,262933,-11.024,0.0729
+Kanye West,808s & Heartbreak,Heartless,4ZMJshw6UOvaTWWThYtEoW,0.647,0.248,87.999,0.136,0.0515,0.0,4,0.79,10,211000,-5.983,0.654
+Kanye West,808s & Heartbreak,Amazing,01UniWABhnIka7GgvzOC02,0.554,0.0619,146.133,0.0545,0.216,0.118,4,0.588,8,238333,-8.406,0.496
+Kanye West,808s & Heartbreak,Love Lockdown,05bIHrj5BTUoQxXZS6IH3M,0.524,0.112,119.603,0.0323,0.0542,0.5,4,0.76,1,270307,-7.67,0.112
+Kanye West,808s & Heartbreak,Paranoid,6S4ifbZ4Q2DhhD0ysxftK3,0.611,0.0765,114.991,0.106,0.114,9.83e-05,4,0.587,6,277907,-7.408,0.464
+Kanye West,808s & Heartbreak,RoboCop,02IlA1DlVZa5chlik45jv5,0.447,0.405,133.776,0.102,0.157,0.00564,4,0.698,5,274360,-8.04,0.407
+Kanye West,808s & Heartbreak,Street Lights,5ByRHOS9edOQr436aB8NdN,0.487,0.206,125.528,0.034,0.0287,0.0166,4,0.644,6,189907,-9.654,0.467
+Kanye West,808s & Heartbreak,Bad News,3I9MY53joyhqFNKjqGHJKy,0.436,0.114,106.171,0.0393,0.0288,0.201,4,0.749,9,238773,-11.99,0.167
+Kanye West,808s & Heartbreak,See You In My Nightmares,60903t5ee2xtH5dHJ0AnPQ,0.432,0.103,124.597,0.0339,0.0626,0.0,4,0.676,7,258120,-8.035,0.156
+Kanye West,808s & Heartbreak,Coldest Winter,3Oa5mzKpQM8MrpcylcnnNJ,0.516,0.265,133.999,0.044,0.171,3.21e-06,4,0.761,0,164333,-10.229,0.562
+Kanye West,808s & Heartbreak,Pinocchio Story - Freestyle / Live From Singapore,2H4MsAq1bT8Wr78Sc8WFJg,0.281,0.948,74.997,0.0501,0.95,0.0,4,0.341,10,361600,-13.204,0.306
+Kanye West,Graduation,Good Morning,6MXXY2eiWkpDCezVCc0cMH,0.631,0.149,84.164,0.116,0.0791,0.000105,4,0.48,7,195093,-5.488,0.515
+Kanye West,Graduation,Champion,4UQMOPSUVJVicIQzjAcRRZ,0.504,0.695,102.139,0.238,0.00299,0.0,4,0.693,6,167600,-8.306,0.723
+Kanye West,Graduation,Stronger,0j2T0R9dR9qdJYsB7ciXhf,0.717,0.408,103.992,0.153,0.00564,0.0,4,0.617,10,311867,-7.858,0.49
+Kanye West,Graduation,I Wonder,7rbECVPkY5UODxoOUVKZnA,0.466,0.125,191.385,0.0831,0.141,0.000445,4,0.542,0,243440,-8.665,0.124
+Kanye West,Graduation,Good Life,4ZPdLEztrlZqbJkgHNw54L,0.808,0.439,82.962,0.346,0.00305,0.0,4,0.439,1,207000,-6.881,0.487
+Kanye West,Graduation,Can't Tell Me Nothing,0mEdbdeRFQwBhN4xfyIeUM,0.62,0.82,80.029,0.039,0.0122,0.0,4,0.596,5,271600,-6.133,0.102
+Kanye West,Graduation,Barry Bonds,7387VaiHpOsSIZ5nmjseya,0.624,0.337,165.057,0.382,0.0451,0.0,4,0.48,1,204307,-6.131,0.704
+Kanye West,Graduation,Drunk and Hot Girls,7DRuzSlhjKadgdsQRYZ0tr,0.442,0.136,82.758,0.0285,0.0697,1.15e-05,3,0.661,10,313227,-7.297,0.299
+Kanye West,Graduation,Flashing Lights,5TRPicyLGbAF2LGBFbHGvO,0.628,0.386,90.482,0.0399,0.0381,0.0,4,0.639,6,237507,-7.578,0.43
+Kanye West,Graduation,Everything I Am,0NrtwAmRAdLxua31SzHvXr,0.623,0.151,80.23,0.265,0.463,1.7e-06,4,0.631,8,227893,-6.969,0.765
+Kanye West,Graduation,The Glory,0lWjRSzq5chA9fps3pM8Zr,0.643,0.172,84.336,0.287,0.0455,0.0,4,0.423,6,212707,-7.261,0.708
+Kanye West,Graduation,Homecoming,4iz9lGMjU1lXS51oPmUmTe,0.747,0.115,86.917,0.189,0.337,0.0,4,0.667,1,203493,-7.059,0.918
+Kanye West,Graduation,Big Brother,2L47m9erkB5KBZcaqWtYen,0.742,0.0642,78.428,0.259,0.214,0.0,4,0.498,11,287560,-6.248,0.302
+Kanye West,Graduation,Good Night,3bhyo2ED5Yd4RLydQBDtD6,0.526,0.192,88.931,0.171,0.177,0.0,4,0.696,11,185973,-10.504,0.703
+Kanye West,Graduation (Exclusive Edition),Good Morning,5MTwfuYDZqRIEwOAamaT2I,0.627,0.14,169.845,0.13,0.0749,0.000196,4,0.589,9,195093,-5.371,0.522
+Kanye West,Graduation (Exclusive Edition),Champion,7gXQeFv66TUng1LyjjHDvb,0.503,0.694,102.157,0.226,0.00346,0.0,4,0.688,6,167533,-8.386,0.747
+Kanye West,Graduation (Exclusive Edition),Stronger,1gudTcOiMosmCC6EKEzomI,0.708,0.404,103.96,0.15,0.00651,0.0,4,0.617,1,312027,-7.873,0.462
+Kanye West,Graduation (Exclusive Edition),I Wonder,0lHALprBBAHaqmFRhbPLcz,0.465,0.219,191.389,0.0827,0.125,0.000265,4,0.541,0,243440,-8.562,0.132
+Kanye West,Graduation (Exclusive Edition),Good Life,34d1FpzE7sxdr5jbVrVoyh,0.729,0.563,169.346,0.338,0.00214,0.0,4,0.391,10,206867,-7.918,0.469
+Kanye West,Graduation (Exclusive Edition),Can't Tell Me Nothing,6blB3TgR6VY9fo3wdfKo2h,0.616,0.689,80.041,0.0534,0.0128,0.0,4,0.592,5,271760,-6.139,0.0892
+Kanye West,Graduation (Exclusive Edition),Barry Bonds,45e9hMnPUS9FF7yG6safks,0.619,0.264,166.712,0.36,0.0545,0.0,4,0.477,1,204333,-6.035,0.766
+Kanye West,Graduation (Exclusive Edition),Drunk and Hot Girls,6BJbDjhZEgOr2a1PA8hxhh,0.438,0.124,82.782,0.0285,0.0896,9.56e-06,3,0.666,10,313267,-7.284,0.29
+Kanye West,Graduation (Exclusive Edition),Flashing Lights,4lS5zzdpzIGvgXtw9tVRW9,0.623,0.405,90.486,0.0391,0.0316,0.0,4,0.643,6,237440,-7.605,0.436
+Kanye West,Graduation (Exclusive Edition),Everything I Am,5fpZ5u4RfqdeVMmECpumYW,0.63,0.169,80.471,0.256,0.433,1.13e-05,4,0.632,8,227400,-6.986,0.706
+Kanye West,Graduation (Exclusive Edition),The Glory,1QJyCXveflhQzI3uYe0ZYg,0.632,0.182,88.376,0.28,0.0412,0.0,4,0.471,6,212667,-7.669,0.708
+Kanye West,Graduation (Exclusive Edition),Homecoming,2BcbpKOj2vvG7GHXv6vKqN,0.747,0.113,86.996,0.188,0.353,0.0,4,0.678,1,204027,-7.07,0.923
+Kanye West,Graduation (Exclusive Edition),Big Brother,6i2iYCplMpce479Qwp7dgO,0.723,0.0876,70.906,0.25,0.171,0.0,3,0.466,11,288067,-6.761,0.314
+Kanye West,Graduation (Exclusive Edition),Good Night - [Bonus Track],325AXZfDYBuxXAWSL4l0Mg,0.548,0.121,88.927,0.188,0.194,0.0,4,0.704,2,186360,-9.7,0.692
+Kanye West,Graduation (Alternative Business Partners),Good Morning,7rBsYaybbcRhCDOZWU48e3,0.631,0.149,84.164,0.116,0.0791,0.000105,4,0.48,7,195093,-5.488,0.515
+Kanye West,Graduation (Alternative Business Partners),Champion,0ErMK31Mr9j6tPA1F58rT9,0.504,0.695,102.139,0.238,0.00299,0.0,4,0.693,6,167600,-8.306,0.723
+Kanye West,Graduation (Alternative Business Partners),Stronger,08IrLUx06jBA1Hv8kuAIw2,0.717,0.408,103.992,0.153,0.00564,0.0,4,0.617,10,311867,-7.858,0.49
+Kanye West,Graduation (Alternative Business Partners),I Wonder,3ZDWOVWbiFBXR175n2x7xU,0.466,0.125,191.385,0.0831,0.141,0.000445,4,0.542,0,243440,-8.665,0.124
+Kanye West,Graduation (Alternative Business Partners),Good Life,5ms35iZF8uOH31RHwuiY7H,0.808,0.439,82.962,0.346,0.00305,0.0,4,0.439,1,207000,-6.881,0.487
+Kanye West,Graduation (Alternative Business Partners),Can't Tell Me Nothing,7ptxlO1s34uXTPnm2S0Tno,0.62,0.82,80.029,0.039,0.0122,0.0,4,0.596,5,271600,-6.133,0.102
+Kanye West,Graduation (Alternative Business Partners),Barry Bonds,5QCQOnS6l1erpsR6lLDIy8,0.624,0.337,165.057,0.382,0.0451,0.0,4,0.48,1,204307,-6.131,0.704
+Kanye West,Graduation (Alternative Business Partners),Drunk and Hot Girls,4eOg3M43mNy92pQ2cSnk0I,0.442,0.136,82.758,0.0285,0.0697,1.15e-05,3,0.661,10,313227,-7.297,0.299
+Kanye West,Graduation (Alternative Business Partners),Flashing Lights,1waKLXaVjzVBfxqJOTOOrL,0.628,0.386,90.482,0.0399,0.0381,0.0,4,0.639,6,237507,-7.578,0.43
+Kanye West,Graduation (Alternative Business Partners),Everything I Am,1Z6lmFBmbqEC42hvVQu44v,0.623,0.151,80.23,0.265,0.463,1.7e-06,4,0.631,8,227893,-6.969,0.765
+Kanye West,Graduation (Alternative Business Partners),The Glory,6GER4PG6kKfOZz2Kuj7l9j,0.643,0.172,84.336,0.287,0.0455,0.0,4,0.423,6,212707,-7.261,0.708
+Kanye West,Graduation (Alternative Business Partners),Homecoming,1inwRCAEYHy6e7J0y1nnHx,0.747,0.115,86.917,0.189,0.337,0.0,4,0.667,1,203493,-7.059,0.918
+Kanye West,Graduation (Alternative Business Partners),Big Brother,0yvUCJ3YwG31meB8g8Extx,0.742,0.0641,78.428,0.259,0.214,0.0,4,0.498,11,287573,-6.248,0.302
+Kanye West,Graduation (Alternative Business Partners),Can't Tell Me Nothing - Remix feat. Young Jeezy,4tP6oSkZdhs83UB9LftHFY,0.611,0.613,79.901,0.0379,0.0105,0.0,4,0.526,5,247573,-6.701,0.0971
+Kanye West,Graduation (French Limited Version),Good Morning,6LbtKCO7lJ08RUVUwbWN1J,0.618,0.146,169.714,0.127,0.0711,0.000119,4,0.58,0,195200,-5.457,0.543
+Kanye West,Graduation (French Limited Version),Champion,3gKfCgabK5ohZNh24p7BBE,0.5,0.687,102.091,0.27,0.00303,0.0,4,0.669,6,167507,-8.315,0.777
+Kanye West,Graduation (French Limited Version),Stronger,0zQS4nZPuKl1isqXVGhwUg,0.72,0.372,103.987,0.13,0.00529,0.0,4,0.631,10,311947,-7.854,0.478
+Kanye West,Graduation (French Limited Version),I Wonder,6uStyLa1SkHVKk7KXtSso8,0.463,0.385,95.679,0.0424,0.139,0.000394,4,0.684,0,243427,-8.665,0.11
+Kanye West,Graduation (French Limited Version),Good Life,222vBtQSGtX6yCL8S5Y5Ui,0.722,0.518,169.275,0.344,0.00226,0.0,4,0.378,10,207013,-8.117,0.516
+Kanye West,Graduation (French Limited Version),Can't Tell Me Nothing,1j3a021kY7d7Qqxq2HMrI8,0.623,0.675,79.506,0.0506,0.0126,0.0,4,0.467,5,271600,-6.166,0.0978
+Kanye West,Graduation (French Limited Version),Barry Bonds,6sAjm55flRReDptlqsxi34,0.637,0.282,82.995,0.308,0.0387,0.0,4,0.631,1,204333,-6.175,0.735
+Kanye West,Graduation (French Limited Version),Drunk and Hot Girls,25AoFOqP4k514bcKe7XS1A,0.454,0.134,82.767,0.0308,0.0595,3.92e-06,3,0.659,10,313227,-7.317,0.293
+Kanye West,Graduation (French Limited Version),Flashing Lights,43sHR9wKITXBE7Xnnjg2X4,0.624,0.338,90.493,0.0394,0.0328,0.0,4,0.637,6,237507,-7.592,0.455
+Kanye West,Graduation (French Limited Version),Everything I Am,4WX5Y4nATvRwi2M9GpTHnp,0.629,0.14,80.493,0.288,0.424,4.24e-06,4,0.601,8,227773,-6.947,0.752
+Kanye West,Graduation (French Limited Version),The Glory,50pq2uoicYhN7yOsO3cdel,0.646,0.128,82.762,0.291,0.0572,0.0,4,0.399,6,212827,-7.269,0.677
+Kanye West,Graduation (French Limited Version),Homecoming,2DvDmy9aCv9TajH0MkHsXa,0.744,0.12,87.009,0.172,0.353,0.0,4,0.682,10,203507,-7.067,0.915
+Kanye West,Graduation (French Limited Version),Big Brother,3I1hxWXVYhH6rjd3sn3P4n,0.729,0.072,81.502,0.236,0.17,0.0,4,0.456,11,287413,-6.751,0.309
+Kanye West,Graduation (French Limited Version),Stronger - A-Trak Remix,6kaltnzR4QATRbBWHDWCp2,0.797,0.0723,126.0,0.119,0.00405,0.00049,4,0.73,1,276147,-4.981,0.382
+Kanye West,Graduation (French Limited Version),Stronger - AD Remix Main,4kq7ehLZmuiJeFUrRxm7W7,0.91,0.0754,124.009,0.0336,0.00677,0.0166,4,0.721,3,285880,-5.439,0.73
+Kanye West,Late Orchestration,Diamonds From Sierra Leone - Live At Abbey Road Studios,0gBPIT136F1kfN5F40d2h2,0.884,0.706,111.073,0.348,0.321,0.0,5,0.433,7,247600,-4.676,0.322
+Kanye West,Late Orchestration,Touch The Sky - Live At Abbey Road Studios,0Xvbqfjc2sivTVj9SHIOIR,0.768,0.921,106.682,0.283,0.251,0.0,4,0.697,11,246453,-6.658,0.39
+Kanye West,Late Orchestration,Crack Music - Live At Abbey Road Studios,1Afi8OBrtXj9iNWK0UiQqt,0.722,0.548,83.207,0.378,0.0251,0.0,4,0.519,2,167853,-6.951,0.173
+Kanye West,Late Orchestration,Drive Slow - Live At Abbey Road Studios,0hk24xUpnTjJdXUQQEPQLe,0.786,0.116,87.743,0.328,0.177,0.0,4,0.545,6,273760,-6.528,0.543
+Kanye West,Late Orchestration,Through The Wire - Live At Abbey Road Studios,5FRNP7NPI6DWvAkSJeH2eY,0.804,0.28,79.267,0.338,0.00435,0.0,4,0.398,7,212773,-6.667,0.643
+Kanye West,Late Orchestration,Workout Plan - Live At Abbey Road Studios,6BMWL1t7ED3UwULK9CiO7g,0.74,0.655,117.871,0.186,0.0102,0.0,4,0.634,2,171667,-6.606,0.335
+Kanye West,Late Orchestration,Heard 'Em Say - Live At Abbey Road Studios,3CVu4NHRrnMzTP6ybDbyrk,0.769,0.972,94.525,0.231,0.646,4.28e-06,4,0.53,10,249533,-8.449,0.193
+Kanye West,Late Orchestration,All Falls Down - Live At Abbey Road Studios,1Mj2wJxQaMq00HfYAkLCz6,0.86,0.499,90.428,0.461,0.198,0.0,4,0.565,10,193040,-7.069,0.529
+Kanye West,Late Orchestration,Bring Me Down - Live At Abbey Road Studios,2QUSPP2mVuUt08tW0lUry6,0.716,0.346,79.724,0.14,0.0755,0.0,4,0.432,9,200467,-7.17,0.46
+Kanye West,Late Orchestration,Gone - Live At Abbey Road Studios,5YPQPhF6Y0ZuNCxX6fFxiL,0.776,0.372,92.836,0.345,0.178,0.0,4,0.662,2,254373,-6.339,0.233
+Kanye West,Late Orchestration,Late - Live At Abbey Road Studios,0LGYz76x0fE2JeUcKDpcvc,0.81,0.666,79.36,0.45,0.0595,1.85e-05,4,0.297,10,234187,-5.819,0.422
+Kanye West,Late Orchestration,Jesus Walks - Live At Abbey Road Studios,1vJvwNUE99zqvu62iKCzJd,0.873,0.444,77.108,0.465,0.337,0.0,1,0.432,3,193627,-6.038,0.533
+Kanye West,Late Orchestration,Gold Digger - AOL Sessions,6sppiVa0w9Lfi7m8NVwTsf,0.681,0.136,92.313,0.39,0.0404,0.0,4,0.674,1,197960,-9.681,0.732
+Kanye West,Late Registration,Wake Up Mr. West,62KeM7jbmYvzT5FycdiQeS,0.306,0.0657,73.346,0.93,0.817,0.0,5,0.746,10,41067,-9.765,0.704
+Kanye West,Late Registration,Heard 'Em Say,6yIjtVtnOBeC8SwdVHzAuF,0.696,0.128,95.07,0.162,0.0535,0.0454,4,0.744,7,203733,-8.313,0.563
+Kanye West,Late Registration,Touch The Sky,2dxjKgT0li4qBI3QwuN9Ih,0.846,0.309,98.56,0.342,0.0114,0.0,1,0.552,9,236600,-4.912,0.554
+Kanye West,Late Registration,Gold Digger,1PS1QMdUqOal0ai3Gt7sDQ,0.696,0.0554,93.034,0.348,0.0195,0.0,4,0.629,1,207627,-5.572,0.623
+Kanye West,Late Registration,Skit #1,164al00XRSLWG6h4hc12bD,0.307,0.146,53.629,0.911,0.467,0.0,3,0.825,10,33573,-12.543,0.748
+Kanye West,Late Registration,Drive Slow,6vB49BJ70zBpDrrAPwdaB8,0.593,0.229,81.291,0.289,0.0306,9.94e-06,1,0.593,11,272227,-8.216,0.488
+Kanye West,Late Registration,My Way Home,0TzIHqhAbvYR6qJKrMMFlk,0.596,0.0976,86.965,0.0408,0.33,0.0,4,0.593,8,103373,-10.488,0.776
+Kanye West,Late Registration,Crack Music,4fRTe59xEeNHT4uyAGsV27,0.712,0.345,168.121,0.209,0.00975,0.000477,5,0.726,11,270867,-6.288,0.554
+Kanye West,Late Registration,Roses,2DHNCWZYmVr1Lv08q5b0kB,0.465,0.108,97.702,0.0952,0.259,2.7e-05,4,0.723,3,245867,-6.454,0.513
+Kanye West,Late Registration,Bring Me Down,25K9cWrxNv991UYiOzBJqR,0.691,0.595,111.278,0.0924,0.00592,0.0,5,0.385,6,198973,-6.919,0.352
+Kanye West,Late Registration,Addiction,5VzeI5JM2y9t21JwrWAnkH,0.756,0.252,115.264,0.185,0.184,0.0,4,0.504,1,267067,-8.318,0.55
+Kanye West,Late Registration,Skit #2,466XcSgGAiQxcDrcV0yoMP,0.412,0.164,66.512,0.946,0.253,0.0,4,0.731,11,31360,-11.59,0.95
+Kanye West,Late Registration,Diamonds From Sierra Leone - Remix,34KUIBsIUiPV7oCIzSdDAU,0.814,0.164,97.043,0.27,0.258,0.0,4,0.672,7,233400,-3.768,0.379
+Kanye West,Late Registration,We Major,46fk9wjYcPm0sgym2b7EEE,0.88,0.045,85.641,0.123,0.0107,0.0,4,0.234,11,448000,-3.66,0.216
+Kanye West,Late Registration,Skit #3,2Xn5DIyAba7Fgyky3gU3rA,0.451,0.467,166.546,0.956,0.599,0.0,3,0.64,7,24133,-11.984,0.6
+Kanye West,Late Registration,Hey Mama,46OFHBw45fNi7QNjSetITR,0.754,0.113,95.784,0.223,0.0593,0.0,4,0.583,7,305067,-6.993,0.347
+Kanye West,Late Registration,Celebration,7jAxGkXU58FwNMjqoMahn7,0.776,0.118,79.992,0.213,0.0164,1.41e-06,4,0.295,10,198440,-4.199,0.35
+Kanye West,Late Registration,Skit #4,3zXhvJaLpxefYIxBE0cnB0,0.258,0.148,118.732,0.873,0.0411,0.0,3,0.722,10,78667,-19.633,0.141
+Kanye West,Late Registration,Gone,5RjbFGeWVsCpw8EcE8OrvZ,0.668,0.0699,92.703,0.26,0.015,0.0,4,0.842,1,333293,-6.043,0.345
+Kanye West,Late Registration,Diamonds From Sierra Leone - Bonus Track,4R5bSS8yoCl2czeWLr61aO,0.846,0.306,100.771,0.263,0.148,0.0,4,0.435,7,238400,-3.458,0.57
+Kanye West,Late Registration,Late,1mFHMzbaECWFaPfoePoEYl,0.843,0.295,75.281,0.173,0.197,3.95e-06,4,0.334,10,230493,-5.928,0.616
+Kanye West,The College Dropout,Intro,7lIr3vVhpDkU5mQEDcnA0S,0.331,0.51,87.491,0.877,0.237,0.0,3,0.713,6,19133,-13.909,0.463
+Kanye West,The College Dropout,We Don't Care,0IW0qaeyxL5Et4UG2MrJKB,0.754,0.247,83.155,0.181,0.0142,0.0,4,0.595,11,239880,-5.827,0.647
+Kanye West,The College Dropout,Graduation Day,7wL7Lb8Q3aYyq6gmRL0PZq,0.447,0.414,169.336,0.338,0.684,2.1e-06,4,0.418,0,81787,-9.058,0.869
+Kanye West,The College Dropout,All Falls Down,5SkRLpaGtvYPhw02vZhQQ9,0.734,0.139,91.03,0.484,0.149,0.0,4,0.657,8,223507,-4.832,0.434
+Kanye West,The College Dropout,I'll Fly Away,6MgGapP3EPFm9kYUvYBTZR,0.25,0.124,172.338,0.0289,0.76,0.0,4,0.239,6,69707,-11.414,0.564
+Kanye West,The College Dropout,Spaceship,1ko2NuvWlQdxtNRc8QQzmT,0.753,0.573,178.068,0.19,0.503,0.0,3,0.507,5,324227,-5.31,0.657
+Kanye West,The College Dropout,Jesus Walks,5g1vtHqi9uV7xtYeCcFOBx,0.834,0.317,87.312,0.323,0.614,0.0,4,0.637,3,193733,-4.686,0.715
+Kanye West,The College Dropout,Never Let Me Down,34j4OxJxKznBs88cjSL2j9,0.816,0.169,80.293,0.403,0.423,0.0,4,0.459,11,324440,-4.872,0.643
+Kanye West,The College Dropout,Get Em High,5b2FFKC64kxqcfaFnIZxoM,0.644,0.489,84.788,0.373,0.184,0.0,4,0.614,11,289493,-5.672,0.649
+Kanye West,The College Dropout,Workout Plan,2a1JSfTePKhysdIif2bzut,0.288,0.688,115.114,0.925,0.785,0.0,4,0.715,1,46173,-13.843,0.772
+Kanye West,The College Dropout,The New Workout Plan,1Vp4St7JcXaUoJcIahtf3L,0.792,0.365,118.022,0.198,0.00981,0.0,4,0.704,2,322800,-4.831,0.646
+Kanye West,The College Dropout,Slow Jamz,3A4cpTBPaIQdtPFb5JxtaX,0.733,0.284,145.115,0.171,0.314,0.0,4,0.559,2,316053,-5.659,0.611
+Kanye West,The College Dropout,Breathe In Breathe Out,4KFY4EEv9CN6ivrzD6vEvg,0.7,0.161,88.817,0.421,0.341,0.0,4,0.636,1,246933,-3.099,0.924
+Kanye West,The College Dropout,School Spirit Skit 1,25mwJPzWVmS2yronBNQJF1,0.218,0.352,164.25,0.95,0.326,0.0,5,0.648,8,78693,-15.108,0.642
+Kanye West,The College Dropout,School Spirit,1th3G3okofWlvGWAAR7Y4V,0.787,0.236,84.81,0.21,0.339,0.0,4,0.483,5,182387,-5.422,0.592
+Kanye West,The College Dropout,School Spirit Skit 2,5MAY7XyW322jMwLDtBQgsZ,0.308,0.215,128.412,0.925,0.334,0.0,3,0.716,5,43533,-12.629,0.83
+Kanye West,The College Dropout,Lil Jimmy Skit,4BhwlQ9mTwhFGXpQvP9JTV,0.279,0.375,82.475,0.484,0.803,0.0,4,0.64,10,53640,-12.396,0.741
+Kanye West,The College Dropout,Two Words,62wtttQzoIA9HnNmGVd9Yq,0.807,0.217,84.649,0.265,0.0158,6.43e-06,4,0.442,6,266213,-4.753,0.446
+Kanye West,The College Dropout,Through The Wire,4mmkhcEm1Ljy1U9nwtsxUo,0.739,0.158,83.089,0.247,0.00865,5.21e-06,4,0.571,7,221227,-6.11,0.66
+Kanye West,The College Dropout,Family Business,5DBmXF7QO43Cuy9yqva116,0.524,0.392,93.691,0.21,0.139,0.0,4,0.744,1,278893,-7.452,0.606
+Kanye West,The College Dropout,Last Call,7iOhWWYjhhQiXzF4o4HhXN,0.727,0.316,83.212,0.356,0.577,0.0,4,0.473,8,760973,-6.843,0.854
+Kanye West,Nah Nah Nah (feat. DaBaby & 2 Chainz) [Remix],Nah Nah Nah (feat. DaBaby & 2 Chainz) - Remix,20m8ZHA6Jevqo1xnhQffQu,0.743,0.261,150.024,0.371,0.00494,0.0,4,0.733,2,191353,-5.045,0.623
+Kanye West,Nah Nah Nah,Nah Nah Nah,065J6YUGz8tN0A3TkRrWtP,0.66,0.201,149.997,0.386,0.0159,3.13e-06,4,0.797,2,178553,-8.156,0.796
+Kanye West,I Love It [(Freaky Girl) Edit],I Love It - (Freaky Girl) Edit,48TKzChW6nk1WWldshUBMd,0.48,0.256,104.108,0.255,0.014,0.0,4,0.888,0,127947,-8.48,0.389
+Kanye West,I Love It,I Love It (& Lil Pump),4S8d14HvHb70ImctNgVzQQ,0.522,0.259,104.053,0.33,0.0114,0.0,4,0.901,2,127947,-8.304,0.329
+Kanye West,XTCY,XTCY,64wdPpi4OeCQF4W2oMZ9Wt,0.759,0.726,94.046,0.0541,0.213,0.0,4,0.553,2,176613,-3.385,0.246
+Kanye West,Lift Yourself,Lift Yourself,3uYDO9dPLTVrgfwg7EYXSf,0.435,0.115,98.008,0.136,0.0108,1.88e-06,4,0.877,0,147905,-8.131,0.589
+Kanye West,Ye vs. the People (starring TI as the People),Ye vs. the People (starring TI as the People),69b0SDYOymaqYwm3la237H,0.822,0.103,79.973,0.294,0.0568,0.0,4,0.464,1,202641,-1.881,0.722
+Kanye West,All Day,All Day,4lFBXsmbUSebUBoNzE9XVr,0.632,0.107,123.018,0.119,0.0401,0.0,4,0.836,9,310907,-4.789,0.483
+Kanye West,FourFiveSeconds,FourFiveSeconds,78TTtXnFQPzwqlbtbwqN0y,0.272,0.13,205.846,0.0501,0.875,0.0,4,0.582,2,188238,-5.662,0.354
+Kanye West,Only One,Only One,0j35X8cTq543QDYLOyqB8W,0.243,0.111,102.087,0.0435,0.939,0.0,4,0.732,0,280227,-6.023,0.106
+Kanye West,Clique,Clique,3rbNV2GI8Vtd8byhUtXZID,0.569,0.191,109.314,0.247,0.0488,0.0,5,0.704,7,293533,-4.998,0.313
+Kanye West,Cold,Cold,4eOJxoVUcN0kFX3ymAoREV,0.686,0.281,106.695,0.134,8.71e-05,0.0,5,0.425,4,219507,-8.213,0.468
+Kanye West,Mercy,Mercy,4qikXelSRKvoCqFcHLB2H2,0.496,0.173,139.993,0.406,0.0685,5.8e-05,4,0.563,6,329320,-9.381,0.426
+Kanye West,New God Flow,New God Flow,1DbeslBYnckTqqTcc1Y2Tg,0.914,0.353,173.694,0.386,0.393,0.0,4,0.493,3,294907,-2.963,0.519
+Kanye West,Runaway (Explicit Version),Runaway,50HCj9kEXIonBwRLXFWCr8,0.714,0.0982,86.988,0.117,0.201,9.41e-05,4,0.751,1,339440,-4.571,0.138
+Kanye West,Runaway (Edited Version),Runaway - Edited Version,3xBMMQp74vTbB3mO6CZ678,0.704,0.0898,87.027,0.093,0.213,0.000195,4,0.76,1,339013,-4.547,0.151
+Kanye West,Alors On Danse,Alors On Danse,3LSgimWw447KOR7SRM83Va,0.816,0.367,119.958,0.073,0.128,0.000118,4,0.744,1,216520,-4.9,0.723
+Kanye West,Christmas In Harlem,Christmas In Harlem,00HMEiBMDkbNCHLJL6zqVk,0.787,0.125,85.893,0.183,0.254,0.0,4,0.53,1,236213,-4.769,0.816
+Kanye West,Paranoid,Paranoid - NEW Mix,3BWHyuFpeNlbPLSyxNuTjp,0.55,0.113,114.961,0.0397,0.0882,0.000486,4,0.8,6,285733,-6.469,0.469
+Kanye West,Love Lockdown (Essential 5 EP),Love Lockdown,3wFLJsGyhgaEXnFI83x0FL,0.506,0.111,119.587,0.0318,0.0991,0.213,4,0.772,1,271267,-7.882,0.0641
+Kanye West,Love Lockdown (Essential 5 EP),Homecoming,5yuU6bGyfeZspnqCNytnny,0.738,0.114,87.029,0.179,0.32,0.0,4,0.68,10,203893,-7.077,0.926
+Kanye West,Love Lockdown (Essential 5 EP),Stronger,1eLJoRzqfc8oeSl9KsNmN8,0.711,0.343,103.963,0.138,0.00611,0.0,4,0.624,1,312267,-7.847,0.461
+Kanye West,Love Lockdown (Essential 5 EP),Gold Digger,0GCwp8kKMnwPN9iErJmbj8,0.697,0.0682,93.332,0.372,0.0169,0.0,4,0.631,1,209120,-5.737,0.618
+Kanye West,Love Lockdown (Essential 5 EP),Good Life,3GrIgM8I2xiJwnCkVDrJba,0.788,0.475,169.561,0.383,0.00381,0.0,4,0.384,1,207400,-6.898,0.525
+Kanye West,Flashing Lights,Flashing Lights,5g4J8GMYMWF2CUSDVhqWJR,0.625,0.385,90.486,0.0443,0.0345,0.0,4,0.639,6,237907,-7.605,0.494
+Kanye West,Flashing Lights,Stronger - AD Remix Main,63YZVRrkXVRJ40xCVvVNJA,0.848,0.0722,123.985,0.0319,0.00499,0.0717,4,0.713,3,285987,-7.095,0.504
+Kanye West,Homecoming (Germany 2-track eSingle),Homecoming,38RcuqvsovlpjljfmSmkUw,0.745,0.111,87.011,0.195,0.315,0.0,4,0.669,1,203907,-7.073,0.913
+Kanye West,Homecoming (Germany 2-track eSingle),Good Night,2wK9ezpjqVTtYCM8XaJXZi,0.513,0.12,89.022,0.138,0.177,0.0,4,0.756,11,186640,-10.46,0.679
+Kanye West,Homecoming,Homecoming,51ayJ1r626si5LUBuOV5GR,0.745,0.111,87.012,0.195,0.315,0.0,4,0.669,1,203907,-7.073,0.913
+Kanye West,Homecoming,Good Night,3Kk1XEqJYNxX02WKl4zxuC,0.513,0.12,89.02,0.139,0.177,0.0,4,0.754,11,186640,-10.46,0.679
+Kanye West,Homecoming (Germany Version),Homecoming,0tXDLNJCWWzkbmiikf5KnR,0.746,0.106,86.993,0.174,0.318,0.0,4,0.681,10,204627,-7.087,0.921
+Kanye West,Homecoming (Germany Version),Stronger - AD Remix Main,2ZYTF00OO7N0xHDXqZPQJs,0.892,0.0759,123.991,0.0338,0.00697,0.0179,4,0.718,3,286147,-6.527,0.724
+Kanye West,Love Lockdown,Love Lockdown,4qs99GEYRUho7UtaVaENcr,0.506,0.111,119.587,0.0318,0.0991,0.213,4,0.772,1,271267,-7.882,0.0641
+Kanye West,Love Lockdown,Flashing Lights,2iplKIWLBwIPHqDCoQg3iz,0.62,0.404,90.597,0.0384,0.0308,0.0,4,0.64,6,237907,-7.623,0.472
+Kanye West,Good Life,Good Life,6rBU7lqdrE7fFZqDly2hP5,0.794,0.467,83.002,0.348,0.00284,0.0,4,0.389,10,207040,-6.915,0.494
+Kanye West,Good Life,Can't Tell Me Nothing - Remix feat. Young Jeezy,5h6etq1aoh4wUY7pRsSwst,0.612,0.613,80.126,0.0397,0.0105,0.0,4,0.539,5,247547,-6.701,0.0967
+Kanye West,Stronger,Stronger,2VysjemU93ac5oRg4MfYGp,0.698,0.295,103.966,0.122,0.00257,0.0,4,0.584,1,312373,-9.476,0.478
+Kanye West,Stronger,Can't Tell Me Nothing,4HNPK1Y7bnd8H4Jys9CHc5,0.55,0.576,80.016,0.0456,0.0187,0.0,4,0.565,5,272373,-7.481,0.0777
+Kanye West,"Kanye West Vodafone Mixtape (feat. snippets of Stronger, Champion, Good Life, Cann't Tell Me Nothing, I Wonder)",Kanye West Vodaphone Mixtape,1a5AaaY7MwgC938pphQ1IU,0.627,0.315,84.355,0.302,0.0117,0.0,4,0.428,1,236347,-7.446,0.49
+Kanye West,Stronger (Remixes),Stronger - A-Trak Remix (Explicit),0Nlb2F9h5XS7Vn4oejbpEu,0.781,0.0721,126.011,0.089,0.00197,0.00132,4,0.735,1,276440,-6.036,0.39
+Kanye West,Stronger (Remixes),Stronger - Andrew Dawson Remix (Explicit),1TSCCoHudcsR7KXXUD7VDH,0.868,0.0643,123.996,0.0311,0.0063,0.0642,4,0.712,3,286987,-6.554,0.498
+Kanye West,Touch The Sky,Touch The Sky,6u2Ti7sLThGROmfLnzHN7m,0.834,0.281,99.551,0.373,0.013,0.0,1,0.476,9,237707,-4.903,0.536
+Kanye West,Touch The Sky,Jesus Walks,2cQXufTTHtnPtp17zQ24nE,0.846,0.151,86.583,0.354,0.596,0.0,4,0.559,6,194933,-4.696,0.726
+Kanye West,Touch The Sky,Diamonds From Sierra Leone - AOL Sessions,4OT4foErPvmkUBS9TNdWWs,0.722,0.137,96.679,0.397,0.0907,0.0,4,0.579,9,252547,-8.614,0.505
+Kanye West,Impossible,Impossible - Radio Edit,3Z3jFLon3nr1lpfinkMDbR,0.708,0.393,129.927,0.234,0.107,8.59e-05,4,0.65,6,202787,-6.464,0.758
+Kanye West,Diamonds From Sierra Leone,Diamonds From Sierra Leone,7xzMhUzjgY6tVYjBCyRdAe,0.881,0.18,121.286,0.259,0.155,0.0,5,0.472,7,241200,-2.304,0.547
+Kanye West,Diamonds From Sierra Leone,Jesus Walks - Remix Explicit,26R7gZRORmYao0ouRNcn13,0.789,0.123,84.282,0.385,0.278,0.0,4,0.47,6,298133,-6.219,0.664
+Kanye West,Diamonds From Sierra Leone,The New Workout Plan (Remix),4u0po4TPwfyh9nDdaO3w4R,0.69,0.0964,117.971,0.141,0.000272,0.0,4,0.901,11,243840,-7.108,0.124
+Kanye West,The New Workout Plan,The New Workout Plan,1k4Mf2UOzsS1wNFrkVAAGK,0.78,0.338,117.998,0.193,0.0136,0.0,4,0.714,2,322813,-4.881,0.652
+Kanye West,The New Workout Plan,Heavy Hitters - Dirty,2y0wq7JDENOwMtuJWgyCYG,0.872,0.616,171.236,0.288,0.125,0.000101,4,0.715,6,236267,-4.92,0.923
+Kanye West,The New Workout Plan,The New Workout Plan (Remix),0XkYSUf1G15kCy0aRk79zl,0.694,0.0979,117.97,0.128,0.0003,0.0,4,0.898,8,242000,-6.973,0.134
+Kanye West,Gold Digger,Gold Digger,5sSxgpqqZEAdwfRYVze4fU,0.696,0.0694,92.877,0.358,0.0165,0.0,4,0.648,1,208720,-5.695,0.628
+Kanye West,Gold Digger,Diamonds From Sierra Leone - Remix / Radio Edit,6LkkBfqVIbVERcyF2yl6hA,0.848,0.289,97.069,0.289,0.26,0.0,4,0.683,7,214240,-2.666,0.598
+Kanye West,Gold Digger,We Can Make It Better,3mZyYRRgEbp5TbU3Fjw7cO,0.698,0.102,96.836,0.0972,0.151,5.91e-06,4,0.659,11,234147,-6.174,0.467
+Kanye West,Heard 'Em Say,Heard 'Em Say,2jdX3ZYoTsg3LRechdSQzG,0.681,0.0914,94.981,0.163,0.0581,0.0301,4,0.692,7,206453,-8.404,0.639
+Kanye West,Heard 'Em Say,Heard 'Em Say - Live from Abbey Road,5nywSmOIkTX7sOBzkoiySl,0.719,0.943,95.034,0.178,0.503,3e-06,4,0.508,10,253667,-11.373,0.206
+Kanye West,Heard 'Em Say,Back To Basics - International Bonus,45TDP8ApJQJQ0phO6qJocY,0.871,0.104,90.835,0.173,0.0363,0.0173,4,0.531,10,100600,-3.803,0.548
+Kanye West,Diamonds from Sierra Leone Remix ft Jay.z,Diamonds From Sierra Leone - Remix,5Merj2SWlm2pwudOyNrKZg,0.853,0.276,95.88,0.328,0.285,0.0,4,0.526,7,215947,-2.583,0.59
+Kanye West,Diamonds From Sierra Leone Remix,Diamonds From Sierra Leone - Remix feat. Jay-Z,290DH5BclWLihECLilse0o,0.85,0.308,96.669,0.31,0.264,0.0,4,0.601,7,214200,-2.429,0.621
+Kanye West,All Falls Down,All Falls Down,6ilWjJAvXy4dnfwBEDetFF,0.691,0.637,90.742,0.408,0.194,0.0,4,0.646,8,221067,-5.991,0.538
+Kanye West,All Falls Down,Get Em High,12umO6lTdko5MEdN5E9olf,0.529,0.115,83.904,0.36,0.599,0.00337,4,0.62,11,291720,-8.744,0.701
+Kanye West,All Falls Down,Heavy Hitters - Dirty,5fBDppqLHDC1VQ8x4UxMru,0.896,0.616,171.243,0.328,0.223,3.15e-05,4,0.698,6,237067,-3.73,0.915
+Kanye West,All Falls Down,Through The Wire - Live - From the House Of Blues,5GzOtF3eA1vICj2WDRQ0FY,0.831,0.331,81.157,0.262,0.181,0.0,4,0.421,9,251427,-6.076,0.535
+Kanye West,All Falls Down (Live From The House of Blues),All Falls Down - Live From The House of Blues/2004,1V7mKfA04Mj0dZWUs8DmYQ,0.877,0.8,90.958,0.386,0.753,0.0,4,0.417,8,232147,-3.696,0.591
+Kanye West,Jesus Walks,Jesus Walks,5NmcaBRWr32IDL983XuCLM,0.872,0.104,84.513,0.385,0.623,0.0,4,0.414,3,200293,-3.647,0.736
+Kanye West,Jesus Walks,Jesus Walks - Live in Paridiso - 2004,7o0DC7mJLJIpPKdJMKhEhv,0.83,0.966,87.985,0.342,0.549,0.0,4,0.305,10,246227,-5.865,0.424
+Kanye West,Jesus Walks (Live Version),Jesus Walks - Live Version,2X2llNEsjqYeUXRHMOoZqk,0.911,0.745,85.021,0.329,0.574,0.0,4,0.352,10,210920,-4.565,0.516
+Kanye West,Spaceships (Live Version),Spaceship - Live Version,70pWPybRdcgcMSjk5DgW0W,0.874,0.959,178.075,0.287,0.513,0.0,3,0.325,5,236147,-5.651,0.519
+Kanye West,The New Workout Plan (Live Version),The New Workout Plan - Live Version,3rYmBIZZ0GFnSVE01HsOqk,0.876,0.964,117.929,0.339,0.112,0.0,4,0.545,2,194293,-4.797,0.464
+Kanye West,We Don't Care (Live Version),We Don't Care - Live Version,47pHEVlvc3GnFjJwKu7B7B,0.886,0.97,83.14,0.223,0.176,0.0,4,0.491,2,175000,-3.881,0.616
+Kanye West,Selfish,Selfish,3Z3Fs0QhlvrJVRBHwzAFnQ,0.519,0.282,95.815,0.199,0.222,0.0,4,0.727,7,227667,-8.427,0.462
+Kanye West,Through The Wire,Through The Wire,5awFsxOECAVPdOUMIjepQ3,0.804,0.0751,82.957,0.169,0.000203,1.15e-05,4,0.526,7,271200,-5.087,0.655
+Kanye West,Through The Wire,Two Words - Radio Edit,1ZzNQvopHe4LRCLvCCDS1R,0.797,0.233,85.151,0.244,0.0127,4.39e-05,4,0.578,8,267307,-4.395,0.448
+Katy Perry,Smile,Never Really Over,1IIV8jglA0klVZy17q665k,0.881,0.324,99.995,0.067,0.217,0.0,4,0.77,8,223297,-4.776,0.367
+Katy Perry,Smile,Cry About It Later,7cLrrJ1Dk6WAQyDIj9j26A,0.669,0.248,125.994,0.0712,0.0794,1.71e-05,4,0.699,2,189773,-5.829,0.444
+Katy Perry,Smile,Teary Eyes,3i0uu4DEpcmEAudChpVDBh,0.659,0.079,125.962,0.0404,0.104,0.0,4,0.616,7,182595,-5.994,0.441
+Katy Perry,Smile,Daisies,367wyLNqQMr5e8S2E6Zvpp,0.546,0.0989,122.165,0.0407,0.0825,0.0,4,0.642,1,174313,-5.377,0.142
+Katy Perry,Smile,Resilient,3By64Pmpn0LkwPKSjqSTBp,0.519,0.159,135.871,0.0576,0.317,0.0,4,0.7,0,187822,-7.091,0.65
+Katy Perry,Smile,Not the End of the World,2F20djOXWDSFEXu3tPdV71,0.738,0.0558,158.131,0.0579,0.119,0.0,4,0.508,2,178642,-5.126,0.523
+Katy Perry,Smile,Smile,59s3aMqR9uOzLIXAcgBCEm,0.912,0.339,98.025,0.243,0.0238,0.0,4,0.783,0,166898,-3.713,0.749
+Katy Perry,Smile,Champagne Problems,5iKXqTVr88ghRPwMEeVKVM,0.674,0.184,108.883,0.106,0.0185,0.0,4,0.711,10,196218,-6.114,0.774
+Katy Perry,Smile,Tucked,5ahNnBifspeXOi1sMbiXHT,0.68,0.047,123.005,0.038,0.00544,0.0,4,0.775,7,187436,-5.155,0.929
+Katy Perry,Smile,Harleys In Hawaii,3B4etxytImrRKQgV3XHjnR,0.751,0.118,140.095,0.125,0.162,6.59e-06,4,0.721,10,185481,-6.203,0.738
+Katy Perry,Smile,Only Love,6lWp5O5XH6smTt4vzd4Mgy,0.46,0.106,98.033,0.0492,0.297,0.0,4,0.71,0,198725,-7.56,0.228
+Katy Perry,Smile,What Makes A Woman,2czhdHhprTLjvlIzj56jQt,0.594,0.106,94.639,0.079,0.184,0.0,4,0.363,2,131271,-7.847,0.257
+Katy Perry,Witness (Deluxe),Witness,4F6ZOKBjF5T7uQv7SkXTQo,0.614,0.106,119.764,0.0566,0.0356,0.000175,4,0.569,6,250507,-8.808,0.122
+Katy Perry,Witness (Deluxe),Hey Hey Hey,4HjGYqdZ3uDkzlpumo2cmg,0.703,0.0521,134.066,0.0994,0.0516,0.0,4,0.652,9,214960,-5.632,0.485
+Katy Perry,Witness (Deluxe),Roulette,34A56YvBkLDis2sVtv11Vt,0.644,0.119,112.039,0.0319,0.0132,1.37e-05,4,0.638,6,198680,-4.5,0.412
+Katy Perry,Witness (Deluxe),Swish Swish,1KFuUjb7GykdtFtLx2OHwc,0.705,0.102,119.954,0.0445,0.0184,1.77e-05,4,0.839,5,242520,-5.194,0.575
+Katy Perry,Witness (Deluxe),Déjà Vu,68H5j0l7L1d0rkpvf6tTWm,0.607,0.094,120.063,0.064,0.318,0.000751,4,0.636,9,197840,-6.895,0.165
+Katy Perry,Witness (Deluxe),Power,7brUcnhZbsNF13xg8PsPue,0.609,0.0779,142.139,0.0928,0.0368,1.05e-06,4,0.558,5,226467,-4.717,0.377
+Katy Perry,Witness (Deluxe),Mind Maze,0MIF9h4KxsSZuct3FPd8G5,0.474,0.0848,120.042,0.0564,0.514,2.51e-06,4,0.574,7,248173,-7.526,0.23
+Katy Perry,Witness (Deluxe),Miss You More,6Jo1PcABMEfVlDgXJZjXYU,0.48,0.113,123.801,0.0321,0.223,0.0,4,0.58,2,234280,-8.075,0.262
+Katy Perry,Witness (Deluxe),Chained To The Rhythm,3Ex2mEZwqUfh8c1tqrkj6P,0.8,0.199,189.89,0.174,0.0814,0.0,4,0.446,0,237733,-5.404,0.474
+Katy Perry,Witness (Deluxe),Tsunami,3ZISwyXhubw2Pq5Msdedtm,0.561,0.107,161.899,0.0825,0.0324,0.0,4,0.586,0,203133,-6.594,0.446
+Katy Perry,Witness (Deluxe),Bon appétit,5jO3zyYyC014ToeAh7SCy5,0.794,0.221,106.031,0.0628,0.13,8.23e-05,4,0.799,6,227813,-5.834,0.524
+Katy Perry,Witness (Deluxe),Bigger Than Me,2ZubfGHNbeyQ65sxpoqyBa,0.675,0.141,110.043,0.0406,0.0242,0.0,4,0.701,6,240760,-5.902,0.259
+Katy Perry,Witness (Deluxe),Save As Draft,0AmMKe3SZhqTk0jnIdzxjJ,0.565,0.109,131.76,0.0484,0.348,0.0,4,0.59,9,228653,-7.231,0.0519
+Katy Perry,Witness (Deluxe),Pendulum,1EQeLDmwHdPR8E9wrTOiGS,0.788,0.0311,94.004,0.0436,0.00302,0.000238,4,0.621,5,240120,-5.642,0.607
+Katy Perry,Witness (Deluxe),Into Me You See,26IJb05gBMHRMPI1Q666jx,0.253,0.0936,111.652,0.0361,0.816,0.0,4,0.415,5,264400,-9.998,0.205
+Katy Perry,Witness (Deluxe),Dance With The Devil,6EGRm6HvJSZX7qCQDHQM8a,0.567,0.143,134.004,0.0448,0.351,0.000107,4,0.703,5,229413,-6.378,0.247
+Katy Perry,Witness (Deluxe),Act My Age,7IMqJx4OyeLhLMOIQhiMNy,0.793,0.375,112.057,0.0895,0.00708,0.0,4,0.687,9,221613,-5.461,0.622
+Katy Perry,PRISM (Deluxe),Roar,6F5c58TMEs1byxUstkzVeM,0.772,0.354,179.984,0.0418,0.00487,6.6e-06,4,0.554,7,223546,-4.821,0.455
+Katy Perry,PRISM (Deluxe),Legendary Lovers,5Uc37Y6FijZcM538PqqkWd,0.836,0.078,126.025,0.0846,0.0224,0.0,4,0.623,4,224216,-4.788,0.386
+Katy Perry,PRISM (Deluxe),Birthday,2xLOMHjkOK8nzxJ4r6yOKR,0.674,0.112,125.98,0.0681,0.0879,3.75e-06,4,0.719,11,215042,-5.122,0.843
+Katy Perry,PRISM (Deluxe),Walking On Air,0RCsGhR44nFVAd5WiZZcGq,0.908,0.23,128.027,0.0391,0.00144,0.0,4,0.631,6,222449,-4.842,0.821
+Katy Perry,PRISM (Deluxe),Unconditionally,4fwbGKNExPtPHbor1TBSY4,0.725,0.208,128.861,0.043,0.00266,0.0,4,0.397,7,228879,-4.862,0.358
+Katy Perry,PRISM (Deluxe),Dark Horse,5jrdCoLpJSvHHorevXBATy,0.585,0.165,131.931,0.0513,0.00314,0.0,4,0.645,6,215672,-6.122,0.353
+Katy Perry,PRISM (Deluxe),This Is How We Do,5vL0yvddknhGj7IrBc6UTj,0.636,0.147,96.0,0.0457,0.0203,0.0,4,0.69,9,204285,-6.028,0.8
+Katy Perry,PRISM (Deluxe),International Smile,5OzIe9IL95B23n4rN59JZ3,0.817,0.137,129.98,0.0482,0.0278,0.0,4,0.514,4,227821,-4.269,0.548
+Katy Perry,PRISM (Deluxe),Ghost,665T5MrQUl7sSwivPm7pEW,0.624,0.123,124.99,0.0399,0.0364,0.0,4,0.552,2,203362,-5.372,0.338
+Katy Perry,PRISM (Deluxe),Love Me,2BSFAQuiYKu4VcMjovRgRQ,0.626,0.108,142.912,0.0445,0.384,0.0,4,0.576,1,232675,-6.004,0.431
+Katy Perry,PRISM (Deluxe),This Moment,0NfwNHAyi4s9HVes4JkaXA,0.769,0.0938,112.943,0.0929,0.118,0.0,4,0.774,7,226598,-3.798,0.244
+Katy Perry,PRISM (Deluxe),Double Rainbow,2ve1HouBhfDbqROVQm2IBd,0.645,0.0645,96.016,0.0617,0.27,0.0,4,0.618,0,231631,-7.937,0.412
+Katy Perry,PRISM (Deluxe),By The Grace Of God,2IRK3qdY6BzbKxKr8eBk8o,0.367,0.11,162.785,0.0302,0.688,0.0,4,0.444,10,267476,-7.987,0.217
+Katy Perry,PRISM (Deluxe),Spiritual,6lOS1dPkjHlAzRCMplJupN,0.748,0.104,104.992,0.029,0.0635,2.28e-06,4,0.624,0,275889,-5.117,0.435
+Katy Perry,PRISM (Deluxe),It Takes Two,4MxGfhE3DKxBhdSWTYvc4h,0.673,0.0844,95.98,0.0335,0.0951,0.0,4,0.724,8,234504,-4.348,0.509
+Katy Perry,PRISM (Deluxe),Choose Your Battles,3rHUpjfq9JjrfaTsEAmQBC,0.838,0.0646,104.014,0.0859,0.0246,1.01e-06,3,0.712,7,267311,-5.912,0.281
+Katy Perry,PRISM,Roar,27tNWlhdAryQY04Gb2ZhUI,0.771,0.354,90.003,0.0316,0.00492,7.28e-06,4,0.671,7,223546,-4.821,0.436
+Katy Perry,PRISM,Legendary Lovers,0pOZYYEJawmTAPtkzYKSa2,0.839,0.0781,126.033,0.0843,0.0222,0.0,4,0.622,4,224216,-4.788,0.403
+Katy Perry,PRISM,Birthday,1NOZvdCovG42qQV7ftVD5d,0.674,0.112,125.992,0.0681,0.0879,3.75e-06,4,0.719,11,215042,-5.122,0.843
+Katy Perry,PRISM,Walking On Air,6eQbRfp5DxLSOL5pGozYf1,0.908,0.23,128.009,0.0391,0.00144,0.0,4,0.631,6,222449,-4.842,0.821
+Katy Perry,PRISM,Unconditionally,009ImBOrIUlWgla8U05RAC,0.725,0.208,128.902,0.0431,0.00273,0.0,4,0.432,7,228879,-4.862,0.353
+Katy Perry,PRISM,Dark Horse,4jbmgIyjGoXjY01XxatOx6,0.585,0.165,131.934,0.0512,0.00314,0.0,4,0.647,6,215672,-6.123,0.353
+Katy Perry,PRISM,This Is How We Do,7GCElX2eJA5t0AFWw3WzKn,0.636,0.147,96.002,0.0457,0.0203,0.0,4,0.69,9,204285,-6.028,0.799
+Katy Perry,PRISM,International Smile,6q2jvC1htmreAOxJwRtnUD,0.817,0.137,129.983,0.0482,0.0278,0.0,4,0.514,4,227821,-4.269,0.547
+Katy Perry,PRISM,Ghost,2Vl6VlxpDQk99QU7TfQGjO,0.624,0.123,125.007,0.0406,0.0372,0.0,4,0.55,2,203362,-5.372,0.34
+Katy Perry,PRISM,Love Me,2lrMNui7pK7P7KDWrp86Ru,0.623,0.108,142.9,0.0429,0.384,0.0,4,0.578,1,232675,-6.002,0.424
+Katy Perry,PRISM,This Moment,5Fm0hRkJ9kHQmO3ziYl1Sa,0.769,0.0938,112.941,0.093,0.118,0.0,4,0.774,7,226598,-3.798,0.245
+Katy Perry,PRISM,Double Rainbow,7B8TA3WaoMiKZ3wfnF7PgN,0.645,0.0645,96.047,0.057,0.269,0.0,4,0.625,0,231631,-7.937,0.422
+Katy Perry,PRISM,By The Grace Of God,1i0Rv7GtiCnnhpEkNAya80,0.367,0.11,81.481,0.0265,0.688,0.0,4,0.546,10,268791,-7.987,0.221
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Teenage Dream,55qBw1900pZKfXJ6Q9A2Lc,0.804,0.139,119.999,0.0355,0.0132,3.02e-06,4,0.719,10,227760,-4.581,0.605
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Last Friday Night (T.G.I.F.),455AfCsOhhLPRc68sE01D8,0.815,0.671,126.03,0.0415,0.00125,4.31e-05,4,0.649,3,230747,-3.796,0.765
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,California Gurls,6tS3XVuOyu10897O3ae7bi,0.754,0.163,125.014,0.0569,0.00446,0.0,4,0.791,0,234653,-3.729,0.425
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Firework,4lCv7b86sLynZbXhfScfm2,0.826,0.0803,124.072,0.0479,0.139,0.0,4,0.638,8,227880,-4.968,0.649
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Peacock,0rXw5rWZpOdfeeCbMln8MU,0.759,0.202,139.975,0.0427,0.0563,0.0,4,0.825,0,231920,-3.121,0.942
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Circle The Drain,7s0YfJE6hNNYq9BV26iCw6,0.775,0.082,134.932,0.0809,0.00735,0.0,4,0.7,1,272920,-3.94,0.751
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,The One That Got Away,3oL3XRtkP1WVbMxf7dtTdu,0.792,0.2,133.962,0.0353,0.000802,0.0,4,0.687,1,227333,-4.023,0.864
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,E.T.,4z8ssgZfs5TzKiO8HaGWXO,0.872,0.366,150.104,0.0792,0.0213,0.0,4,0.603,5,206373,-5.404,0.691
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Who Am I Living For?,6WR4l21xoK1pQDhjxg7wg7,0.645,0.131,119.989,0.0402,0.0324,0.0,4,0.723,7,248533,-6.392,0.487
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Pearl,0SrCokfLVXjRV94KpP3iPm,0.577,0.31,116.126,0.0381,0.127,0.0,4,0.559,0,247627,-6.279,0.219
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Hummingbird Heartbeat,089keBWJUOsI9wUeVr1uIr,0.896,0.0913,121.957,0.0945,0.00241,0.0,4,0.596,6,212280,-2.946,0.62
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Not Like The Movies,1EFNEJyZUsctm6yVzGqLl6,0.479,0.111,183.013,0.0916,0.881,2.75e-06,4,0.402,8,241320,-7.75,0.257
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,The One That Got Away - Acoustic,5jx8tCxiO0uIbo2uNia23K,0.434,0.0919,123.942,0.0396,0.697,0.0,4,0.714,4,259040,-11.542,0.352
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Part Of Me,1nZzRJbFvCEct3uzu04ZoL,0.918,0.0744,130.028,0.0355,0.000417,0.0,4,0.678,5,216160,-4.63,0.769
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Wide Awake,5JLv62qFIS1DR3zGEcApRt,0.683,0.392,159.814,0.0367,0.0749,2.64e-06,4,0.514,5,220947,-5.099,0.575
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Dressin' Up,7GsYM767NTEiUFjq00tspw,0.783,0.104,141.558,0.0785,0.0201,0.000684,4,0.715,7,223560,-6.146,0.459
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,E.T.,36ux3YuUsGTWPT8fXclS45,0.869,0.369,151.684,0.175,0.0181,0.0,4,0.62,1,229573,-5.252,0.76
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Last Friday Night (T.G.I.F.),4Smx7N3TVs9McglUSCWEYn,0.828,0.685,126.035,0.0347,0.0028,5.5e-06,4,0.685,3,238747,-3.457,0.781
+Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,Tommie Sunshine's Megasix Smash-Up,5Rilw7PyAua7lmQCYPiQKq,0.704,0.124,131.017,0.0417,0.0196,0.0,4,0.805,8,423053,-1.878,0.727
+Katy Perry,Teenage Dream: The Complete Confection,Teenage Dream,48qJ5q8BOdOrYQywfyoK50,0.804,0.139,119.998,0.0355,0.0132,3.02e-06,4,0.719,10,227741,-4.581,0.605
+Katy Perry,Teenage Dream: The Complete Confection,Last Friday Night (T.G.I.F.),4Ky5Y0DJcNBp42P0XHvFtE,0.815,0.658,126.025,0.0434,0.00122,1.36e-05,4,0.651,3,230720,-3.827,0.721
+Katy Perry,Teenage Dream: The Complete Confection,California Gurls,7DjQUa8BrQevCPtQc0YwmL,0.756,0.159,125.002,0.0565,0.00429,0.0,4,0.787,0,234653,-3.718,0.419
+Katy Perry,Teenage Dream: The Complete Confection,Firework,4FLRw7sFTaKX66TKAHDstv,0.826,0.0803,124.072,0.0479,0.139,0.0,4,0.638,8,227880,-4.968,0.649
+Katy Perry,Teenage Dream: The Complete Confection,Peacock,4X8uzdslgfihbq4KWaILbh,0.756,0.114,139.97,0.0429,0.0452,0.0,4,0.836,0,231920,-3.153,0.942
+Katy Perry,Teenage Dream: The Complete Confection,Circle The Drain,1qaxjeRpi4fhA5g9wglMt6,0.788,0.0833,134.919,0.0881,0.00803,0.0,4,0.701,3,272920,-4.051,0.795
+Katy Perry,Teenage Dream: The Complete Confection,The One That Got Away,7lR6M0cXZVcWidV0hHhWd7,0.792,0.2,133.961,0.0353,0.000802,0.0,4,0.688,1,227333,-4.023,0.864
+Katy Perry,Teenage Dream: The Complete Confection,E.T.,5UXBiDs2tWUAEndom71qFM,0.872,0.366,150.104,0.0792,0.0213,0.0,4,0.603,5,206373,-5.404,0.691
+Katy Perry,Teenage Dream: The Complete Confection,Who Am I Living For?,1UWHF76P9WC9neimb2HNaK,0.645,0.131,119.989,0.0402,0.0324,0.0,4,0.723,7,248533,-6.392,0.487
+Katy Perry,Teenage Dream: The Complete Confection,Pearl,0OZNqyuXOu5giaWnmqeiMG,0.577,0.31,116.126,0.0381,0.127,0.0,4,0.559,0,247627,-6.279,0.219
+Katy Perry,Teenage Dream: The Complete Confection,Hummingbird Heartbeat,3MpEQQGrjIgCag4cgO5AEH,0.896,0.0913,121.957,0.0945,0.00241,0.0,4,0.596,6,212280,-2.946,0.62
+Katy Perry,Teenage Dream: The Complete Confection,Not Like The Movies,18nI3GF5lc4OX2HEq48l8z,0.479,0.111,183.013,0.0916,0.881,2.75e-06,4,0.402,8,241333,-7.75,0.257
+Katy Perry,Teenage Dream: The Complete Confection,The One That Got Away - Acoustic,4FFSK1xgCLkTZJLUERLZKG,0.44,0.0924,123.958,0.0413,0.678,0.0,4,0.712,4,259040,-11.566,0.312
+Katy Perry,Teenage Dream: The Complete Confection,Part Of Me,6yARPLK0PV4heEyh7pVMGz,0.922,0.0867,130.01,0.0353,0.000354,0.0,4,0.667,5,216160,-4.645,0.761
+Katy Perry,Teenage Dream: The Complete Confection,Wide Awake,1rUQmXEy41tXwHIKFECNTa,0.681,0.503,160.035,0.0359,0.0843,6.73e-06,4,0.511,5,220933,-5.103,0.555
+Katy Perry,Teenage Dream: The Complete Confection,Dressin' Up,7huONzjeJiR4Aemt7y1LI3,0.78,0.105,141.571,0.0747,0.019,0.000795,4,0.72,9,223547,-6.101,0.488
+Katy Perry,Teenage Dream: The Complete Confection,E.T.,1CUk09iecf4kLvLuhxerdS,0.877,0.366,151.6,0.174,0.0172,0.0,4,0.615,6,229573,-5.217,0.778
+Katy Perry,Teenage Dream: The Complete Confection,Last Friday Night (T.G.I.F.),0uSnIMyLaKRDT0AXUWdwmt,0.86,0.686,126.017,0.0374,0.00364,8.68e-06,4,0.685,3,238747,-3.442,0.745
+Katy Perry,Teenage Dream: The Complete Confection,Tommie Sunshine's Megasix Smash-Up,0xJCJbY4Qpdq5Vc3q2aMT3,0.691,0.133,131.009,0.0408,0.0219,0.0,4,0.808,8,423053,-1.874,0.737
+Katy Perry,Teenage Dream,Teenage Dream,235LXPXfi0SmOaS9TaCh3c,0.798,0.134,120.011,0.0361,0.0162,2.34e-06,4,0.719,10,227741,-4.582,0.591
+Katy Perry,Teenage Dream,Last Friday Night (T.G.I.F.),3oHNJECGN3bBoGXejlw2b1,0.812,0.667,126.023,0.0409,0.00125,3.01e-05,4,0.652,3,230733,-3.797,0.72
+Katy Perry,Teenage Dream,California Gurls,3f7gYMirBEKuc57218BjOY,0.753,0.18,125.005,0.0536,0.0038,0.0,4,0.788,0,234653,-3.71,0.403
+Katy Perry,Teenage Dream,Firework,1mXuMM6zjPgjL4asbBsgnt,0.832,0.113,124.071,0.049,0.141,0.0,4,0.638,8,227893,-5.039,0.648
+Katy Perry,Teenage Dream,Peacock,4hJ5VaRy16jJcENIMZT4sl,0.751,0.166,139.981,0.0421,0.0502,0.0,4,0.816,0,231933,-3.132,0.945
+Katy Perry,Teenage Dream,Circle The Drain,2t3BqduzpMJVMo5cceBLQY,0.784,0.0834,134.942,0.0788,0.00591,0.0,4,0.696,1,272881,-3.932,0.753
+Katy Perry,Teenage Dream,The One That Got Away,4uQY80TKE1u4ZQZQKHzVEi,0.795,0.156,133.971,0.0355,0.000812,1.02e-06,4,0.691,1,227333,-4.021,0.876
+Katy Perry,Teenage Dream,E.T.,50r1EUDpmSZRPo5aIZpmWi,0.863,0.389,150.183,0.0773,0.0178,0.0,4,0.602,5,206373,-5.423,0.732
+Katy Perry,Teenage Dream,Who Am I Living For?,7IxiJEqnqql7SXFukFvCnO,0.644,0.128,120.011,0.0401,0.0372,0.0,4,0.721,7,248533,-6.395,0.516
+Katy Perry,Teenage Dream,Pearl,3ztuZHBzHoqv3NeaxnSvxP,0.584,0.311,116.098,0.0375,0.103,0.0,4,0.557,0,247627,-6.275,0.22
+Katy Perry,Teenage Dream,Hummingbird Heartbeat,73WKf5dSl59yT5mrwDWuuH,0.899,0.0957,121.99,0.107,0.00245,0.0,4,0.595,6,212280,-2.935,0.594
+Katy Perry,Teenage Dream,Not Like The Movies,02Z1u6mX0puSryZFJpqV0G,0.48,0.111,182.756,0.0975,0.869,2.72e-06,4,0.403,8,241333,-7.79,0.253
+Katy Perry,Teenage Dream,If We Ever Meet Again,0PRqWiyOFMHVee81mr1bp6,0.606,0.0751,126.008,0.0301,0.00796,0.0,4,0.645,8,263178,-7.157,0.369
+Katy Perry,Teenage Dream,Starstrukk,1CuzzAbJ4q28V5JOLCzQVp,0.795,0.207,139.896,0.0712,0.00153,0.0,4,0.605,11,203093,-6.086,0.263
+Katy Perry,Teenage Dream,California Gurls - Passion Pit Main Mix,7BAuEd5WLrd4gHKyInRk4B,0.63,0.0679,131.966,0.0504,0.00526,0.000354,4,0.726,7,251400,-8.249,0.763
+Katy Perry,Teenage Dream,California Gurls - Armand Van Helden Remix,38XaC5ruJI06vqa3uKeB0K,0.961,0.329,128.901,0.212,0.0698,0.00482,4,0.797,10,348533,-5.043,0.352
+Katy Perry,Teenage Dream,Teenage Dream - Kaskade Club Remix,3CVi9Tc6zZgaHnkjvj7obb,0.613,0.19,125.983,0.0982,0.000195,7.15e-06,4,0.554,7,387973,-5.987,0.572
+Katy Perry,"Unplugged (Live At MTV Unplugged, New York, NY/2009)","I Kissed A Girl - Live At MTV Unplugged, 2009",7IdznjcKCOWhydUH02Istz,0.62,0.659,128.733,0.113,0.0816,0.0,4,0.488,9,250587,-7.478,0.168
+Katy Perry,"Unplugged (Live At MTV Unplugged, New York, NY/2009)","Ur So Gay - Live At MTV Unplugged, 2009",68QGxyVl0E9XaI54jO9nzP,0.651,0.784,159.836,0.147,0.0101,0.0,4,0.537,4,264213,-5.828,0.266
+Katy Perry,"Unplugged (Live At MTV Unplugged, New York, NY/2009)","Hackensack - Live At MTV Unplugged, 2009",5c9pa7wTZsRU3Mycb0daM6,0.557,0.826,116.809,0.0308,0.0506,0.0,4,0.619,8,181907,-8.003,0.402
+Katy Perry,"Unplugged (Live At MTV Unplugged, New York, NY/2009)","Thinking Of You - Live At MTV Unplugged, 2009",7c9qf9V6PapwNsAHTjzVI9,0.504,0.113,144.864,0.034,0.397,0.0,4,0.322,4,278333,-6.844,0.156
+Katy Perry,"Unplugged (Live At MTV Unplugged, New York, NY/2009)","Lost - Live At MTV Unplugged, 2009",73CbwVzYNTEkfLOCC2mkC3,0.417,0.716,180.009,0.0291,0.102,1.23e-05,4,0.478,0,299053,-7.457,0.261
+Katy Perry,"Unplugged (Live At MTV Unplugged, New York, NY/2009)","Waking Up In Vegas - Live At MTV Unplugged, 2009",532jcgk0ZQgRze05omDsqo,0.792,0.806,129.996,0.0333,0.0653,0.0,4,0.74,10,211240,-6.095,0.603
+Katy Perry,"Unplugged (Live At MTV Unplugged, New York, NY/2009)","Brick By Brick - Live At MTV Unplugged, 2009",6Hup9P0Ggb3ff5tneUdWeM,0.18,0.117,111.883,0.0341,0.76,0.0,4,0.629,0,279280,-11.707,0.249
+Katy Perry,One Of The Boys,One Of The Boys,3kO99S0ge1y7zZYkVdX35j,0.91,0.0818,145.953,0.0522,0.00201,2.08e-06,4,0.564,5,247653,-2.393,0.675
+Katy Perry,One Of The Boys,I Kissed A Girl,1SUFuCjinEHelZ0rmnVMx4,0.76,0.132,129.996,0.0677,0.00223,0.0,4,0.699,5,179640,-3.173,0.696
+Katy Perry,One Of The Boys,Waking Up In Vegas,0Swu0ns3eq7mFvVidrOPPD,0.878,0.098,130.989,0.0346,0.0012,0.0,4,0.524,5,199187,-3.108,0.59
+Katy Perry,One Of The Boys,Thinking Of You,0PtciMEE9kuIZ2zEJW1HLX,0.803,0.331,147.048,0.0364,0.00167,0.0,4,0.431,4,246410,-4.459,0.309
+Katy Perry,One Of The Boys,Mannequin,5ih9QgthQnrFWVh3woRF0K,0.836,0.46,138.947,0.0811,0.0193,0.0,4,0.571,0,197013,-4.507,0.628
+Katy Perry,One Of The Boys,Ur So Gay,50htcDvo2NbstDSWKTYAzO,0.883,0.117,78.984,0.052,0.0401,1.45e-06,4,0.647,4,217427,-4.263,0.587
+Katy Perry,One Of The Boys,Hot N Cold,3i7dXSEEET30HB7lcZGubS,0.841,0.0688,132.032,0.0418,7.95e-05,0.0,4,0.706,7,220227,-3.956,0.861
+Katy Perry,One Of The Boys,If You Can Afford Me,0y7osLaijX0T0aNQwhHjb1,0.887,0.228,149.97,0.0943,0.0109,0.0,4,0.617,6,198347,-3.191,0.855
+Katy Perry,One Of The Boys,Lost,7qcCdNwSc10V7tT1HWfQpU,0.577,0.168,179.932,0.0289,0.254,1.77e-06,4,0.382,0,255987,-5.37,0.186
+Katy Perry,One Of The Boys,Self Inflicted,199LY6Xc9fIYvcTaI5IQqH,0.92,0.0742,128.287,0.0544,0.000326,0.0,4,0.563,7,205720,-3.075,0.448
+Katy Perry,One Of The Boys,I'm Still Breathing,2C98NVcbs4PJty6QpAsxga,0.689,0.114,179.783,0.0883,0.0679,0.0,4,0.457,5,228693,-5.408,0.669
+Katy Perry,One Of The Boys,Fingerprints,71qLno2e4HPujt7YCdQ7C0,0.897,0.169,149.96,0.0614,0.00225,0.0,4,0.544,2,224840,-2.927,0.571
+Katy Perry,One Of The Boys,I Kissed A Girl - Rock Remix,6UCrsIJ2ugi0iDrFqVJyfk,0.94,0.0797,132.29,0.0532,0.000649,0.0,4,0.573,9,176762,-3.084,0.38
+Katy Perry,One Of The Boys,A Cup Of Coffee,4x4gsJGCFYgYXR4h4nkZoJ,0.829,0.114,115.012,0.037,0.00165,0.0,4,0.68,7,251956,-3.997,0.617
+Katy Perry,Cosmic Energy,Not the End of the World,2YCi66BWOu8S2OqMp1ulfL,0.738,0.0558,158.131,0.0579,0.119,0.0,4,0.508,2,178642,-5.126,0.523
+Katy Perry,Cosmic Energy,E.T.,6ppt4IaZ99VglKYgBOPzve,0.863,0.389,150.054,0.0773,0.0178,0.0,4,0.603,5,206373,-5.423,0.731
+Katy Perry,Cosmic Energy,This Moment,7pKF99ljxBi78x8uK2GOdK,0.769,0.0938,112.941,0.093,0.118,0.0,4,0.774,7,226598,-3.798,0.245
+Katy Perry,Cosmic Energy,By The Grace Of God,30jckq2sFf8E1yM6q64oys,0.367,0.11,81.481,0.0265,0.688,0.0,4,0.546,10,268791,-7.987,0.221
+Katy Perry,Cosmic Energy,Bigger Than Me,02Mc4ocohVQ5ze8w1itn7s,0.674,0.141,110.039,0.0405,0.0237,0.0,4,0.701,6,240760,-5.906,0.258
+Katy Perry,Cosmic Energy,Wide Awake,4DCFe4ZsltfBW98VrLmjW8,0.68,0.502,160.04,0.0359,0.0843,6.73e-06,4,0.511,5,220933,-5.103,0.557
+Katy Perry,Resilient (ft. Aitana) [Tiësto Remix],Resilient (ft. Aitana) [Tiësto Remix],4abn7Lc3illnEHFc9ki6x2,0.784,0.111,126.946,0.0562,0.0435,0.0,4,0.639,0,198947,-4.905,0.321
+Katy Perry,Empowered,Resilient,01Do7wJpYOwHHbmj19vnVI,0.519,0.159,135.871,0.0576,0.317,0.0,4,0.7,0,187822,-7.091,0.65
+Katy Perry,Empowered,Roar,6LChPeIMte68qTHRX4PnGY,0.782,0.494,89.972,0.0317,0.00755,1.41e-05,4,0.667,7,222667,-4.382,0.44
+Katy Perry,Empowered,Firework,2bJURVFGWqB7ROPCLNo3mp,0.867,0.11,124.069,0.05,0.143,0.0,4,0.637,8,227973,-3.686,0.652
+Katy Perry,Empowered,Fingerprints,3nkqllPjCjO7fZaAB4W64W,0.897,0.169,149.96,0.062,0.00222,0.0,4,0.544,2,224840,-2.927,0.573
+Katy Perry,Empowered,Power,3Z46AaeKFQNcQtDDnhyQfe,0.61,0.0779,142.146,0.0927,0.0364,1.05e-06,4,0.559,5,226467,-4.717,0.376
+Katy Perry,Empowered,What Makes A Woman,6Hi8zihdVk8r7XarEL0oYv,0.594,0.106,94.639,0.079,0.184,0.0,4,0.363,2,131271,-7.847,0.257
+Katy Perry,Scorpio SZN,Cry About It Later,0gyFOBM8BrLromC6VtdThk,0.67,0.248,126.004,0.0871,0.0796,1.65e-05,4,0.692,2,189773,-5.829,0.445
+Katy Perry,Scorpio SZN,E.T.,34BOIMHbTojsTHbBuMaLfK,0.873,0.37,151.62,0.18,0.0147,0.0,4,0.62,1,230987,-5.251,0.776
+Katy Perry,Scorpio SZN,Dark Horse,6kYWEELtjf3eM0fI6zqfcp,0.585,0.165,131.934,0.0512,0.00314,0.0,4,0.647,6,215672,-6.123,0.353
+Katy Perry,Scorpio SZN,Ghost,4GMhDuUNawEOqHCSvVrLpj,0.624,0.123,125.008,0.0406,0.0372,0.0,4,0.55,2,203362,-5.372,0.34
+Katy Perry,Scorpio SZN,Spiritual,38yE3wLUCkn8SkxPvXv8EQ,0.748,0.104,105.001,0.029,0.0635,2.35e-06,4,0.625,0,275889,-5.117,0.435
+Katy Perry,Scorpio SZN,Dance With The Devil,16xsl6dV9D179YpSsIL3ny,0.567,0.143,134.009,0.0462,0.351,0.000105,4,0.704,5,229413,-6.378,0.245
+Katy Perry,Camp Katy,Tucked,1Uo2pkayxN1QGZK94lBSHF,0.68,0.047,123.005,0.038,0.00544,0.0,4,0.775,7,187436,-5.155,0.929
+Katy Perry,Camp Katy,Peacock,28h4wrZ1zUo9osXVPtV0EG,0.756,0.114,139.969,0.0429,0.0451,0.0,4,0.836,0,231920,-3.153,0.942
+Katy Perry,Camp Katy,California Gurls,3S6NRRUXxMSWYm9Dnwv1Eh,0.76,0.133,125.03,0.0628,0.00512,0.0,4,0.801,0,235081,-3.157,0.471
+Katy Perry,Camp Katy,Swish Swish,0mlADdMSJvSnPhy43TRIrL,0.705,0.102,119.953,0.0449,0.0184,1.82e-05,4,0.838,5,242520,-5.201,0.583
+Katy Perry,Camp Katy,Walking On Air,2u9EEBRhsSl6NuVZ83STyr,0.908,0.23,128.009,0.0391,0.00144,0.0,4,0.631,6,222449,-4.842,0.821
+Katy Perry,Camp Katy,Waking Up In Vegas,22s05QXNsKSGobR43cacS9,0.878,0.098,130.985,0.0346,0.0012,0.0,4,0.524,5,199187,-3.108,0.589
+Katy Perry,Smile (Joel Corry Remix),Smile - Joel Corry Remix,1NiDvDlS6nvha28JkTEZxT,0.964,0.0891,121.996,0.0374,0.00184,0.0707,4,0.694,5,181605,-2.66,0.837
+Katy Perry,Smile (M-22 Remix),Smile - M-22 Remix,1sh66NH4sPwQhbfZZkSx0k,0.989,0.451,124.003,0.169,0.00392,0.0538,4,0.724,9,180910,-4.85,0.464
+Katy Perry,Smile (Marshall Jefferson Remix),Smile - Marshall Jefferson Remix,4wYhYfmKLxt77TwxLx0FRI,0.851,0.283,118.028,0.0617,6.36e-05,0.175,4,0.742,0,158757,-4.453,0.64
+Katy Perry,Smile (Tough Love Remix),Smile - Tough Love Remix,0bLICvP5XRUN42O8E3YyEM,0.944,0.221,123.006,0.0516,0.0106,0.5,4,0.794,0,167024,-5.35,0.671
+Katy Perry,Smile (Giorgio Moroder Remix),Smile - Giorgio Moroder Remix,2yQRnVlNpRz5m2LnWqHfuu,0.803,0.498,203.133,0.125,0.0228,9.36e-06,4,0.597,0,187201,-5.086,0.354
+Katy Perry,What Makes A Woman,What Makes A Woman,1tH2L4hkZU7IMJbreHFcMs,0.594,0.106,94.639,0.079,0.184,0.0,4,0.363,2,131271,-7.847,0.257
+Katy Perry,Daisies (Acoustic),Daisies - Acoustic,2XJ9DC1as0YobPVqOS9JyE,0.436,0.0948,115.995,0.0289,0.418,0.0,4,0.651,5,185506,-4.657,0.499
+Katy Perry,Daisies (Oliver Heldens Remix),Daisies - Oliver Heldens Remix,04Ff953Oi4uwN6yttURuhk,0.872,0.0654,122.997,0.046,0.00355,4.97e-05,4,0.704,7,215600,-4.612,0.62
+Katy Perry,Daisies (MK Remix),Daisies - MK Remix,6FEdC7kIM0adzi030XNqvU,0.828,0.176,123.965,0.0459,0.000732,0.0328,4,0.718,6,214421,-5.256,0.63
+Katy Perry,Daisies,Daisies,4uqh9bualXNHXXwO2wPorc,0.546,0.122,122.179,0.0407,0.0837,0.0,4,0.639,1,173124,-5.382,0.149
+Katy Perry,Never Worn White,Never Worn White,3ksNHUNCTP6Pan8rjFnmtw,0.353,0.105,138.059,0.0303,0.706,0.0,4,0.544,11,225039,-7.275,0.357
+Katy Perry,Harleys In Hawaii (KANDY Remix),Harleys In Hawaii - KANDY Remix,5EECgBC0NjIaUd8ke9YYTo,0.796,0.276,128.072,0.154,0.143,0.0,4,0.661,10,165010,-5.513,0.472
+Katy Perry,Harleys In Hawaii (Win and Woo Remix),Harleys In Hawaii - Win and Woo Remix,0n6b1rFzDJlFmTG7hyncxh,0.558,0.164,79.95,0.122,0.0454,4.97e-05,4,0.613,5,206250,-7.881,0.489
+Katy Perry,Harleys In Hawaii,Harleys In Hawaii,5nCthAh3jt4xKuLJAifAaR,0.757,0.126,140.094,0.132,0.185,6.32e-06,4,0.722,10,185815,-6.207,0.721
+Katy Perry,Small Talk (Lost Kings Remix),Small Talk - Lost Kings Remix,6dKxXef5Y4bxaAfIhz7AiA,0.946,0.284,124.007,0.0302,0.00709,0.265,4,0.617,5,172258,-2.125,0.544
+Katy Perry,Small Talk (Sofi Tukker Remix),Small Talk - Sofi Tukker Remix,2vQQX3NOzl7UIE5ACjnyY4,0.606,0.108,122.055,0.0338,0.0776,1.58e-05,4,0.827,5,191653,-7.298,0.352
+Katy Perry,Small Talk (White Panda Remix),Small Talk - White Panda Remix,1qKKXno9L0FPCJfZcRzocE,0.858,0.112,116.016,0.0333,0.243,1.47e-06,4,0.758,5,192380,-3.477,0.705
+Katy Perry,Small Talk,Small Talk,4NmE2ytXI8S2svTRSmEdpO,0.631,0.455,115.999,0.1,0.203,0.0,4,0.846,5,161963,-5.547,0.602
+Katy Perry,Never Really Over (R3HAB Remix),Never Really Over - R3HAB Remix,2OAylPUDDfwRGfe0lYqlCQ,0.856,0.176,112.648,0.0623,0.187,0.0,4,0.449,5,187675,-4.788,0.152
+Katy Perry,Never Really Over (Syn Cole Remix),Never Really Over - Syn Cole Remix,6bfTktuowT5bIMe87Q5rmp,0.882,0.155,125.956,0.0647,0.0854,0.000465,4,0.68,1,188571,-2.891,0.462
+Katy Perry,Never Really Over (Wow & Flutter Remix),Never Really Over - Wow & Flutter Remix,6SLWPBasKQgpLZAnwsNzDP,0.953,0.0761,109.998,0.0362,0.0477,0.00364,4,0.677,8,371981,-3.97,0.737
+Katy Perry,Never Really Over,Never Really Over,5PYQUBXc7NYeI1obMKSJK0,0.882,0.316,99.991,0.0602,0.194,0.0,4,0.77,8,223523,-4.792,0.385
+Katy Perry,Con Calma (Remix),Con Calma - Remix,4au7FRcgZzChASRYu279xH,0.868,0.0419,94.026,0.0454,0.166,1.48e-06,4,0.736,8,181280,-3.01,0.613
+Katy Perry,365 (Remixes),365 - Zedd Remix,0ywzvARVqoxQOJpaswRe9E,0.595,0.059,124.019,0.0413,0.00476,0.00727,4,0.784,2,236287,-6.816,0.183
+Katy Perry,365 (Remixes),365 - Jonas Aden Remix,70gUpEnhuX4OxklDsYewHY,0.802,0.187,123.987,0.0531,0.0112,0.000385,4,0.74,2,165998,-3.967,0.502
+Katy Perry,365 (Remixes),365 - Ellis Remix,25hzDByizJNuGTRChXMkFj,0.798,0.13,112.033,0.0492,0.165,1.35e-06,4,0.77,2,160179,-3.327,0.518
+Katy Perry,365 (Remixes),365 - KUURO Remix,1yUSziR5DTtZgcxWcJLD2w,0.876,0.356,125.994,0.0514,0.0114,8.91e-05,4,0.767,2,246176,-3.072,0.38
+Katy Perry,365,365,2XWjPtKdi5sucFYtVav07d,0.693,0.123,98.039,0.034,0.339,0.0,4,0.745,2,181900,-5.479,0.248
+Katy Perry,Cozy Little Christmas,Cozy Little Christmas,02FaKXXL7KUtRc7K0k54tL,0.608,0.0895,137.494,0.128,0.128,0.0,4,0.774,7,182521,-6.264,0.56
+Katy Perry,Waving Through A Window (from Dear Evan Hansen),Waving Through A Window - from Dear Evan Hansen,2GlsXuQV0YOOwPy3XKFIS9,0.556,0.132,145.427,0.0869,0.461,0.0,4,0.599,0,235987,-7.732,0.46
+Katy Perry,Swish Swish (Blonde Remix),Swish Swish - Blonde Remix,7vd9Ya5TPTkplaxZNorlrH,0.741,0.0862,123.009,0.054,0.0029,0.442,4,0.771,9,246480,-6.825,0.711
+Katy Perry,Bon Appétit (Aslove Remix),Bon Appétit - Aslove Remix,1ALGdN4MSipyjulPMiKDBu,0.809,0.185,106.0,0.0429,0.161,0.000159,4,0.787,10,234906,-6.085,0.777
+Katy Perry,Bon Appétit (Amir Afargan Remix),Bon Appétit - Amir Afargan Remix,7u1Vyq8ttaMq5vEyfVUm58,0.812,0.0809,106.0,0.0543,0.143,3.14e-06,4,0.816,6,223869,-5.773,0.669
+Katy Perry,Swish Swish (Valentino Khan Remix),Swish Swish - Valentino Khan Remix,60jMCb9jnlhICNbD3wqmGR,0.752,0.122,128.043,0.0443,0.0419,0.00488,4,0.853,1,200625,-3.97,0.601
+Katy Perry,Swish Swish (Cheat Codes Remix),Swish Swish - Cheat Codes Remix,3zetl7n7d01lFNugg8pG9V,0.557,0.11,119.983,0.0409,0.162,3.56e-05,4,0.698,0,181115,-5.578,0.302
+Katy Perry,Bon Appétit (3LAU Remix),Bon Appétit - 3LAU Remix,36ONMEsZvyOwqJxe3gitGi,0.802,0.113,106.033,0.0368,0.045,0.00531,4,0.688,6,184440,-5.355,0.482
+Katy Perry,Bon Appétit (MUNA Remix),Bon Appétit - MUNA Remix,1oAZF0jN9VqTEUyfxm5GWR,0.638,0.408,105.954,0.12,0.00334,0.00554,4,0.608,1,201387,-5.411,0.358
+Katy Perry,Bon Appétit (Martin Jensen Remix),Bon Appétit - Martin Jensen Remix,6FxPQ436lvMLhKYm3NUem9,0.761,0.107,106.023,0.0611,0.333,0.000125,4,0.836,8,176803,-5.829,0.763
+Katy Perry,Chained To The Rhythm (Feat. Lil Yachty),Chained To The Rhythm (Feat. Lil Yachty),6d1ALLOIkYl3Yft9Tqc5BO,0.705,0.118,95.022,0.203,0.329,0.0,4,0.757,9,250241,-4.379,0.439
+Katy Perry,Chained To The Rhythm,Chained To The Rhythm,1ZmlNfJDZSBm1EEC92ntyB,0.707,0.115,94.984,0.138,0.304,0.0,4,0.763,9,250600,-4.316,0.411
+Katy Perry,Chained To The Rhythm (Oliver Heldens Remix),Chained To The Rhythm - Oliver Heldens Remix,1j5jfLirlWsytWPm7rmfjk,0.862,0.105,120.014,0.0551,0.00264,0.000143,4,0.719,4,276968,-4.533,0.322
+Katy Perry,Chained To The Rhythm (Hot Chip Remix),Chained To The Rhythm - Hot Chip Remix,36DHSYPiIIf1Pl0irqyebq,0.709,0.0657,114.984,0.0721,0.00199,0.000288,4,0.751,0,342006,-7.211,0.538
+Katy Perry,Rise Remixes,Rise - Purity Ring Remix,6W9JU5aUGD1bQHQ9ZHzVL9,0.725,0.181,100.992,0.0756,0.037,6.92e-06,4,0.585,1,212493,-7.826,0.145
+Katy Perry,Rise Remixes,Rise - Monsieur Adi Radio Edit,2OZ9I9sMUDhWAiNTOivmuU,0.576,0.0923,124.044,0.0444,0.0295,0.0,4,0.637,10,241507,-5.048,0.134
+Katy Perry,Rise Remixes,Rise - TĀLĀ Remix,2xHJccY4NYnHfJADNAdKEg,0.649,0.0778,113.966,0.116,0.00864,9e-06,4,0.678,1,198947,-5.552,0.335
+Katy Perry,Rise,Rise,1CwNogTShsnsn1C8UhRmYX,0.639,0.107,101.418,0.0458,0.0468,0.0,4,0.553,11,203475,-6.445,0.442
+Katy Perry,This Is How We Do,This Is How We Do,4ZxY5A1Bv27yu7RiT4RTOj,0.677,0.173,95.984,0.0531,0.0289,0.0,4,0.714,9,203544,-6.163,0.777
+Katy Perry,Birthday,Birthday,329jXTx12kMu5GuOnvR44n,0.675,0.0984,126.04,0.0675,0.09,3.03e-06,4,0.719,11,215040,-5.122,0.824
+Katy Perry,Birthday,Birthday - Instrumental,3UM6O0my4zdZmh4DVKNWeG,0.465,0.0752,126.036,0.137,0.00703,0.895,4,0.79,11,214021,-6.1,0.842
+Katy Perry,Birthday (Cash Cash Remix),Birthday - Cash Cash Remix,1Q9ekE7IMCI7oT9v6OuW2F,0.829,0.195,128.02,0.0537,0.0044,1.01e-05,4,0.7,11,265430,-2.852,0.675
+Katy Perry,Dark Horse,Dark Horse,1xnwv757A6yItWjBoJxgPU,0.596,0.198,131.829,0.0659,0.00168,0.0,4,0.499,6,215493,-6.093,0.332
+Katy Perry,Roar,Roar,3sAIY2jtHpUHKfwDSSVgMM,0.782,0.494,89.972,0.0317,0.00755,1.41e-05,4,0.667,7,222667,-4.382,0.44
+Katy Perry,Part Of Me,Part Of Me,6iHs3aYNU1U9kBdIGzywov,0.918,0.167,130.012,0.0345,0.000349,0.0,4,0.664,5,215494,-4.862,0.806
+Katy Perry,Part Of Me,Part Of Me - Jacques Lu Cont's Thin White Duke Mix,1Htjz4BUBGPTaeJ6ZMYvgs,0.844,0.25,130.038,0.0358,0.00144,0.268,4,0.706,0,362126,-4.058,0.85
+Katy Perry,Part Of Me,Part Of Me - Jacques Lu Cont's Thin White Duke Radio Edit,0BN4Mbdzel29TY3hMFMpnE,0.869,0.0592,130.008,0.0344,0.000783,0.0575,4,0.693,0,227187,-4.279,0.839
+Katy Perry,Part Of Me,Part Of Me - Instrumental,5mxNKj46B3PK9gGrWUVQpC,0.943,0.069,130.003,0.0298,6.77e-06,0.836,4,0.59,5,215516,-6.117,0.806
+Katy Perry,Part Of Me (Jacques Lu Cont's Thin White Duke Mix),Part Of Me - Jacques Lu Cont's Thin White Duke Mix,4153K7DDSjoFWsfDoxhMlr,0.844,0.25,130.038,0.0358,0.00144,0.268,4,0.706,0,362126,-4.058,0.85
+Katy Perry,E.T.,E.T.,0G0OXK1iAVt2y2kGDhE2lM,0.887,0.32,149.969,0.0671,0.00371,0.0,4,0.566,1,28598,-4.793,0.915
+Katy Perry,E.T. Remix EP,E.T.,4hwWQeyaMyxNUOYv0BDpsU,0.874,0.37,151.62,0.18,0.0146,0.0,4,0.62,1,230987,-5.251,0.776
+Katy Perry,E.T. Remix EP,E.T. - Tiësto Remix/Club,0pyf7CB1aO2LjXxu5HjaYQ,0.781,0.454,130.022,0.09,0.000114,0.0381,4,0.698,5,430400,-5.121,0.322
+Katy Perry,E.T. Remix EP,E.T. - Benny Benassi Radio Edit,1D1vKCEFVb1obT59B38fPX,0.633,0.113,136.038,0.0406,0.05,2.71e-05,4,0.534,5,200893,-4.921,0.163
+Katy Perry,E.T. Remix EP,E.T.,5UkZLkfZUlBQ9DclMnmkxF,0.89,0.0772,129.063,0.132,0.000514,0.0,4,0.48,5,218480,-6.011,0.462
+Katy Perry,E.T. Remix EP,E.T. - Noisia Remix,7xtJpDb1X70humHUytLj4u,0.779,0.15,138.021,0.0645,0.00357,1.52e-05,4,0.496,5,233747,-7.367,0.352
+Katy Perry,E.T. Remix EP,E.T. - Johnson Somerset & John Monkman Remix,2Qh1HXl1PZKr0NWwtRpGF8,0.902,0.139,150.015,0.0398,0.00595,0.102,4,0.53,5,589734,-6.105,0.602
+Katy Perry,E.T. (The Remixes) - EP,E.T. - Tiësto Remix/Club,0hyuZ3nEh6zXR1sbttOTod,0.781,0.454,130.022,0.09,0.000114,0.0381,4,0.698,5,430400,-5.121,0.322
+Katy Perry,E.T. (The Remixes) - EP,E.T. - Benny Benassi Radio Edit,664fvVG2C15AoBlbmpig3p,0.633,0.113,136.038,0.0406,0.05,2.71e-05,4,0.534,5,200893,-4.921,0.163
+Katy Perry,E.T. (The Remixes) - EP,E.T.,4HOQ8xnZUgfjGFbriclwWv,0.89,0.0772,129.063,0.132,0.000514,0.0,4,0.48,5,218480,-6.011,0.462
+Katy Perry,E.T. (The Remixes) - EP,E.T. - Noisia Remix,6epmtR779CB7T4a2wnZ49D,0.779,0.15,138.021,0.0645,0.00357,1.52e-05,4,0.496,5,233747,-7.367,0.352
+Katy Perry,E.T. (The Remixes) - EP,E.T. - Johnson Somerset & John Monkman Remix,5v0OGuLQbc3kLWS7fHklzU,0.902,0.139,150.015,0.0398,0.00595,0.102,4,0.53,5,589734,-6.105,0.602
+Katy Perry,The One That Got Away,The One That Got Away,3aah1DiCJpFXc644YBQ5Li,0.862,0.081,133.988,0.0415,0.0118,0.0,4,0.722,4,262000,-3.27,0.634
+Katy Perry,The One That Got Away (feat. B.o.B),The One That Got Away,0YdcjSwXRXuGOkIW5sjJWE,0.862,0.081,133.988,0.0415,0.0118,0.0,4,0.722,4,262000,-3.27,0.634
+Katy Perry,The One That Got Away (Remix Bundle),The One That Got Away - 7th Heaven Club Mix,27ZMnz8tBIpELrBgPi3jbs,0.837,0.102,132.009,0.0302,0.00141,0.012,4,0.568,1,483347,-4.63,0.338
+Katy Perry,The One That Got Away (Remix Bundle),The One That Got Away - Mixin Marc & Tony Svejda Peak Hour Club Mix,0FeZkmtwycvJ9aeHXLidj7,0.796,0.0667,129.966,0.0687,0.00554,2.92e-06,4,0.667,4,344107,-5.103,0.404
+Katy Perry,The One That Got Away (Remix Bundle),The One That Got Away - R3hab Club Mix,6cN69ONDvBLTrw3aaSQuM2,0.674,0.0843,130.021,0.0672,0.000359,0.018,4,0.719,4,349400,-3.487,0.397
+Katy Perry,The One That Got Away (Remix Bundle),The One That Got Away - Plastic Plates Club Mix,3RCAqOwQCpZ1qvKKTpVVwz,0.861,0.105,117.999,0.0443,0.0119,0.412,4,0.695,8,365453,-4.511,0.671
+Katy Perry,The One That Got Away (Remix Bundle),The One That Got Away - Tommie Sunshine & Disco Fries Club Mix,0iZwhVoAhHZC0Qep4pD8eq,0.5,0.0705,128.068,0.0907,0.0118,0.00456,4,0.539,1,382933,-4.383,0.338
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - R3hab Club Mix,1wtT6dAjiJUgSJdG2ULr1q,0.674,0.0843,130.021,0.0672,0.000359,0.018,4,0.719,4,349400,-3.487,0.397
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - R3hab Dubstrumental,6moUmRCW4cl8D5hMqJn5Sz,0.805,0.156,130.012,0.062,0.000216,0.922,4,0.738,4,349040,-4.085,0.0898
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - Mixin Marc & Tony Svejda Peak Hour Club Mix,6KilRNlE659CfdRkdu1oUs,0.796,0.0667,129.966,0.0687,0.00554,2.92e-06,4,0.667,4,344107,-5.103,0.404
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - 7th Heaven Club Mix,6uxioUTbZMNQvy4mKnbkfC,0.837,0.102,132.009,0.0302,0.00141,0.012,4,0.568,1,483347,-4.63,0.338
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - 7th Heaven Dub Mix,4I8PQIEL7FCfoX6LYCqe5d,0.762,0.0803,132.003,0.03,0.00265,0.338,4,0.595,6,364240,-5.778,0.482
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - Tommie Sunshine & Disco Fries Club Mix,6sBgnuCVYfDJ7XRCTBj4LI,0.5,0.0705,128.068,0.0907,0.0118,0.00456,4,0.539,1,382933,-4.383,0.338
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - Tommie Sunshine & Disco Fries Dub Mix,3JvVDWQ4FlE8HlP9TQvr1Y,0.557,0.0797,128.03,0.0619,0.0074,0.324,4,0.556,1,370373,-4.712,0.265
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - Plastic Plates Club Mix,5TdnEEC65GXLUKLCM4D5ub,0.861,0.105,117.999,0.0443,0.0119,0.412,4,0.695,8,365453,-4.511,0.671
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - Plastic Plates Dub Mix,3H73cKC1AjVUSK7IQ1FtL0,0.857,0.108,118.005,0.0445,0.0158,0.835,4,0.693,8,365253,-4.415,0.675
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - JRMX Club Mix,2iWoy40tEJah9T5Bue6Ksi,0.913,0.0703,133.994,0.0318,0.00635,8.02e-05,4,0.579,9,491960,-4.085,0.516
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - Christian Strobe Club Mix,7N2QI1MP1149Tcwxq8Eos3,0.972,0.336,133.992,0.081,0.0754,0.000166,4,0.607,1,435440,-4.841,0.471
+Katy Perry,The One That Got Away (Remixes),The One That Got Away - Christian Strobe Dubstrumental,0MLf0auG0sqKZECa8LaTdv,0.994,0.361,134.003,0.0691,0.041,0.0259,4,0.546,1,338920,-4.568,0.242
+Katy Perry,California Gurls (feat. Snoop Dogg),California Gurls,3glgou0Tu1wEYeo5Lt87In,0.76,0.127,125.04,0.0503,0.00455,0.0,4,0.791,0,236253,-3.785,0.444
+Katy Perry,California Gurls (feat. Snoop Dogg),Hot N Cold - Yelle Remix,7lhyaLSn8asCioStsCZlgS,0.534,0.0679,131.995,0.0995,0.0322,0.00402,4,0.832,7,247307,-6.163,0.782
+Katy Perry,California Gurls - The Remixes,California Gurls - MSTRKRFT Main Mix,2JpoHkaddW6B8zjFB1qBMn,0.607,0.0693,130.009,0.0718,0.00704,1.41e-06,4,0.651,0,240013,-4.352,0.397
+Katy Perry,California Gurls - The Remixes,California Gurls - Innerpartysystem Main Mix,7KEjRmxxsUywVljtTswNQT,0.727,0.652,124.993,0.0845,0.00924,5.97e-05,4,0.772,2,267380,-6.817,0.603
+Katy Perry,California Gurls - The Remixes,California Gurls - Manhattan Clique Long Beach Mix,6ULhfkgtCLmYkceQc3ZFjL,0.402,0.0818,128.001,0.0606,0.0209,0.00306,4,0.744,0,420053,-7.566,0.611
+Katy Perry,Firework,Firework,2G6yyJJ1zElkVeGKSoRx8K,0.858,0.377,123.957,0.0815,0.081,0.0,4,0.662,10,30232,-5.082,0.959
+Katy Perry,If We Ever Meet Again (Featuring Katy Perry) [UK Orange Monkey Version],If We Ever Meet Again - Digital Dog Dub Remix,2PWPzGNCroWYj4mG3htm7b,0.805,0.0785,127.999,0.0841,0.0128,0.902,4,0.795,6,378880,-6.453,0.429
+Katy Perry,If We Ever Meet Again (Featuring Katy Perry) [UK Version],If We Ever Meet Again - International Radio Edit,1pU3C7v8zcEEPkdqaKSEi6,0.58,0.0811,126.033,0.0302,0.0131,0.0,4,0.639,8,238720,-7.008,0.444
+Katy Perry,If We Ever Meet Again (Featuring Katy Perry) [UK Version],If We Ever Meet Again - Digital Dog Radio Remix,0iLza8WydN3tjJLfR9SjRi,0.837,0.404,127.993,0.113,0.163,0.0,4,0.646,8,206400,-4.317,0.463
+Katy Perry,If We Ever Meet Again (Featuring Katy Perry) [UK Version],If We Ever Meet Again - Chew Fu Deja Fix,0x7faBMxOdjqasRF4kOvVw,0.668,0.166,128.993,0.0452,0.00393,9.82e-06,4,0.726,5,307107,-4.771,0.63
+Katy Perry,If We Ever Meet Again (Featuring Katy Perry) [UK Version],If We Ever Meet Again - Starsmith Remix,2Qt4GaMP19eITN4mYPKGk4,0.837,0.348,125.995,0.0436,0.000284,0.00471,4,0.555,5,321400,-7.273,0.549
+Katy Perry,Teenage Dream - Remix EP,Teenage Dream,6zg7B8W7Tu9nO3SLgYhqNO,0.916,0.101,128.002,0.0967,0.281,0.0,4,0.659,7,234920,-1.446,0.809
+Katy Perry,Teenage Dream - Remix EP,Teenage Dream - Vandalism V8 Vocal Remix,2xvt0QRSgKVaVWiJTv4BRp,0.976,0.0871,127.981,0.255,0.068,0.000112,4,0.657,10,424120,-3.348,0.527
+Katy Perry,Teenage Dream - Remix EP,Teenage Dream - Manhattan Clique Remix,06WHHmbIgxh2oTTtgrPqe2,0.72,0.113,127.998,0.0307,0.00188,3.49e-05,4,0.688,5,400360,-7.246,0.308
+Katy Perry,Australia Tour EP,Electric Feel - Live,4gLfLFUveuFFLGL6tLoP7u,0.593,0.101,103.413,0.0405,0.465,0.00179,3,0.773,8,210907,-8.287,0.733
+Katy Perry,Australia Tour EP,Black And Gold,4H2uYFgPHnmiv7xmjqgbxN,0.427,0.363,138.533,0.0503,0.0885,8.9e-05,4,0.766,11,206400,-6.89,0.342
+Katy Perry,Australia Tour EP,I Think I'm Ready,3uOnqruN3iUoLJWIHAbwS0,0.27,0.108,109.983,0.0314,0.34,0.0,4,0.761,0,157880,-10.034,0.303
+Katy Perry,Australia Tour EP,Thinking Of You - Acoustic Version,5fGM9zlrpbHKrPWZUoXZ0R,0.409,0.111,143.478,0.0288,0.233,0.0,4,0.392,4,291707,-7.104,0.353
+Katy Perry,Australia Tour EP,Waking Up In Vegas - Remix,5etc7rySUa7bxHyRepBLLr,0.929,0.272,130.951,0.0642,0.00111,0.0,4,0.643,10,223653,-4.415,0.436
+Katy Perry,Australia Tour EP,I Kissed A Girl - Remix,2IsfID7NWL2ZAdP8tyw9xT,0.696,0.0541,130.017,0.154,0.0014,0.198,4,0.839,9,209867,-4.734,0.329
+Katy Perry,Australia Tour EP,Hot N Cold - Bimbo Jones Remix Radio Edit,7fNDgFSPnf2nj3uro8OMSX,0.795,0.414,129.506,0.0291,3.61e-05,0.000157,4,0.717,7,230453,-6.054,0.729
+Katy Perry,Australia Tour EP,Ur So Gay - Remix,1BKe2ZdkMjjzfAZrrwBfmr,0.724,0.379,78.945,0.097,0.0712,0.000206,4,0.607,4,240813,-6.013,0.848
+Katy Perry,Hot N Cold (Remix),Hot N Cold - Yelle Remix,7LJtbMjG3YraJkbwWxA82n,0.523,0.0677,131.987,0.0887,0.0267,0.00491,4,0.827,7,247307,-6.204,0.756
+Katy Perry,Thinking Of You,Thinking Of You,5gwxuyx2IQKWl4gGTLKPz5,0.803,0.331,147.048,0.0364,0.00167,0.0,4,0.431,4,246410,-4.459,0.309
+Katy Perry,Thinking Of You,Thinking Of You - Acoustic Version,6Xrw10Wcr1PmLXHvJkTxFO,0.414,0.11,144.155,0.0293,0.236,0.0,4,0.374,4,291093,-7.113,0.328
+Katy Perry,Waking Up In Vegas,Waking Up in Vegas - Radio Edit,1an31mImALj1Nwkuzi3olr,0.937,0.0999,131.028,0.0644,0.000704,0.0,4,0.498,5,204893,-2.225,0.558
+Katy Perry,Waking Up In Vegas,Waking Up In Vegas - Calvin Harris Extended Remix,1BCm0wWEbB8iyhQqQ9JsBw,0.921,0.258,130.959,0.0619,0.00106,0.0,4,0.646,10,224533,-4.44,0.427
+Katy Perry,Waking Up In Vegas,Waking Up In Vegas - Jason Nevins Electrotec Club Remix,2NziTpOKyAAUTXCDL091mh,0.515,0.0401,130.991,0.0617,6.22e-05,0.00448,4,0.735,2,401800,-5.124,0.906
+Katy Perry,Waking Up In Vegas,Waking Up In Vegas - Jason Nevins Electrotec Dub,08I8ffBjUvmc6q4kH2v8Pq,0.6,0.106,131.01,0.043,2.4e-05,0.353,4,0.69,2,362240,-5.644,0.885
+Katy Perry,Waking Up In Vegas,Waking Up In Vegas - Manhattan Clique Bellagio Remix,2xoqM6e4vmAEcUY2JnbeSe,0.766,0.444,131.012,0.061,0.00685,0.0225,4,0.712,0,378387,-4.396,0.579
+Katy Perry,Waking Up In Vegas,Waking Up In Vegas - Manhattan Clique Luxor Dub,5Dp9iZ37p1zFspHPVX8hQx,0.812,0.481,130.983,0.0457,0.00585,0.84,3,0.646,10,366947,-5.42,0.704
+Katy Perry,Hot N Cold,Hot N Cold,22Lg6vvMS2JC07aAjsGvtU,0.839,0.072,132.007,0.0439,8.1e-05,0.0,4,0.702,7,223227,-3.992,0.856
+Katy Perry,Hot N Cold,Hot N Cold - Innerpartysystem Main,1WSuXTMfrbfwOgZGx9g9lw,0.663,0.0733,132.0,0.313,0.00062,0.00062,4,0.748,11,279120,-7.378,0.558
+Katy Perry,Hot N Cold,Hot N Cold - Manhattan Clique Remix Radio Edit,2aRnHc1Q8ydUOSEYo68ztS,0.839,0.376,131.976,0.0414,0.00101,0.000601,4,0.608,7,234000,-6.851,0.439
+Katy Perry,Hot N Cold (Jason Nevins Remix),Hot N Cold - Jason Nevins Remix Edit,0ren9KRdP57wDMyjCe24IS,0.905,0.9,131.975,0.0514,0.000942,0.0,4,0.611,7,237653,-2.739,0.915
+Katy Perry,I Kissed A Girl,I Kissed A Girl,2jp7t8UTVsUG2vjKM0edOL,0.76,0.132,129.996,0.0677,0.00223,0.0,4,0.699,5,179640,-3.173,0.696
+Katy Perry,I Kissed A Girl,I Kissed A Girl - Instrumental,3tUhdGku6UQe1VE26YlOd1,0.694,0.0747,130.006,0.0344,9.27e-05,0.892,4,0.761,9,182133,-4.532,0.638
+Katy Perry,I Kissed A Girl,I Kissed A Girl - Nevins Rock Funkrokr Extended Mix,7GOnF3lhfl71H1Utg6zosA,0.59,0.111,134.025,0.151,0.00113,2.37e-05,4,0.775,2,410747,-4.598,0.578
+Katy Perry,I Kissed A Girl (Norman And Attalla Remix),I Kissed A Girl - Norman And Attalla Remix / Radio Edit,3RfVjsBuKRralvPOM0RMiB,0.816,0.516,128.048,0.0565,0.000166,0.000744,4,0.693,9,223600,-5.146,0.419
+Katy Perry,I Kissed A Girl (3-Track),I Kissed A Girl,1CVpqWBjdJkAqmqMHOY5XQ,0.682,0.0503,130.026,0.144,0.00125,0.204,4,0.824,9,209867,-4.624,0.39
+Katy Perry,I Kissed A Girl (3-Track),I Kissed A Girl - Nevins Rock Funkrokr Extended Mix,1UdaKJiL0McMD375tsFfCX,0.589,0.11,134.019,0.132,0.00113,4.25e-05,4,0.776,2,411867,-4.602,0.615
+Katy Perry,I Kissed A Girl (3-Track),I Kissed A Girl - Remix,3ALcj6YbObdpTqJoMLRzQR,0.782,0.0817,129.961,0.081,0.00233,0.0,4,0.682,9,183373,-3.444,0.694
+Katy Perry,Ur So Gay,Ur So Gay,66N2vLOjbT703PgY5GWWt1,0.838,0.129,78.992,0.0496,0.0372,6.38e-06,4,0.653,4,219880,-5.382,0.632
+Katy Perry,Ur So Gay,Ur So Gay - Remix,4G6LdYArGbsty0nj9H9jfO,0.747,0.0922,124.006,0.0613,0.00241,0.00251,4,0.757,11,354760,-8.038,0.471
+Katy Perry,Ur So Gay,Use Your Love,6HHH8rQ1HLH8iwYyTF0GBn,0.885,0.222,130.065,0.0416,0.00108,0.0,4,0.61,4,183093,-2.879,0.86
+Katy Perry,Ur So Gay,Lost,6wy19kBiI3Jvql5ZxuDf9a,0.53,0.161,179.971,0.0283,0.249,1.77e-06,4,0.378,0,260147,-6.526,0.18
+Bruno Mars,24K Magic,24K Magic,6b8Be6ljOzmkOmFslEb23P,0.803,0.153,106.97,0.0797,0.034,0.0,4,0.818,1,225983,-4.282,0.632
+Bruno Mars,24K Magic,Chunky,0mBKv9DkYfQHjdMcw2jdyI,0.539,0.125,202.103,0.116,0.0208,0.0,4,0.571,5,186973,-4.446,0.727
+Bruno Mars,24K Magic,Perm,1I6pKIyaBp4OebTGLJpCCC,0.871,0.198,124.021,0.0851,0.0145,6.84e-05,4,0.853,8,210053,-3.715,0.863
+Bruno Mars,24K Magic,That's What I Like,0KKkJNfGyhkQ5aFogxQAPU,0.56,0.0944,134.066,0.0406,0.013,0.0,4,0.853,1,206693,-4.961,0.86
+Bruno Mars,24K Magic,Versace on the Floor,0kN8xEmgMW9mh7UmDYHlJP,0.574,0.083,174.152,0.0454,0.196,0.0,4,0.578,2,261240,-6.209,0.301
+Bruno Mars,24K Magic,Straight up & Down,2mrZYZGmPFV3QOyYPZ1zsn,0.733,0.0858,143.56,0.0933,0.0209,0.0,4,0.552,3,198187,-6.898,0.643
+Bruno Mars,24K Magic,Calling All My Lovelies,6ObpR8ek44tvWefQRcSo8K,0.705,0.105,159.996,0.0399,0.0392,2.38e-06,4,0.662,1,250080,-6.56,0.865
+Bruno Mars,24K Magic,Finesse,5XMkENs3GfeRza8MfVAhjK,0.798,0.0232,104.953,0.0718,0.00781,0.0,4,0.741,5,191000,-5.342,0.939
+Bruno Mars,24K Magic,Too Good to Say Goodbye,0B0tYbVp7pDQAqKDhgMeaL,0.63,0.35,76.97,0.0311,0.0389,0.0,4,0.587,2,281827,-6.054,0.433
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Young Girls,5Pr2AFUNbDMo73grOJDWvy,0.749,0.205,125.986,0.032,0.461,1.82e-06,4,0.561,6,228720,-4.951,0.501
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Locked out of Heaven,2VoO0foG09SUeuat3wYLNG,0.698,0.309,143.994,0.0431,0.049,0.0,4,0.726,5,233478,-4.165,0.867
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Gorilla,13dX0sTiBQabys1vYMjmIk,0.544,0.0973,139.959,0.0371,0.445,5.16e-06,4,0.717,7,244493,-6.598,0.641
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Treasure,5rCuwVqnDRL45hxb7cm6SJ,0.692,0.324,116.017,0.0431,0.0412,7.24e-05,4,0.874,5,178560,-5.28,0.937
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Moonshine,6dvacupcEKreloCB9nkAsT,0.784,0.0813,104.98,0.0279,0.211,4.3e-06,4,0.705,2,228573,-4.351,0.418
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),When I Was Your Man,3Aj1JsbwzjCEKsYF6TtRKc,0.28,0.088,72.795,0.0434,0.932,0.0,4,0.612,0,213827,-8.648,0.387
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Natalie,1rZu1PXFKzO5AP9ODhgq1f,0.733,0.0647,111.975,0.0504,0.15,0.0,4,0.76,7,225027,-6.704,0.611
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Show Me,3TBAyGWDLOaaLW3g14AVAi,0.706,0.204,77.989,0.0535,0.0461,0.0,4,0.743,5,207560,-5.728,0.514
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Money Make Her Smile,0yxyY3XyGhWdkd22OILEHO,0.677,0.153,93.022,0.0709,0.0943,7.39e-05,4,0.754,0,203973,-6.555,0.78
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),If I Knew,0RuG8C8gJGv9QAy29DMZiQ,0.413,0.0854,175.972,0.0316,0.722,0.0,3,0.522,3,132640,-5.86,0.49
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Old & Crazy (feat. Esperanza Spalding),3zRfP7U300ogttIfwqB5HD,0.43,0.206,187.766,0.278,0.443,0.00047,4,0.566,8,113080,-10.464,0.828
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Young Girls - Demo,2OTH8T7TqMYt51baDvVEHQ,0.337,0.374,125.909,0.0312,0.862,0.0,4,0.631,9,218667,-8.624,0.489
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Gorilla - Demo,1Yl0H4Mn4xDVAFSJ0IM5t3,0.435,0.0579,139.829,0.0308,0.752,0.0,4,0.631,7,222747,-6.561,0.41
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Moonshine - The Futuristics Remix,03wqOqPhG7W8T83L7hOt4j,0.782,0.175,108.954,0.0561,0.000188,0.00225,4,0.654,7,221907,-4.924,0.594
+Bruno Mars,Unorthodox Jukebox (Deluxe Edition),Locked out of Heaven - Major Lazer Remix,1uQ8qCbeeA39xd1gIcaxgM,0.827,0.726,144.035,0.0325,0.000509,1.24e-06,4,0.686,0,244147,-4.063,0.648
+Bruno Mars,Unorthodox Jukebox,Young Girls,6aDzodSr4gqsMXAX8yt3bb,0.749,0.205,125.986,0.032,0.461,1.82e-06,4,0.561,6,228720,-4.951,0.501
+Bruno Mars,Unorthodox Jukebox,Locked out of Heaven,1qCdYQdkWvm4cYXAuOlbyc,0.698,0.309,143.994,0.0431,0.049,0.0,4,0.726,5,233478,-4.165,0.867
+Bruno Mars,Unorthodox Jukebox,Gorilla,1DKkwzIV0EefeF2c3xmVd3,0.562,0.0974,139.96,0.0381,0.453,4.5e-06,4,0.719,7,244480,-6.608,0.622
+Bruno Mars,Unorthodox Jukebox,Treasure,1GDrGx9VWaAgaekuddnLYq,0.699,0.0639,116.033,0.0349,0.0291,0.000121,4,0.872,5,176093,-5.071,0.934
+Bruno Mars,Unorthodox Jukebox,Moonshine,2VQjYduVaHdaQZmgOUKRwl,0.784,0.0813,104.98,0.0279,0.211,4.3e-06,4,0.705,2,228573,-4.351,0.418
+Bruno Mars,Unorthodox Jukebox,When I Was Your Man,4tLihrsL9WMgvI0n9R2bFS,0.28,0.088,72.795,0.0434,0.932,0.0,4,0.612,0,213827,-8.648,0.387
+Bruno Mars,Unorthodox Jukebox,Natalie,6hUjnRyUO3XYviWDPFMYKD,0.733,0.0647,111.975,0.0504,0.15,0.0,4,0.76,7,225027,-6.704,0.611
+Bruno Mars,Unorthodox Jukebox,Show Me,7iZrvmcuxYTqLfQiAV4orU,0.706,0.204,77.989,0.0535,0.0461,0.0,4,0.743,5,207560,-5.728,0.514
+Bruno Mars,Unorthodox Jukebox,Money Make Her Smile,39q0wI797G7wjG1vjiJ2wX,0.677,0.153,93.022,0.0709,0.0943,7.39e-05,4,0.754,0,203973,-6.555,0.78
+Bruno Mars,Unorthodox Jukebox,If I Knew,59FEtbdOJyPFpvxPITrvWe,0.413,0.0854,175.972,0.0316,0.722,0.0,3,0.522,3,132640,-5.86,0.49
+Bruno Mars,Doo-Wops & Hooligans,Grenade,4lLtanYk6tkMvooU0tWzG8,0.558,0.118,110.443,0.0593,0.146,0.0,4,0.706,2,223253,-7.237,0.227
+Bruno Mars,Doo-Wops & Hooligans,Just the Way You Are,47Slg6LuqLaX0VodpSCvPt,0.843,0.0876,109.012,0.0432,0.0151,0.0,4,0.637,5,220733,-5.413,0.434
+Bruno Mars,Doo-Wops & Hooligans,Our First Time,4LjkHlY5qDz0hhFJJH5M7a,0.451,0.276,77.998,0.0429,0.381,0.0,4,0.705,9,243013,-8.221,0.868
+Bruno Mars,Doo-Wops & Hooligans,Runaway Baby,7hCNBVRhHzcsRAv0TQnOzq,0.767,0.114,163.834,0.0396,0.25,0.0,4,0.656,11,147747,-3.038,0.871
+Bruno Mars,Doo-Wops & Hooligans,The Lazy Song,386RUes7n1uM1yfzgeUuwp,0.804,0.279,174.943,0.0621,0.332,0.0,4,0.738,11,190213,-3.851,0.949
+Bruno Mars,Doo-Wops & Hooligans,Marry You,6SKwQghsR8AISlxhcwyA9R,0.832,0.104,144.926,0.036,0.332,0.0,4,0.62,10,230120,-4.848,0.481
+Bruno Mars,Doo-Wops & Hooligans,Talking to the Moon,1wVuPmvt6AWvTL5W2GJnzZ,0.606,0.106,145.837,0.0301,0.512,0.0,4,0.523,1,217867,-4.754,0.065
+Bruno Mars,Doo-Wops & Hooligans,Liquor Store Blues (feat. Damian Marley),1ewMCmw7qCb5a9ttqiyemu,0.824,0.353,75.516,0.0731,0.11,0.0,4,0.691,1,229373,-3.925,0.685
+Bruno Mars,Doo-Wops & Hooligans,Count on Me,3B5UbSndRz907IZhhmUfLi,0.397,0.0772,89.044,0.028,0.84,0.0,4,0.577,0,197373,-5.98,0.509
+Bruno Mars,Doo-Wops & Hooligans,The Other Side (feat. CeeLo Green and B.o.B),78Z199FfQHt4VpnJzlYaIe,0.807,0.148,140.081,0.0304,0.117,4.46e-06,4,0.559,5,227760,-3.887,0.543
+Bruno Mars,Doo-Wops & Hooligans,Somewhere in Brooklyn,3P4v70V3Zt804r2c9dZivK,0.579,0.255,129.969,0.0412,0.569,0.0,4,0.701,10,181653,-5.673,0.349
+Bruno Mars,Doo-Wops & Hooligans,Talking to the Moon - Acoustic Piano,6YKT5HoPwjTwhHiCNQsBMK,0.333,0.107,101.145,0.0324,0.867,0.0,3,0.354,4,217773,-6.423,0.209
+Bruno Mars,Leave The Door Open (Live),Leave The Door Open - Live,1Ffw1qFqCw2IaozOJ5mL2O,0.683,0.984,147.837,0.0541,0.351,0.0,4,0.532,5,260270,-7.449,0.563
+Bruno Mars,Leave The Door Open (Live),Leave The Door Open,4SaGaLbcshvQ4admgCkYdP,0.616,0.0927,148.088,0.0324,0.182,0.0,4,0.586,5,242096,-7.964,0.719
+Bruno Mars,Leave The Door Open,Leave The Door Open,7MAibcTli4IisCtbHKrGMh,0.616,0.0927,148.088,0.0324,0.182,0.0,4,0.586,5,242096,-7.964,0.719
+Bruno Mars,Silk Sonic Intro,Silk Sonic Intro,6B80CiyrakAy7Nryb1PW9G,0.553,0.617,114.993,0.0759,0.097,3.91e-06,4,0.696,1,63060,-8.702,0.674
+Bruno Mars,BLOW (with Chris Stapleton & Bruno Mars),BLOW (with Chris Stapleton & Bruno Mars),6EbduYTr62sSzvl36wWiFM,0.796,0.38,92.469,0.0401,0.000245,0.0115,4,0.631,1,209120,-5.35,0.596
+Bruno Mars,Please Me,Please Me,0PG9fbaaHFHfre2gUVo7AN,0.57,0.0832,133.992,0.081,0.0642,0.0,4,0.747,1,200890,-6.711,0.65
+Bruno Mars,Wake Up in the Sky,Wake Up in the Sky,0QIjsbm2fh1cJ45XO9eGqq,0.578,0.359,143.01,0.0485,0.00381,0.0,4,0.8,4,204665,-5.144,0.367
+Bruno Mars,Finesse (Remix) [feat. Cardi B],Finesse - James Hype Remix; feat. Cardi B,04OERuULAbFq54j25v5dZ4,0.76,0.0577,122.877,0.106,0.28,3.63e-05,4,0.698,5,235732,-5.798,0.793
+Bruno Mars,Finesse (Remix) [feat. Cardi B],Finesse - Pink Panda Remix; feat. Cardi B,5LgFeUn0Jx8UVkPlrMbTOc,0.888,0.253,123.964,0.0828,0.0302,0.0,4,0.752,5,148064,-4.952,0.603
+Bruno Mars,Finesse (Remix) [feat. Cardi B],Finesse - Remix; feat. Cardi B,02iXInevQEAlihE3IPF0eh,0.859,0.0215,105.115,0.0996,0.0185,0.0,4,0.704,5,217289,-4.877,0.926
+Bruno Mars,Versace On The Floor (Bruno Mars vs. David Guetta),Versace on the Floor (Bruno Mars vs. David Guetta),5UJshy5HDHdNEVqlJwzsQB,0.701,0.0712,100.012,0.0429,0.108,0.0,4,0.747,2,228300,-4.902,0.589
+Bruno Mars,24K Magic (R3hab Remix),24K Magic - R3hab Remix,1nSzCAvAvzJj5oIt7m90G0,0.708,0.33,106.175,0.209,0.146,0.0,4,0.763,5,158678,-5.692,0.566
+Bruno Mars,That's What I Like (feat. Gucci Mane) [Remix],That's What I Like (feat. Gucci Mane),1BEMASUZQDqN5UGxMb1m6A,0.564,0.0849,134.071,0.0485,0.0171,0.0,4,0.854,1,234596,-4.964,0.899
+Bruno Mars,That's What I Like (Alan Walker Remix),That's What I Like - Alan Walker Remix,1KtU0WCq472KzqCXgMOxkS,0.896,0.199,134.056,0.0502,0.0121,6.59e-05,4,0.692,1,195889,-4.017,0.798
+Bruno Mars,That's What I Like (BLVK JVCK Remix),That's What I Like - BLVK JVCK Remix,4YS0JF9kSLe15ggwOQqQit,0.736,0.2,134.044,0.08,0.018,1.55e-06,4,0.755,1,225672,-5.386,0.875
+Bruno Mars,That's What I Like (PARTYNEXTDOOR Remix),That's What I Like - PARTYNEXTDOOR Remix,64TkpV7m7f09JY7K436pju,0.696,0.0921,134.032,0.0455,0.021,0.0,4,0.741,1,206697,-5.341,0.86
+Bruno Mars,Versace on the Floor,Versace on the Floor,3trg82Eql6tqi2EAxluhy8,0.574,0.083,174.152,0.0454,0.196,0.0,4,0.578,2,261240,-6.209,0.301
+Bruno Mars,Gorilla (feat. R. Kelly And Pharrell) [G-Mix],Gorilla (feat. R. Kelly and Pharrell) - G-Mix,7uVKvaDWDpss7Ldj9kypLX,0.512,0.0973,140.011,0.0383,0.497,0.0,4,0.737,7,265838,-6.649,0.517
+Bruno Mars,Treasure Remix EP,Treasure - Sharam Radio Remix,5k58Fbi1th2ITcaweRSbVq,0.761,0.214,125.03,0.0678,0.0219,0.00025,4,0.772,5,221177,-4.693,0.679
+Bruno Mars,Treasure Remix EP,Treasure - Audien Radio Edit,1vvK3Ey7LxgAFidEmU3QvC,0.869,0.82,126.043,0.136,0.00248,1.47e-05,4,0.61,3,232381,-3.473,0.462
+Bruno Mars,Treasure Remix EP,Treasure - Cash Cash Radio Mix,7dQGDSVjt1vS6BsDURjYhS,0.944,0.766,121.931,0.0996,0.101,0.0,4,0.664,5,208279,-2.027,0.745
+Bruno Mars,Treasure Remix EP,Treasure - Robert DeLong Radio Edit,3SReOm0IHFtzUGNEfpWH1V,0.646,0.313,116.018,0.13,0.0111,1.54e-06,4,0.716,3,178758,-5.725,0.78
+Bruno Mars,Treasure Remix EP,Treasure - Bailey Smalls Radio Edit,7cHZIHlewdmRCBmuOn4ssV,0.874,0.292,128.008,0.0605,0.24,0.000713,4,0.652,0,212903,-4.977,0.477
+Bruno Mars,Locked out of Heaven (Remix),Locked out of Heaven - CAZZETTE's Answering Machine Mix,7G0by64JaYIEnkFqDb1cZ6,0.764,0.114,127.997,0.073,0.0225,0.000239,4,0.785,2,401380,-4.634,0.636
+Bruno Mars,Locked out of Heaven (Remix),Locked out of Heaven - Sultan and Ned Shepard Remix,6AIxmLiDNHFQgZstB4lzDB,0.843,0.356,128.02,0.0484,0.00481,0.0473,4,0.588,2,410859,-5.25,0.22
+Bruno Mars,Locked out of Heaven (Remix),Locked out of Heaven - The M Machine Remix,5WlVx0a6VedSJ60JFYpRBp,0.822,0.096,170.009,0.044,0.028,2.05e-06,4,0.532,5,242823,-5.339,0.212
+Bruno Mars,Locked out of Heaven (Remix),Locked out of Heaven - Paul Oakenfold Remix,03BpMAiFJ0b9c47Ntt8MRf,0.91,0.493,130.021,0.0756,0.0371,0.000487,4,0.665,2,317538,-5.289,0.102
+Bruno Mars,Locked out of Heaven,Locked out of Heaven,5PsMbxhgWpJMsouEfDTX6r,0.698,0.309,143.994,0.0431,0.049,0.0,4,0.726,5,233478,-4.165,0.867
+Bruno Mars,It Will Rain,It Will Rain,0M3HkE321xpCbCYqVKzr1q,0.835,0.082,150.017,0.0486,0.337,0.0,4,0.576,2,257720,-6.826,0.476
+Bruno Mars,The Grenade Remixes,Grenade - Michael Meds Mix,01sdh37jvLGU1t2O6uxJbn,0.735,0.105,125.0,0.0644,0.107,2.12e-05,4,0.74,2,410880,-3.851,0.401
+Bruno Mars,The Grenade Remixes,Grenade - John de Sohn Mix,4Poz3qJ8a4NJWDGWDS3a94,0.689,0.0965,127.998,0.0489,0.00166,0.433,4,0.788,0,378613,-6.06,0.351
+Bruno Mars,The Grenade Sessions,Grenade,1WWR7F24UbFi06sfvcnvD8,0.558,0.118,110.443,0.0593,0.146,0.0,4,0.706,2,223253,-7.237,0.227
+Bruno Mars,The Grenade Sessions,Catch a Grenade - The Hooligans Remix,1EOWf8bsePF6QtiDUAclrJ,0.825,0.0681,119.982,0.0451,0.0496,0.0,4,0.803,2,210607,-2.394,0.96
+Bruno Mars,The Grenade Sessions,Grenade - Passion Pit Remix,7HjK2whApIuUgRVP8akqjk,0.701,0.058,108.992,0.0287,0.00388,0.0,4,0.705,5,370812,-4.314,0.591
+Bruno Mars,The Grenade Sessions,Grenade - Acoustic,7Cj2tT0m2SBeIO1PsGfk8A,0.394,0.0888,97.911,0.0305,0.818,0.0,4,0.643,2,249535,-6.305,0.364
+Bruno Mars,Just the Way You Are (Skrillex BatBoi Remix),Just the Way You Are - Skrillex BatBoi Remix,6H0uHtgOFj6EGmnJfVwXpx,0.61,0.125,127.963,0.231,0.00092,0.0,4,0.593,0,229943,-5.733,0.738
+Bruno Mars,Just the Way You Are (Remix),Just the Way You Are - Simon Steur Club Mix,30nRBCh0wGhKiTLNWN3k3L,0.697,0.0632,127.012,0.0394,7.73e-05,0.0591,4,0.642,6,337763,-5.748,0.0397
+Bruno Mars,Just the Way You Are (Remix),Just the Way You Are - Simon Steur Dub,66ckS4bg3DD2kNQEPWX2m3,0.723,0.0686,127.001,0.0379,4.08e-05,0.947,4,0.627,6,337782,-5.855,0.0422
+Bruno Mars,Just the Way You Are (Remix),Just the Way You Are - Carl Louis & Martin Danielle Club Mix,7Hg27Pwfh9iTgHUdGS5rTx,0.82,0.0608,127.005,0.114,0.0508,0.0211,4,0.465,0,319747,-6.264,0.614
+Bruno Mars,Just the Way You Are (Remix),Just the Way You Are - Carl Louis & Martin Danielle Classic Mix,3dkuTvO5013XHxiofIW9Qg,0.541,0.0804,127.002,0.0498,0.0183,0.000521,4,0.719,5,317887,-7.726,0.446
+Bruno Mars,Just the Way You Are (Remix),Just the Way You Are - Manufactured Superstars and Jquintal Remix,04T47lGsiQU6x1cV9GhgDN,0.694,0.0623,128.016,0.0895,0.0364,0.00351,4,0.741,0,444658,-6.544,0.768
+Bruno Mars,Just the Way You Are (Remix),Just the Way You Are - Steve Smart & Westfunk Club Mix,2GdcDOXu8HLFAP9hxANXb7,0.632,0.714,127.989,0.0447,0.000346,0.00058,4,0.724,0,426437,-8.433,0.802
+Bruno Mars,Just the Way You Are (Remix),Just the Way You Are - Skrillex BatBoi Remix,4vy0kVo1ygAIKTZU3F5OoT,0.61,0.125,127.963,0.231,0.00092,0.0,4,0.593,0,229943,-5.733,0.738
