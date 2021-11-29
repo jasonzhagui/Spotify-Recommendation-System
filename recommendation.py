@@ -6,8 +6,8 @@ from spotipy.oauth2 import SpotifyOAuth
 from sklearn.preprocessing import MinMaxScaler
 
 #Allows to access spotify API
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="7dbc3e0b536a4dc8aff8f0e09a6a2014",
-                                               client_secret="c3c5287f124d4621ae3383a3c307fad7",
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="",
+                                               client_secret="",
                                                redirect_uri="https://www.google.com/",
                                                scope="user-library-read playlist-modify-public"))
 
